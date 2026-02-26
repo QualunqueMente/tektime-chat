@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tektime Assistant</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f2f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    header {
+      width: 100%;
+      background: #1a1a2e;
+      color: white;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+
+    header h1 {
+      font-size: 1.3rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    #chat-container {
+      width: 100%;
+      max-width: 800px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 20px 16px;
+      gap: 12px;
+      overflow-y: auto;
+      min-height: calc(100vh - 140px);
+    }
+
+    .message {
+      max-width: 75%;
+      padding: 12px 16px;
+      border-radius: 16px;
+      line-height: 1.6;
+      font-size: 0.95rem;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      animation: fadeIn 0.2s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .user-message {
+      background: #1a1a2e;
+      color: white;
+      align-self: flex-end;
+      border-bottom-right-radius: 4px;
+    }
+
+    .bot-message {
+      background: white;
+      color: #1a1a2e;
+      align-self: flex-start;
+      border-bottom-left-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .error-message {
+      background: #ffe0e0;
+      color: #c0392b;
+      align-self: center;
+      border-radius: 12px;
+      font-size: 0.85rem;
+    }
+
+    .typing-indicator {
+      display: flex;
+      gap: 5px;
+      padding: 14px 18px;
+      background: white;
+      border-radius: 16px;
+      border-bottom-left-radius: 4px;
+      align-self: flex-start;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .typing-indicator span {
+      width: 8px;
+      height: 8px;
+      background: #999;
+      border-radius: 50%;
+      animation: bounce 1.2s infinite;
+    }
+
+    .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+    .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+
+    @keyframes bounce {
+      0%, 60%, 100% { transform: translateY(0); }
+      30% { transform: translateY(-6px); }
+    }
+
+    #input-area {
+      width: 100%;
+      max-width: 800px;
+      display: flex;
+      gap: 10px;
+      padding: 12px 16px;
+      background: white;
+      border-top: 1px solid #e0e0e0;
+      position: sticky;
+      bottom: 0;
+    }
+
+    #user-input {
+      flex: 1;
+      padding: 12px 16px;
+      border: 1.5px solid #ddd;
+      border-radius: 24px;
+      font-size: 0.95rem;
+      outline: none;
+      resize: none;
+      max-height: 120px;
+      transition: border 0.2s;
+      font-family: inherit;
+    }
+
+    #user-input:focus { border-color: #1a1a2e; }
+
+    #send-btn {
+      background: #1a1a2e;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 46px;
+      height: 46px;
+      cursor: pointer;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s, transform 0.1s;
+      flex-shrink: 0;
+    }
+
+    #send-btn:hover  { background: #16213e; }
+    #send-btn:active { transform: scale(0.95); }
+    #send-btn:disabled { background: #aaa; cursor: not-allowed; }
+
+    .welcome {
+      text-align: center;
+      color: #888;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    .welcome h2 { font-size: 1.4rem; color: #1a1a2e; margin-bottom: 8px; }
+    .welcome p  { font-size: 0.9rem; line-height: 1.8; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🌐 Tektime Assistant</h1>
+</header>
+
+<div id="chat-container">
+  <div class="welcome">
+    <h2>Welcome to Tektime Assistant</h2>
+    <p>
+      Ask me anything about Tektime services.<br/>
+      Puedes preguntar en cualquier idioma.<br/>
+      Puoi fare domande in qualsiasi lingua.
+    </p>
+  </div>
+</div>
+
+<div id="input-area">
+  <textarea id="user-input" rows="1" placeholder="Ask a question... / Fai una domanda..."></textarea>
+  <button id="send-btn" title="Send">&#9658;</button>
+</div>
+
+<script>
+  // =============================================
+  // CONFIGURAZIONE
+  // =============================================
+  const GEMINI_API_KEY = "AIzaSyD3S6HiswBIZs4uuM1Ol37XXhb2_oK_0X0";
+  const MODEL          = "gemini-2.0-flash";
+  // =============================================
+
+  const chatContainer = document.getElementById("chat-container");
+  const userInput     = document.getElementById("user-input");
+  const sendBtn       = document.getElementById("send-btn");
+
+  let documentContent      = "";
+  let conversationHistory  = [];
+  let welcomeRemoved       = false;
+
+  // --- Carica documento dalla root di Vercel ---
+  async function loadDocument() {
+    const paths = ["./documento.txt", "/documento.txt"];
+    for (const path of paths) {
+      try {
+        const res = await fetch(path);
+        if (res.ok) {
+          documentContent = await res.text();
+          console.log("Documento caricato da:", path, "—", documentContent.length, "caratteri");
+          return;
+        }
+      } catch (e) {
+        // prova il percorso successivo
+      }
+    }
+    addMessage("⚠️ Documento non trovato. Assicurati che documento.txt sia nella root del repository.", "error");
+  }
+
+  // --- UI helpers ---
+  function removeWelcome() {
+    if (!welcomeRemoved) {
+      const w = chatContainer.querySelector(".welcome");
+      if (w) w.remove();
+      welcomeRemoved = true;
+    }
+  }
+
+  function addMessage(text, type) {
+    removeWelcome();
+    const div = document.createElement("div");
+    div.className = `message ${type}-message`;
+    div.textContent = text;
+    chatContainer.appendChild(div);
+    chatContainer.scrollTop = chatContainer.scrollHeight;
+    return div;
+  }
+
+  function showTyping() {
+    removeWelcome();
+    const div = document.createElement("div");
+    div.className = "typing-indicator";
+    div.id = "typing";
+    div.innerHTML = "<span></span><span></span><span></span>";
+    chatContainer.appendChild(div);
+    chatContainer.scrollTop = chatContainer.scrollHeight;
+  }
+
+  function removeTyping() {
+    const t = document.getElementById("typing");
+    if (t) t.remove();
+  }
+
+  // --- Invia messaggio a Gemini ---
+  async function sendMessage() {
+    const text = userInput.value.trim();
+    if (!text) return;
+
+    if (!documentContent) {
+      addMessage("⚠️ Il documento non è ancora caricato. Attendi o ricarica la pagina.", "error");
+      return;
+    }
+
+    addMessage(text, "user");
+    userInput.value = "";
+    userInput.style.height = "auto";
+    sendBtn.disabled = true;
+    showTyping();
+
+    conversationHistory.push({ role: "user", parts: [{ text }] });
+
+    const systemInstruction = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
+
+RULES:
+1. Answer ONLY using the information contained in the document below. Do not use any external knowledge.
+2. Always reply in the SAME LANGUAGE the user used to write their question (auto-detect language).
+3. If the answer is not found in the document, politely say you don't have that information and invite the user to contact Tektime directly.
+4. Be friendly, professional, and concise.
+
+=== TEKTIME DOCUMENT START ===
+${documentContent}
+=== TEKTIME DOCUMENT END ===`;
+
+    const payload = {
+      system_instruction: { parts: [{ text: systemInstruction }] },
+      contents: conversationHistory,
+      generationConfig: {
+        temperature: 0.2,
+        maxOutputTokens: 1024
+      }
+    };
+
+    try {
+      const res = await fetch(
+        `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${GEMINI_API_KEY}`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload)
+        }
+      );
+
+      const data = await res.json();
+
+      if (!res.ok) {
+        throw new Error(data.error?.message || "Errore API Gemini");
+      }
+
+      const reply = data.candidates?.[0]?.content?.parts?.[0]?.text;
+      if (!reply) throw new Error("Risposta vuota da Gemini");
+
+      removeTyping();
+      addMessage(reply, "bot");
+      conversationHistory.push({ role: "model", parts: [{ text: reply }] });
+
+      // Mantieni max 20 messaggi in memoria (10 turni)
+      if (conversationHistory.length > 20) {
+        conversationHistory = conversationHistory.slice(-20);
+      }
+
+    } catch (e) {
+      removeTyping();
+      addMessage("⚠️ Errore: " + e.message, "error");
+      conversationHistory.pop();
+    } finally {
+      sendBtn.disabled = false;
+      userInput.focus();
+    }
+  }
+
+  // --- Auto-resize textarea ---
+  userInput.addEventListener("input", () => {
+    userInput.style.height = "auto";
+    userInput.style.height = Math.min(userInput.scrollHeight, 120) + "px";
+  });
+
+  // --- Enter per inviare, Shift+Enter per newline ---
+  userInput.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
+      sendMessage();
+    }
+  });
+
+  sendBtn.addEventListener("click", sendMessage);
+
+  // --- Avvio ---
+  loadDocument();
+</script>
+
+</body>
+</html>
