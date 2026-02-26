@@ -25,7 +25,7 @@ export default async function handler(req, res) {
         "X-Title": "Tektime Assistant"
       },
       body: JSON.stringify({
-        model: "google/gemini-2.0-flash-exp:free",
+        model: "meta-llama/llama-3.3-70b-instruct:free",
         messages: messages,
         temperature: 0.2,
         max_tokens: 1024
