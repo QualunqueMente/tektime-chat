@@ -8,7 +8,7 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: 'Segoe UI', sans-serif;
+      font-family: "Segoe UI", sans-serif;
       background: #f0f2f5;
       display: flex;
       flex-direction: column;
@@ -27,11 +27,7 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     }
 
-    header h1 {
-      font-size: 1.3rem;
-      font-weight: 600;
-      letter-spacing: 0.5px;
-    }
+    header h1 { font-size: 1.3rem; font-weight: 600; letter-spacing: 0.5px; }
 
     #chat-container {
       width: 100%;
@@ -97,8 +93,7 @@
     }
 
     .typing-indicator span {
-      width: 8px;
-      height: 8px;
+      width: 8px; height: 8px;
       background: #999;
       border-radius: 50%;
       animation: bounce 1.2s infinite;
@@ -173,7 +168,7 @@
 <body>
 
 <header>
-  <h1>🌐 Tektime Assistant</h1>
+  <h1>&#127760; Tektime Assistant</h1>
 </header>
 
 <div id="chat-container">
@@ -193,14 +188,6 @@
 </div>
 
 <script>
-  // =============================================
-  // CONFIGURAZIONE — sostituisci con la tua key
-  // =============================================
-  const OPENROUTER_API_KEY = "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";  // sk-or-...
-  const MODEL              = "google/gemini-2.0-flash-exp:free";
-  const DOCUMENT_URL       = "./documento.txt";
-  // =============================================
-
   const chatContainer = document.getElementById("chat-container");
   const userInput     = document.getElementById("user-input");
   const sendBtn       = document.getElementById("send-btn");
@@ -209,20 +196,17 @@
   let conversationHistory = [];
   let welcomeRemoved      = false;
 
-  // --- Carica documento all'avvio ---
   async function loadDocument() {
     try {
-      const res = await fetch(DOCUMENT_URL);
-      if (!res.ok) throw new Error("File non trovato (status " + res.status + ")");
+      const res = await fetch("./documento.txt");
+      if (!res.ok) throw new Error("status " + res.status);
       documentContent = await res.text();
       console.log("Documento caricato: " + documentContent.length + " caratteri");
     } catch (e) {
-      console.error("Errore:", e);
-      addMessage("⚠️ Documento non trovato. Assicurati che documento.txt sia nella root del repository.", "error");
+      addMessage("Documento non trovato. Assicurati che documento.txt sia nella root del repository.", "error");
     }
   }
 
-  // --- UI helpers ---
   function removeWelcome() {
     if (!welcomeRemoved) {
       const w = chatContainer.querySelector(".welcome");
@@ -256,13 +240,12 @@
     if (t) t.remove();
   }
 
-  // --- Invia messaggio a OpenRouter ---
   async function sendMessage() {
     const text = userInput.value.trim();
     if (!text) return;
 
     if (!documentContent) {
-      addMessage("⚠️ Il documento non è ancora caricato. Attendi o ricarica la pagina.", "error");
+      addMessage("Il documento non e ancora caricato. Attendi o ricarica la pagina.", "error");
       return;
     }
 
@@ -272,7 +255,6 @@
     sendBtn.disabled = true;
     showTyping();
 
-    // System prompt con documento incorporato
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
 
 RULES:
@@ -285,35 +267,24 @@ RULES:
 ${documentContent}
 === TEKTIME DOCUMENT END ===`;
 
-    // Costruisci i messaggi per OpenRouter (formato OpenAI-compatibile)
     const messages = [
       { role: "system", content: systemPrompt },
-      ...conversationHistory
+      ...conversationHistory,
+      { role: "user", content: text }
     ];
 
-    const payload = {
-      model: MODEL,
-      messages: messages,
-      temperature: 0.2,
-      max_tokens: 1024
-    };
-
     try {
-      const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+      // Chiama il proxy serverless su Vercel (nessuna key nel browser)
+      const res = await fetch("/api/chat", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": "Bearer " + OPENROUTER_API_KEY,
-          "HTTP-Referer": window.location.origin,
-          "X-Title": "Tektime Assistant"
-        },
-        body: JSON.stringify(payload)
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ messages })
       });
 
       const data = await res.json();
 
       if (!res.ok) {
-        throw new Error(data.error?.message || "Errore API OpenRouter (" + res.status + ")");
+        throw new Error(data.error || "Errore server (" + res.status + ")");
       }
 
       const reply = data.choices?.[0]?.message?.content;
@@ -322,31 +293,27 @@ ${documentContent}
       removeTyping();
       addMessage(reply, "bot");
 
-      // Aggiorna cronologia (senza system prompt, che è fisso)
       conversationHistory.push({ role: "user",      content: text  });
       conversationHistory.push({ role: "assistant", content: reply });
 
-      // Mantieni max 20 messaggi in memoria (10 turni)
       if (conversationHistory.length > 20) {
         conversationHistory = conversationHistory.slice(-20);
       }
 
     } catch (e) {
       removeTyping();
-      addMessage("⚠️ Errore: " + e.message, "error");
+      addMessage("Errore: " + e.message, "error");
     } finally {
       sendBtn.disabled = false;
       userInput.focus();
     }
   }
 
-  // --- Auto-resize textarea ---
   userInput.addEventListener("input", () => {
     userInput.style.height = "auto";
     userInput.style.height = Math.min(userInput.scrollHeight, 120) + "px";
   });
 
-  // --- Enter per inviare, Shift+Enter per newline ---
   userInput.addEventListener("keydown", (e) => {
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
@@ -355,8 +322,6 @@ ${documentContent}
   });
 
   sendBtn.addEventListener("click", sendMessage);
-
-  // --- Avvio ---
   loadDocument();
 </script>
 
