@@ -82,6 +82,7 @@
       align-self: center;
       border-radius: 12px;
       font-size: 0.85rem;
+      max-width: 90%;
     }
 
     .typing-indicator {
@@ -108,7 +109,7 @@
 
     @keyframes bounce {
       0%, 60%, 100% { transform: translateY(0); }
-      30% { transform: translateY(-6px); }
+      30%            { transform: translateY(-6px); }
     }
 
     #input-area {
@@ -193,36 +194,32 @@
 
 <script>
   // =============================================
-  // CONFIGURAZIONE
+  // CONFIGURAZIONE — sostituisci con la tua key
   // =============================================
-  const GEMINI_API_KEY = "AIzaSyD3S6HiswBIZs4uuM1Ol37XXhb2_oK_0X0";
-  const MODEL          = "gemini-2.0-flash";
+  const OPENROUTER_API_KEY = "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";  // sk-or-...
+  const MODEL              = "google/gemini-2.0-flash-exp:free";
+  const DOCUMENT_URL       = "./documento.txt";
   // =============================================
 
   const chatContainer = document.getElementById("chat-container");
   const userInput     = document.getElementById("user-input");
   const sendBtn       = document.getElementById("send-btn");
 
-  let documentContent      = "";
-  let conversationHistory  = [];
-  let welcomeRemoved       = false;
+  let documentContent     = "";
+  let conversationHistory = [];
+  let welcomeRemoved      = false;
 
-  // --- Carica documento dalla root di Vercel ---
+  // --- Carica documento all'avvio ---
   async function loadDocument() {
-    const paths = ["./documento.txt", "/documento.txt"];
-    for (const path of paths) {
-      try {
-        const res = await fetch(path);
-        if (res.ok) {
-          documentContent = await res.text();
-          console.log("Documento caricato da:", path, "—", documentContent.length, "caratteri");
-          return;
-        }
-      } catch (e) {
-        // prova il percorso successivo
-      }
+    try {
+      const res = await fetch(DOCUMENT_URL);
+      if (!res.ok) throw new Error("File non trovato (status " + res.status + ")");
+      documentContent = await res.text();
+      console.log("Documento caricato: " + documentContent.length + " caratteri");
+    } catch (e) {
+      console.error("Errore:", e);
+      addMessage("⚠️ Documento non trovato. Assicurati che documento.txt sia nella root del repository.", "error");
     }
-    addMessage("⚠️ Documento non trovato. Assicurati che documento.txt sia nella root del repository.", "error");
   }
 
   // --- UI helpers ---
@@ -237,7 +234,7 @@
   function addMessage(text, type) {
     removeWelcome();
     const div = document.createElement("div");
-    div.className = `message ${type}-message`;
+    div.className = "message " + type + "-message";
     div.textContent = text;
     chatContainer.appendChild(div);
     chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -259,7 +256,7 @@
     if (t) t.remove();
   }
 
-  // --- Invia messaggio a Gemini ---
+  // --- Invia messaggio a OpenRouter ---
   async function sendMessage() {
     const text = userInput.value.trim();
     if (!text) return;
@@ -275,51 +272,59 @@
     sendBtn.disabled = true;
     showTyping();
 
-    conversationHistory.push({ role: "user", parts: [{ text }] });
-
-    const systemInstruction = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
+    // System prompt con documento incorporato
+    const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
 
 RULES:
 1. Answer ONLY using the information contained in the document below. Do not use any external knowledge.
 2. Always reply in the SAME LANGUAGE the user used to write their question (auto-detect language).
-3. If the answer is not found in the document, politely say you don't have that information and invite the user to contact Tektime directly.
+3. If the answer is not found in the document, politely say you do not have that information and invite the user to contact Tektime directly.
 4. Be friendly, professional, and concise.
 
 === TEKTIME DOCUMENT START ===
 ${documentContent}
 === TEKTIME DOCUMENT END ===`;
 
+    // Costruisci i messaggi per OpenRouter (formato OpenAI-compatibile)
+    const messages = [
+      { role: "system", content: systemPrompt },
+      ...conversationHistory
+    ];
+
     const payload = {
-      system_instruction: { parts: [{ text: systemInstruction }] },
-      contents: conversationHistory,
-      generationConfig: {
-        temperature: 0.2,
-        maxOutputTokens: 1024
-      }
+      model: MODEL,
+      messages: messages,
+      temperature: 0.2,
+      max_tokens: 1024
     };
 
     try {
-      const res = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${GEMINI_API_KEY}`,
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(payload)
-        }
-      );
+      const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": "Bearer " + OPENROUTER_API_KEY,
+          "HTTP-Referer": window.location.origin,
+          "X-Title": "Tektime Assistant"
+        },
+        body: JSON.stringify(payload)
+      });
 
       const data = await res.json();
 
       if (!res.ok) {
-        throw new Error(data.error?.message || "Errore API Gemini");
+        throw new Error(data.error?.message || "Errore API OpenRouter (" + res.status + ")");
       }
 
-      const reply = data.candidates?.[0]?.content?.parts?.[0]?.text;
-      if (!reply) throw new Error("Risposta vuota da Gemini");
+      const reply = data.choices?.[0]?.message?.content;
+      if (!reply) throw new Error("Risposta vuota dal modello");
 
       removeTyping();
       addMessage(reply, "bot");
-      conversationHistory.push({ role: "model", parts: [{ text: reply }] });
+
+      // Aggiorna cronologia (senza system prompt, che è fisso)
+      conversationHistory.push({ role: "user",      content: text  });
+      conversationHistory.push({ role: "assistant", content: reply });
 
       // Mantieni max 20 messaggi in memoria (10 turni)
       if (conversationHistory.length > 20) {
@@ -329,7 +334,6 @@ ${documentContent}
     } catch (e) {
       removeTyping();
       addMessage("⚠️ Errore: " + e.message, "error");
-      conversationHistory.pop();
     } finally {
       sendBtn.disabled = false;
       userInput.focus();
