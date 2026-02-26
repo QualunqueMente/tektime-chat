@@ -25,7 +25,7 @@ export default async function handler(req, res) {
         "X-Title": "Tektime Assistant"
       },
       body: JSON.stringify({
-        model: "openrouter/cypher-alpha:free",
+        model: "openrouter/free",
         messages: messages,
         temperature: 0.2,
         max_tokens: 1024
