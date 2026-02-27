@@ -25,7 +25,7 @@ export default async function handler(req, res) {
       body: JSON.stringify({
         model: "openrouter/free",
         messages: messages,
-        temperature: 0.15,
+        temperature: 0.1,
         max_tokens: 1024,
         stream: true
       })
