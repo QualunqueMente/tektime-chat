@@ -18,7 +18,7 @@
       background: #f0f2f5;
       display: flex;
       flex-direction: column;
-      height: 100dvh;
+      height: 100dvh; /* dynamic viewport height — fondamentale su mobile */
     }
 
     header {
@@ -33,7 +33,11 @@
       flex-shrink: 0;
     }
 
-    header h1 { font-size: 1.1rem; font-weight: 600; letter-spacing: 0.3px; }
+    header h1 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
 
     #chat-container {
       flex: 1;
@@ -79,7 +83,6 @@
       align-self: flex-start;
       border-bottom-left-radius: 4px;
       box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-      white-space: normal;
     }
 
     .bot-message.streaming::after {
@@ -91,29 +94,6 @@
     @keyframes blink {
       0%, 100% { opacity: 1; }
       50%       { opacity: 0; }
-    }
-
-    /* Stili Markdown nelle risposte */
-    .bot-message strong { font-weight: 700; }
-    .bot-message em     { font-style: italic; }
-    .bot-message h1, .bot-message h2, .bot-message h3 {
-      margin: 8px 0 4px 0;
-      font-size: 1rem;
-      color: #1a1a2e;
-      font-weight: 700;
-    }
-    .bot-message ul, .bot-message ol {
-      padding-left: 20px;
-      margin: 6px 0;
-    }
-    .bot-message li   { margin: 3px 0; }
-    .bot-message p    { margin: 4px 0; }
-    .bot-message code {
-      background: #f0f0f0;
-      padding: 1px 5px;
-      border-radius: 4px;
-      font-family: monospace;
-      font-size: 0.85em;
     }
 
     .error-message {
@@ -159,6 +139,7 @@
       background: white;
       border-top: 1px solid #e0e0e0;
       flex-shrink: 0;
+      /* evita che la tastiera mobile nasconda la casella */
       padding-bottom: max(10px, env(safe-area-inset-bottom));
     }
 
@@ -167,7 +148,7 @@
       padding: 10px 14px;
       border: 1.5px solid #ddd;
       border-radius: 24px;
-      font-size: 1rem;
+      font-size: 1rem; /* minimo 16px su iOS evita lo zoom automatico */
       outline: none;
       resize: none;
       max-height: 100px;
@@ -243,6 +224,8 @@
   let conversationHistory = [];
   let welcomeRemoved      = false;
 
+  // Su mobile, quando si apre la tastiera il viewport cambia:
+  // scorriamo in basso per tenere visibile l ultima risposta
   if (typeof visualViewport !== "undefined") {
     visualViewport.addEventListener("resize", () => {
       chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -259,24 +242,6 @@
     }
   }
 
-  // Converte Markdown in HTML
-  function parseMarkdown(text) {
-    return text
-      .replace(/&/g,  "&amp;")
-      .replace(/</g,  "&lt;")
-      .replace(/>/g,  "&gt;")
-      .replace(/\*\*(.+?)\*\*/gs, "<strong>$1</strong>")
-      .replace(/__(.+?)__/gs,       "<strong>$1</strong>")
-      .replace(/\*(.+?)\*/gs,       "<em>$1</em>")
-      .replace(/_(.+?)_/gs,          "<em>$1</em>")
-      .replace(/^### (.+)$/gm,       "<h3>$1</h3>")
-      .replace(/^## (.+)$/gm,        "<h2>$1</h2>")
-      .replace(/^# (.+)$/gm,         "<h1>$1</h1>")
-      .replace(/^[-*] (.+)$/gm,      "<li>$1</li>")
-      .replace(/`(.+?)`/g,           "<code>$1</code>")
-      .replace(/\n/g,               "<br>");
-  }
-
   function removeWelcome() {
     if (!welcomeRemoved) {
       const w = chatContainer.querySelector(".welcome");
@@ -289,11 +254,7 @@
     removeWelcome();
     const div = document.createElement("div");
     div.className = "message " + type + "-message";
-    if (type === "bot") {
-      div.innerHTML = parseMarkdown(text);
-    } else {
-      div.textContent = text;
-    }
+    div.textContent = text;
     chatContainer.appendChild(div);
     chatContainer.scrollTop = chatContainer.scrollHeight;
     return div;
@@ -328,6 +289,8 @@
     userInput.style.height = "auto";
     sendBtn.disabled = true;
     showTyping();
+
+    // Nascondi tastiera su mobile dopo invio
     userInput.blur();
 
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
@@ -387,7 +350,7 @@ ${documentContent}
             const token = json.choices?.[0]?.delta?.content || "";
             if (token) {
               fullReply += token;
-              botDiv.innerHTML = parseMarkdown(fullReply);
+              botDiv.textContent = fullReply;
               chatContainer.scrollTop = chatContainer.scrollHeight;
             }
           } catch (_) {}
