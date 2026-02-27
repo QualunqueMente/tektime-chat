@@ -2,54 +2,67 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <title>Tektime Assistant</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+    }
 
     body {
       font-family: "Segoe UI", sans-serif;
       background: #f0f2f5;
       display: flex;
       flex-direction: column;
-      align-items: center;
-      min-height: 100vh;
+      height: 100dvh; /* dynamic viewport height — fondamentale su mobile */
     }
 
     header {
       width: 100%;
       background: #1a1a2e;
       color: white;
-      padding: 16px 24px;
+      padding: 14px 20px;
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      flex-shrink: 0;
     }
 
-    header h1 { font-size: 1.3rem; font-weight: 600; letter-spacing: 0.5px; }
+    header h1 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
 
     #chat-container {
-      width: 100%;
-      max-width: 800px;
       flex: 1;
       display: flex;
       flex-direction: column;
-      padding: 20px 16px;
-      gap: 12px;
+      padding: 16px 12px;
+      gap: 10px;
       overflow-y: auto;
-      min-height: calc(100vh - 140px);
+      -webkit-overflow-scrolling: touch;
     }
 
     .message {
-      max-width: 75%;
-      padding: 12px 16px;
+      max-width: 80%;
+      padding: 10px 14px;
       border-radius: 16px;
       line-height: 1.6;
-      font-size: 0.95rem;
+      font-size: 0.92rem;
       white-space: pre-wrap;
       word-wrap: break-word;
       animation: fadeIn 0.2s ease;
+    }
+
+    @media (min-width: 600px) {
+      .message { max-width: 75%; font-size: 0.95rem; }
+      #chat-container { padding: 20px 16px; }
     }
 
     @keyframes fadeIn {
@@ -72,9 +85,8 @@
       box-shadow: 0 1px 4px rgba(0,0,0,0.08);
     }
 
-    /* Cursore lampeggiante durante lo streaming */
     .bot-message.streaming::after {
-      content: "▋";
+      content: "\25AE";
       animation: blink 0.7s infinite;
       color: #1a1a2e;
     }
@@ -91,12 +103,13 @@
       border-radius: 12px;
       font-size: 0.85rem;
       max-width: 90%;
+      padding: 10px 14px;
     }
 
     .typing-indicator {
       display: flex;
       gap: 5px;
-      padding: 14px 18px;
+      padding: 12px 16px;
       background: white;
       border-radius: 16px;
       border-bottom-left-radius: 4px;
@@ -120,28 +133,29 @@
     }
 
     #input-area {
-      width: 100%;
-      max-width: 800px;
       display: flex;
-      gap: 10px;
-      padding: 12px 16px;
+      gap: 8px;
+      padding: 10px 12px;
       background: white;
       border-top: 1px solid #e0e0e0;
-      position: sticky;
-      bottom: 0;
+      flex-shrink: 0;
+      /* evita che la tastiera mobile nasconda la casella */
+      padding-bottom: max(10px, env(safe-area-inset-bottom));
     }
 
     #user-input {
       flex: 1;
-      padding: 12px 16px;
+      padding: 10px 14px;
       border: 1.5px solid #ddd;
       border-radius: 24px;
-      font-size: 0.95rem;
+      font-size: 1rem; /* minimo 16px su iOS evita lo zoom automatico */
       outline: none;
       resize: none;
-      max-height: 120px;
+      max-height: 100px;
+      min-height: 42px;
       transition: border 0.2s;
       font-family: inherit;
+      line-height: 1.4;
     }
 
     #user-input:focus { border-color: #1a1a2e; }
@@ -151,30 +165,32 @@
       color: white;
       border: none;
       border-radius: 50%;
-      width: 46px;
-      height: 46px;
+      width: 44px;
+      height: 44px;
+      min-width: 44px;
       cursor: pointer;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: background 0.2s, transform 0.1s;
       flex-shrink: 0;
+      align-self: flex-end;
     }
 
     #send-btn:hover  { background: #16213e; }
-    #send-btn:active { transform: scale(0.95); }
+    #send-btn:active { transform: scale(0.93); }
     #send-btn:disabled { background: #aaa; cursor: not-allowed; }
 
     .welcome {
       text-align: center;
       color: #888;
       margin: auto;
-      padding: 40px 20px;
+      padding: 30px 16px;
     }
 
-    .welcome h2 { font-size: 1.4rem; color: #1a1a2e; margin-bottom: 8px; }
-    .welcome p  { font-size: 0.9rem; line-height: 1.8; }
+    .welcome h2 { font-size: 1.2rem; color: #1a1a2e; margin-bottom: 10px; }
+    .welcome p  { font-size: 0.88rem; line-height: 1.8; }
   </style>
 </head>
 <body>
@@ -195,7 +211,7 @@
 </div>
 
 <div id="input-area">
-  <textarea id="user-input" rows="1" placeholder="Ask a question... / Fai una domanda..."></textarea>
+  <textarea id="user-input" rows="1" placeholder="Ask / Scrivi..."></textarea>
   <button id="send-btn" title="Send">&#9658;</button>
 </div>
 
@@ -208,14 +224,21 @@
   let conversationHistory = [];
   let welcomeRemoved      = false;
 
+  // Su mobile, quando si apre la tastiera il viewport cambia:
+  // scorriamo in basso per tenere visibile l ultima risposta
+  if (typeof visualViewport !== "undefined") {
+    visualViewport.addEventListener("resize", () => {
+      chatContainer.scrollTop = chatContainer.scrollHeight;
+    });
+  }
+
   async function loadDocument() {
     try {
       const res = await fetch("./documento.txt");
       if (!res.ok) throw new Error("status " + res.status);
       documentContent = await res.text();
-      console.log("Documento caricato: " + documentContent.length + " caratteri");
     } catch (e) {
-      addMessage("Documento non trovato. Assicurati che documento.txt sia nella root del repository.", "error");
+      addMessage("Documento non trovato. Controlla che documento.txt sia nella root del repository.", "error");
     }
   }
 
@@ -267,6 +290,9 @@
     sendBtn.disabled = true;
     showTyping();
 
+    // Nascondi tastiera su mobile dopo invio
+    userInput.blur();
+
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
 
 RULES:
@@ -299,7 +325,6 @@ ${documentContent}
 
       removeTyping();
 
-      // Crea la bolla di risposta vuota con cursore lampeggiante
       const botDiv = addMessage("", "bot");
       botDiv.classList.add("streaming");
 
@@ -314,13 +339,12 @@ ${documentContent}
 
         buffer += decoder.decode(value, { stream: true });
         const lines = buffer.split("\n");
-        buffer = lines.pop(); // tieni l ultima riga incompleta
+        buffer = lines.pop();
 
         for (const line of lines) {
           if (!line.startsWith("data: ")) continue;
           const data = line.slice(6).trim();
           if (data === "[DONE]") continue;
-
           try {
             const json  = JSON.parse(data);
             const token = json.choices?.[0]?.delta?.content || "";
@@ -333,7 +357,6 @@ ${documentContent}
         }
       }
 
-      // Rimuovi cursore lampeggiante a fine streaming
       botDiv.classList.remove("streaming");
 
       if (fullReply) {
@@ -349,13 +372,12 @@ ${documentContent}
       addMessage("Errore: " + e.message, "error");
     } finally {
       sendBtn.disabled = false;
-      userInput.focus();
     }
   }
 
   userInput.addEventListener("input", () => {
     userInput.style.height = "auto";
-    userInput.style.height = Math.min(userInput.scrollHeight, 120) + "px";
+    userInput.style.height = Math.min(userInput.scrollHeight, 100) + "px";
   });
 
   userInput.addEventListener("keydown", (e) => {
