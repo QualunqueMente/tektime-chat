@@ -72,6 +72,18 @@
       box-shadow: 0 1px 4px rgba(0,0,0,0.08);
     }
 
+    /* Cursore lampeggiante durante lo streaming */
+    .bot-message.streaming::after {
+      content: "▋";
+      animation: blink 0.7s infinite;
+      color: #1a1a2e;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+
     .error-message {
       background: #ffe0e0;
       color: #c0392b;
@@ -274,30 +286,62 @@ ${documentContent}
     ];
 
     try {
-      // Chiama il proxy serverless su Vercel (nessuna key nel browser)
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ messages })
       });
 
-      const data = await res.json();
-
       if (!res.ok) {
-        throw new Error(data.error || "Errore server (" + res.status + ")");
+        const err = await res.json();
+        throw new Error(err.error || "Errore server (" + res.status + ")");
       }
 
-      const reply = data.choices?.[0]?.message?.content;
-      if (!reply) throw new Error("Risposta vuota dal modello");
-
       removeTyping();
-      addMessage(reply, "bot");
 
-      conversationHistory.push({ role: "user",      content: text  });
-      conversationHistory.push({ role: "assistant", content: reply });
+      // Crea la bolla di risposta vuota con cursore lampeggiante
+      const botDiv = addMessage("", "bot");
+      botDiv.classList.add("streaming");
 
-      if (conversationHistory.length > 20) {
-        conversationHistory = conversationHistory.slice(-20);
+      const reader  = res.body.getReader();
+      const decoder = new TextDecoder();
+      let fullReply = "";
+      let buffer    = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+
+        buffer += decoder.decode(value, { stream: true });
+        const lines = buffer.split("\n");
+        buffer = lines.pop(); // tieni l ultima riga incompleta
+
+        for (const line of lines) {
+          if (!line.startsWith("data: ")) continue;
+          const data = line.slice(6).trim();
+          if (data === "[DONE]") continue;
+
+          try {
+            const json  = JSON.parse(data);
+            const token = json.choices?.[0]?.delta?.content || "";
+            if (token) {
+              fullReply += token;
+              botDiv.textContent = fullReply;
+              chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+          } catch (_) {}
+        }
+      }
+
+      // Rimuovi cursore lampeggiante a fine streaming
+      botDiv.classList.remove("streaming");
+
+      if (fullReply) {
+        conversationHistory.push({ role: "user",      content: text      });
+        conversationHistory.push({ role: "assistant", content: fullReply });
+        if (conversationHistory.length > 20) {
+          conversationHistory = conversationHistory.slice(-20);
+        }
       }
 
     } catch (e) {
