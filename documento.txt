@@ -1,43 +1,28 @@
 ﻿Come funziona?
 E' tutto davvero molto semplice.
-
-Autori
 Autori/Authors
-
 Sei un autore o uno scrittore e vorresti vedere pubblicate e narrate le tue opere originali e crearne versioni tradotte in altre lingue ma per la traduzione e la narrazione ti hanno chiesto cifre esorbitanti?
-
-
 Finalmente la soluzione c'è e non dovrai anticipare neanche un centesimo.
-
 Potrai scegliere di lavorare con noi nelle seguenti modalità:
-
 REVENUE SHARING
 - I costi saranno coperti dai consumatori finali.
 - Nessun costo iniziale per gli autori.
 - I traduttori e i narratori divideranno con gli autori i proventi delle vendite.
-
 CESSIONE DIRITTI
 - Acquisiremo i diritti di traduzione e narrazione per le lingue da noi gestite.
 - Ci occuperemo noi delle traduzioni, delle narrazioni e della loro pubblicazione. Non dovrai fare nulla.
 - Riceverai una percentuale su tutte le vendite delle tue opere tradotte e narrate.
-
 PAGAMENTO DIRETTO
 - I costi verranno valutati in funzione del genere, della lingua e della lunghezza del testo.
 - Verrà proposto un preventivo dettagliato.
 - Massima trasparenza e serietà.
-
 TUTTI I LAVORI SONO ESEGUITI DA UMANI
-
 Pubblica con noi i tuoi libri originali
-
-
 Ora potrai pubblicare con noi anche i tuoi libri e audiolibri originali.
 Le nostre commissioni sono solo del 20% sul prezzo di copertina senza IVA.
 Inoltre, le tue opere digitali saranno messe in vendita anche nella nostra libreria online dalla quale percepirai il 80% di royalty sul prezzo di copertina (IVA esclusa).
-
 IMPORTANTE!
 A differenza di altri distributori, con noi non dovrai pagare alcuna tariffa di iscrizione né avrai altri costi nascosti per la commercializzazione delle tue opere.
-
 Inoltre, i diritti sui libri originali sono e resteranno per sempre tuoi.
 
 Riguardo le traduzioni, chi mi garantisce che saranno ben fatte?
@@ -183,25 +168,13 @@ Il tuo libro tradotto e il tuo audiolibro sono in vendita in tutte le migliori l
 
 Divisione dei proventi
 Ora ti starai sicuramente chiedendo come verrà ricompensato il lavoro del traduttore/narratore. Ovviamente, nessuno lavora gratis. Il traduttore/narratore dividerà con te una percentuale sui proventi delle vendite, scaglionata come descritto di seguito:
-
- 
-
-
 Traduttori
 Da	A	Autore	Traduttore	Tektime
 € 0,00	€ 1999,99	30%	50%	20%
 € 2.000	€ 3.999,99	40%	40%	20%
 € 4.000	€ 7.999,99	50%	30%	20%
 € 8.000	€ ...	60%	20%	20%
-Per chiarezza inseriamo una visualizzazione grafica dello stesso prospetto:
-
-Grafico 1
-Grafico 2
-Grafico 3
-Grafico 4
 E' possibile scaricare un foglio Excel dove fare simulazioni di vendita libri e rispettivi guadagni.
-
-
 Narratori
 Da	A	Autore	Narratore	Tektime
 € 0,00	€ 1999,99	30%	50%	20%
@@ -212,7 +185,6 @@ Per chiarezza inseriamo una visualizzazione grafica dello stesso prospetto:
 --- sito_editori.txt ---
 Come funziona?
 E' tutto davvero molto semplice.
-
 Editori
 Editori/Publishers
 I tuoi autori ti chiedono di tradurre i loro libri e non sai come fare?
@@ -229,215 +201,132 @@ Valutazione professionale delle proposte di traduzione;
 Valutazione professionale del primo 5% e della traduzione finale;
 I nostri lettori volontari madrelingua rilasciano valutazioni e recensioni sia sulla bontà della traduzione che sul contenuto dei libri tradotti;
 I narratori madrelingua che, oltre a narrare il libro, sono tenuti anche a correggere eventuali refusi riscontrati;
-
 Oltre a ciò, noi eseguiamo una serie di verifiche sul testo tradotto. Cosa che potrai fare anche tu, avvalendoti dell'aiuto di tuoi amici e conoscenti (i social come Facebook possono aiutare molto). Non dimenticare che il traduttore "ci mette la faccia" dato che il suo nome comparirà ovunque come traduttore del libro e non è certo suo interesse mettere in giro un prodotto che potrebbe danneggiare la sua figura professionale.
  Suggerimenti:
 - Richiedi sempre la lettura del testo tradotto ai nostri lettori volontari.
 - Attiva per tutti i tuoi libri anche la loro narrazione. Il narratore non leggerà mai una traduzione che non dovesse essere perfetta. Inoltre, è anche tenuto a segnalare, ed eventualmente correggere, errori che dovesse trovare nel testo del libro tradotto.
-
-
 Da ora in poi mai più dubbi sulla qualità della traduzione dei tuoi libri!
 
-
-
 Di seguito, in pochi e semplici passi, il funzionamento del sistema:
-
-
 Prima di tutto scegli il tuo piano
 (FREE o GOLD - Sottoscrizione annuale)
-
 Caratteristiche	FREE	GOLD
 Numero max libri originali pubblicabili
 Numero massimo di libri originali inseribili nel sistema per essere pubblicati in tutto il mondo tramite il nostro servizio di distribuzione globale.
-
 10	Illimitati
 Numero max libri traducibili e narrabili
 Numero massimo di libri originali che possono essere tradotti e narrati in tutte le lingue disponibili.
-
 3	Illimitati
 Richieste traduzione max al giorno
 Numero massimo di traduttori che è possibile invitare giornalmente per la traduzione dei propri libri.
-
 2	30
 Richieste narrazione max al giorno
 Numero massimo di narratori che è possibile invitare giornalmente per la narrazione dei propri libri.
-
 2	30
 Accesso traduttori GOLD
 Possibilità di accedere anche ai servizi forniti dai traduttori che hanno sottoscritto l'abbonamento GOLD.
-
-	
 Accesso narratori GOLD
 Possibilità di accedere anche ai servizi forniti dai narratori che hanno sottoscritto l'abbonamento GOLD.
-
-	
 Inserimento link social nel profilo
 Possibilità di aggiungere al profilo i link ai propri social (Sito web, Facebook, Twitter, etc.).
-
-	
 Tassazione ridotta persone fisiche (utenti non italiani)
 Possibilità di evitare l'applicazione della tassazione del 30% sulle royalty, previo invio di un modulo di richiesta e del proprio Certificato di Residenza Fiscale contro le doppie imposizioni, rilasciato dall'Agenzia delle Entrate della nazione di residenza.
-Leggi di più...
-
-	
 Supporto Tecnico Prioritario
 Priorità garantita per richieste di assistenza tecnica, gestite tramite chat online riservata e attraverso il nostro sistema di ticketing personalizzati.
-
-	
 Vetrina editore dedicata
 Possibilità di avere nel nostro Blog una vetrina editore personalizzata.
-
-	
 Coupon da regalare agli amici
 Coupon personalizzati che possono essere utilizzati sulla nostra libreria online per scaricare gratuitamente un proprio libro.
-
-	50
+50
 Accesso webinar gratuiti
 Accesso gratuito a webinar periodici da noi organizzati su argomenti di interesse specifico (pubblicazione libri, promozione, uso dei social, etc.)
-
-	
 Certificazione AI-Free
-
 Rilascio gratuito di Certificazione Ai-Free per un libro.
-
-	1
 Costo abbonamento annuale EUR (IVA 22% compresa): 149,00
 La durata dell'abbonamento è di 365 giorni a partire dalla data di sottoscrizione (per la prima iscrizione) o dalla data di scadenza (nel caso di rinnovo anticipato). In caso di rinnovo effettuato dopo la data di scadenza, la durata rimarrà sempre di 365 giorni a partire dalla data di rinnovo.
-
 OFFERTA SPECIALE LIMITATA (EUR): 99,00 ACQUISTA	0	99,00
-
 NOVITA'!
 Solo per questo mese, per ogni 10 autori che avrai invitato e che completeranno l'iscrizione, tu riceverai in omaggio UN MESE DI ABBONAMENTO GOLD.
 Maggiori informazioni...
-
 1) Inserisci i dati della tua casa editrice
 Per accedere a tutti i servizi devi prima registrarti compilando tutti i dati richiesti.
-
 Prima di registrarti, ti suggeriamo di prendere visione del contratto di traduzione e del contratto di narrazione.
-
 2) Inserisci i libri da tradurre/narrare
 Nella tua area personale potrai inserire tutti i libri che vorrai far tradurre/narrare, scegliendo le lingue che preferisci. Siamo gli unici ad avere narratori in più di 60 lingue diverse e a realizzare e distribuire audiolibri in tali lingue.
 Anche qui sarà molto importante descrivere accuratamente le tue opere (titolo, serie, sintesi, descrizione completa, eventuali dati di vendite, etc.). Ti consigliamo di aggiungere anche un estratto del libro originale in modo da invogliare il traduttore/narratore a leggerlo e ad appassionarsi alla tua opera.
-
 Facoltativamente, potrai decidere se versare un contributo traduzione o un contributo narrazione e cioè un importo fisso minimo che il traduttore/narratore percepirà comunqe, anche se le vendite del libro tradotto e dell'audiolibro non dovessero raggiungere livelli tali da compensare adeguatamente il suo lavoro.
 Ovviamente. lavori di traduzione/narrazione con un contributo più alto saranno più "appetibili" per i traduttori/narratori.
-
 3) Ricerca i traduttori/narratori
 Potrai selezionare fino a 2 traduttori/narratori al giorno ai quali proporre le tue opere. Il traduttore/narratore riceverà sia un messaggio di posta interna che una e-mail con il tuo suggerimento e potrà decidere se accettare o no la tua richiesta.
-
 4) Valuta le proposte di traduzione/narrazione
 In risposta ad una tua richiesta di traduzione/narrazione, o come offerta diretta da parte di un traduttore/narratore, riceverai un messaggio interno e una e-mail con una proposta di traduzione/narrazione.
 Potrai valutare sia il traduttore/narratore (consultando il suo profilo) che il suo modo di lavorare. Infatti, nella proposta, ti verrà inviato, senza impegno, anche un esempio di traduzione/narrazione di un testo a tua scelta che avrai caricato durante la fase di inserimento del libro.
-
 5) Firma il contratto di traduzione/narrazione
 Una volta che avrai selezionato il traduttore/narratore, dovrai firmare digitalmente il contratto di traduzione o il contratto di narrazione che sarà poi controfirmato sia dal traduttore/narratore che da noi.
 Non ti preoccupare perché, finché non avrai approvato la prima fase di traduzione/narrazione (5% del libro), potrai sempre recedere dal contratto, senza incorrere in alcuna penale.
-
 Se non sei in possesso di una firma digitale potrai procurartela molto semplicemente da uno dei nostri partner Aruba, Infocert o da un qualsiasi altro fornitore legalmente riconosciuto, oppure potrai utilizzare un metodo alternativo come indicato dettagliatamente in >> questa pagina <<.
-
 6) Segui e verifica la traduzione/narrazione
 In questo periodo di tempo ci sarà uno scambio di informazioni tra te e il traduttore/narratore, in modo da raggiungere insieme l'obiettivo finale. Noi faremo sempre da garanti, controllando che il lavoro si svolga correttamente.
 In questa fase avrai l'obbligo di:
-
 verificare ed approvare la prima parte della traduzione/narrazione (5% del libro)
 verificare ed approvare la traduzione/narrazione finale
 Dopo l'approvazione della prima parte della traduzione/narrazione non potrai più recedere dal contratto senza incorrere nelle penali previste (tutela del lavoro del traduttore e del narratore).
 7) Un tuo autore vuole narrarsi il libro da solo?
 Nessun problema. D'altronde, chi meglio di lui può interpretare e trasferire al lettore l'essenza della trama, dei personaggi e delle scene delle sua opera?
 Noi gli diamo la possibilità di creare il suo audiolibro e pubblicarlo nelle migliori librerie specializzate del mondo.
-
 8) Pubblica il libro tradotto e l'audiolibro
 Dopo l'approvazione definitiva della traduzione/narrazione, potrai finalmente pubblicare il tuo libro e il tuo audiolibro nella lingua prescelta.
 La gestione della pubblicazione, della distribuzione, della promozione e della rendicontazione dei proventi derivanti dalle vendite sarà svolta completamente da noi, come descritto nel contratto di traduzione e nel contratto di narrazione.
 Potrai prendere visione in ogni momento dei dati delle vendite e dei tuoi guadagni direttamente nella tua area personale.
-
 Pubblica con noi i tuoi libri originali
-
-
 Ora potrai pubblicare con noi anche i tuoi libri e audiolibri originali.
 Le nostre commissioni sono solo del 20% sul prezzo di copertina senza IVA.
 Inoltre, le tue opere digitali saranno messe in vendita anche nella nostra libreria online dalla quale percepirai il 80% di royalty sul prezzo di copertina (IVA esclusa).
-
 IMPORTANTE!
 A differenza di altri distributori, con noi non dovrai pagare alcuna tariffa di iscrizione né avrai altri costi nascosti per la commercializzazione delle tue opere.
-
 9) Promozione libri e audiolibri
 Ci occuperemo noi della promozione dei libri tradotti e degli audiolibri.
 Naturalmente, accogliamo con favore qualsiasi aiuto offerto dall'autore, dal traduttore e/o dal narratore nella promozione. È di vitale importanza pubblicizzare il nuovo libro utilizzando anche solo strumenti gratuiti come i social media (Facebook, Instagram, Twitter, ecc.), blog, siti web e così via, al fine di garantirne il successo e ottenere il vantaggio economico correlato.
-
 10) Inizia a guadagnare
 E' fatta!
 Il tuo libro tradotto e il tuo audiolibro sono in vendita in tutte le migliori librerie online del mondo. Tu non dovrai fare altro che controllare periodicamente l'andamento delle vendite e riceverne automaticamente i proventi direttamente sul tuo conto.
-
 Divisione dei proventi
 Ora ti starai sicuramente chiedendo come verrà ricompensato il lavoro del traduttore/narratore. Ovviamente, nessuno lavora gratis. Il traduttore/narratore dividerà con te una percentuale sui proventi delle vendite, scaglionata come descritto di seguito:
-
 Traduttori
 Da	A	Autore	Traduttore	Tektime
 € 0,00	€ 1999,99	30%	50%	20%
 € 2.000	€ 3.999,99	40%	40%	20%
 € 4.000	€ 7.999,99	50%	30%	20%
 € 8.000	€ ...	60%	20%	20%
-Per chiarezza inseriamo una visualizzazione grafica dello stesso prospetto:
-
-Grafico 1
-Grafico 2
-Grafico 3
-Grafico 4
-E' possibile scaricare un foglio Excel dove fare simulazioni di vendita libri e rispettivi guadagni.
-
-
 Narratori
 Da	A	Autore	Narratore	Tektime
 € 0,00	€ 1999,99	30%	50%	20%
 € 2.000	€ 3.999,99	40%	40%	20%
 € 4.000	€ 7.999,99	50%	30%	20%
 € 8.000	€ ...	60%	20%	20%
-Per chiarezza inseriamo una visualizzazione grafica dello stesso prospetto:
-
-Grafico 1
-Grafico 2
-Grafico 3
-Grafico 4
-E' possibile scaricare un foglio Excel dove fare simulazioni di vendita libri e rispettivi guadagni.
-
-
-
 Pensi che il guadagno dell'autore sia un po' troppo basso?
 Ci rendiamo conto che, in apparenza, potrebbe sembrare che il traduttore/narratore sia l'unico a guadagnarci, ma devi tenere presente che è proprio il traduttore/narratore che farà il grosso del lavoro e ci sembra giusto che i proventi inizali delle vendite vadano per primi a lui.
 Siamo sicuri che avrai già provato a richiedere dei preventivi per la traduzione/narratore delle tue opere e avrai notato quanto possano essere elevati.
-
 Con noi non anticipi nulla e non sborserai nulla di tasca tua. Saranno le vendite dei tuoi libri a compensare i costi. Geniale, no?
-
-
 I tuoi libri sono in buone mani
 I diritti d'autore sono tuoi e rimarranno tuoi per sempre.
-
 Nessuno entrerà mai arbitrariamente in possesso dei tuoi libri originali.
-
 Sarai solo tu ad invarli al traduttore e/o al narratore, dopo la firma di tutte le parti di un contratto legalmente valido e vincolante.
-
 Sappiamo bene che un libro, per il proprio autore, è come un figlio. Noi ne avremo cura come se fosse il nostro.
-
 Come posso incrementare le vendite dei miei libri?
 Questa è una domanda che ci viene rivolta molto spesso e la risposta è davvero molto semplice:
-
 Fai tradurre e narrare i tuoi libri.
 
 Considera che da un singolo libro potrai generare più di 60 libri in lingue diverse e altrettanti audiolibri.
-
 Ciò significa moltiplicare potenzialmente per 120 i tuoi introiti senza dover fare nulla, né sostenere alcun costo.
-
 Perche scegliere noi?
 Attenzione alla matematica!
 Ci sono altri servizi che vi propongono anche una divisione al 50% con il traduttore/narratore (soprattutto per le narrazioni). Il problema è che tale percentuale è applicata solo sul 25% del prezzo di vendita (al massimo sul 40%).
-Noi tratteniamo solo il 10% sul prezzo di vendita al netto delle commissioni, il resto è tutto vostro. Inoltre, con l'aumentare delle vendite, potrete arrivare fino all'80%.
+Noi tratteniamo solo il 20% sul prezzo di vendita al netto delle commissioni, il resto è tutto vostro. Inoltre, con l'aumentare delle vendite, potrete arrivare fino all'80%.
 Noi distribuiamo ebook e audiolibri in 170 nazioni diverse e tramite più di 60 canali di ditribuzione. Siamo una delle più grandi reti commerciali oggi a disposizione degli autori.
 --- sito_traduttori.txt ---
 Come funziona?
 E' tutto davvero molto semplice.
-
-Traduttori
 Traduttori/Translators
 Conosci diverse lingue e vorresti sfruttare economicamente queste tue competenze?
 Noi possiamo darti l'opportunità di:
@@ -447,101 +336,64 @@ Essere anche tu parte della realizzazione di un'opera che sarà pubblicata in tu
 Diventare il narratore dei libri che hai tradotto e crearne la versione audiolibro
 Guadagnare soldi con un lavoro che puoi gestire come vuoi
 Di seguito, in pochi e semplici passi, il funzionamento del sistema:
-
-
 Prima di tutto scegli il tuo piano
 (FREE o GOLD - Sottoscrizione annuale)
-
 Caratteristiche	FREE	GOLD
 Proposte traduzione max al giorno
 Numero massimo di proposte di traduzione che è possibile invitare giornalmente agli autori.
-
 2	Illimitate
 Numero massimo lingue selezionabili
 Numero massimo di lingue conosciute che il traduttore può selezionare nel suo profilo.
-
 3	Illimitate
 Priorità di visualizzazione nell'elenco assegnazione lavori
 Il nominativo verrà mostrato agli autori prima dei traduttori FREE durante la fase di assegnazione lavori.
-
-	
 Priorità di assegnazione lavori a pagamento
 Il nominativo verrà selezionato in modo prioritario nell'assegnazione di lavori a pagamento.
-
-	
 Inserimento link social nel profilo
 Possibilità di aggiungere al profilo i link ai propri social (Sito web, Facebook, Twitter, etc.).
-
-	
 Tassazione ridotta persone fisiche (utenti non italiani)
 Possibilità di evitare l'applicazione della tassazione del 30% sulle royalty, previo invio di un modulo di richiesta e del proprio Certificato di Residenza Fiscale contro le doppie imposizioni, rilasciato dall'Agenzia delle Entrate della nazione di residenza.
-Leggi di più...
-
-	
 Supporto Tecnico Prioritario
 Priorità garantita per richieste di assistenza tecnica, gestite tramite chat online riservata e attraverso il nostro sistema di ticketing personalizzati.
-
-	
 Coupon da regalare agli amici
 Coupon personalizzati che possono essere utilizzati sulla nostra libreria online per scaricare gratuitamente un proprio libro.
-
-	50
 Accesso webinar gratuiti
 Accesso gratuito a webinar periodici da noi organizzati su argomenti di interesse specifico (pubblicazione libri, promozione, uso dei social, etc.)
-
-	
 Sconti riservati su software di ausilio alla traduzione
 Possibilità di ricevere coupon per l'acquisto di strumenti software utili nello svolgimento del proprio lavoro di traduzione (Trados,MemoQ, etc.)
-
-	
 Certificazione AI-Free
-
 Rilascio gratuito di Certificazione Ai-Free per un libro.
-
-	1
 Costo abbonamento annuale EUR (IVA 22% compresa): 69,00
 La durata dell'abbonamento è di 365 giorni a partire dalla data di sottoscrizione (per la prima iscrizione) o dalla data di scadenza (nel caso di rinnovo anticipato). In caso di rinnovo effettuato dopo la data di scadenza, la durata rimarrà sempre di 365 giorni a partire dalla data di rinnovo.
-
 OFFERTA SPECIALE LIMITATA (EUR): 49,00 ACQUISTA	0	49,00
-
 NOVITA'!
 Solo per questo mese, per ogni 10 autori che avrai invitato e che completeranno l'iscrizione, tu riceverai in omaggio UN MESE DI ABBONAMENTO GOLD.
-Maggiori informazioni...
-
 1) Inserisci i tuoi dati
 Per accedere a tutti i servizi devi prima registrarti compilando tutti i dati richiesti.
 E' molto importante che tu descriva bene te stesso inserendo una tua biografia dettagliata, in modo da poter attirare l'attenzione degli autori.
-
 2) Ricerca i libri da tradurre
 Accedendo alla tua area personale potrai eseguire la ricerca dei libri da tradurre. Potrai selezionarli per autore, tipologia, lingua e tante altre opzioni.
 Valuta attentamente le opere sulle quali intenderai lavorare. Leggine con attenzione la descrizione e l'estratto e verificane i dati di vendita. Se preferisci, contatta direttamente l'autore e confrontati con lui.
 La traduzione potrebbe portarti via molto tempo. Assicurati di investirlo nel modo migliore possibile.
 Dato che l'autore potrà stabilire, facoltativamente, un contributo traduzione e cioè un importo fisso minimo che percepirai comunque, anche se le vendite del libro tradotto non dovessero raggiungere livelli tali da compensare adeguatamente il tuo lavoro, ti suggeriamo di valutare principalmente i libri con questa opzione attiva.
-
 CONTRIBUTO TRADUZIONE MINIMO
 Se lo desideri, potrai stabilire anche un valore minimo di contributo traduzione al di sotto del quale gli autori non potranno contattarti. In questo modo riceverai solo proposte di traduzione di libri con un contributo maggiore o uguale a quanto da te stabilito. Tu però, potrai sempre ricercare libri anche con contributo zero. Ovviamente, impostando questo valore, potresti perdere l'opportunità di tradurre un ottimo libro che non ha contributo.
-
 3) Proponi la tua traduzione
 Il sistema ti consentirà di inviare direttamente all'autore la tua proposta di traduzione. In questa fase dovrai indicare i tempi entro i quali intenderai svolgere il lavoro.
 Come tua lettera di presentazione, dovrai tradurre un piccolo brano di esempio (pochi paragrafi) che l'autore valuterà prima di affidarti definitivamente il lavoro.
-
 4) Firma il contratto di traduzione
 Una volta che l'autore avrà accettato la tua proposta di traduzione, dovrai firmare digitalmente il contratto di traduzione che sarà già stato firmato dall'autore e che verrà poi controfirmato anche da noi.
 Non ti preoccupare perché, finché non avrai tradotto il 5% del libro e ne avrai ottenuta l'approvazione da parte dell'autore, potrai sempre recedere dal contratto, senza incorrere in alcuna penale.
-
 Se non sei in possesso di una firma digitale potrai procurartela molto semplicemente presso uno dei nostri partner Aruba, Infocert o da un qualsiasi altro fornitore legalmente riconosciuto, oppure potrai utilizzare un metodo alternativo come indicato dettagliatamente in >> questa pagina <<.
-
 5) Completa le fasi della traduzione
 In questo periodo di tempo ci sarà uno scambio di informazioni tra te e l'autore, in modo da raggiungere insieme l'obiettivo finale. Noi faremo sempre da garanti, controllando che il lavoro si svolga correttamente.
 In questa fase avrai l'obbligo di:
-
 Tradurre la prima parte del libro (5%)
 Completare la traduzione finale
 Dopo che l'autore avrà approvato la traduzione della prima parte del libro (5%) non potrai più recedere dal contratto senza incorrere nelle penali previste.
 6) Invia il libro tradotto
 Completate tutte le fasi della traduzione, dovrai inviare al sistema il libro tradotto e noi provvederemo alla sua pubblicazione.
 La gestione della pubblicazione, della distribuzione e della rendicontazione dei proventi derivanti dalle vendite sarà svolta completamente da noi, come descritto nel contratto di traduzione.Potrai prendere visione in ogni momento dei dati delle vendite e dei tuoi guadagni direttamente nella tua area personale.
-
 7) Inizia a guadagnare
 E' fatta!
 Il tuo libro che hai tradotto è in vendita in tutte le migliori librerie online del mondo. Tu non dovrai fare altro che controllare periodicamente l'andamento delle vendite e riceverne automaticamente i proventi direttamente sul tuo conto.
@@ -555,37 +407,20 @@ Da	A	Autore	Traduttore	Tektime
 € 2.000	€ 3.999,99	40%	40%	20%
 € 4.000	€ 7.999,99	50%	30%	20%
 € 8.000	€ ...	60%	20%	20%
-Per chiarezza inseriamo una visualizzazione grafica dello stesso prospetto:
-
-Grafico 1
-Grafico 2
-Grafico 3
-Grafico 4
 E' possibile scaricare un foglio Excel dove fare simulazioni di vendita libri e rispettivi guadagni.
-
-
 Perché scegliere il Revenue Sharing?
 A differenza di un lavoro con pagamento diretto, il sistema di Revenue Sharing ti permetterà di avere una rendita costante per tutto il periodo in cui il libro tradotto sarà in commercio.
-
 I nostri contratti prevedono una durata minima della distribuzione di cinque anni e, successivamente, saranno poi rinnovati automaticamente di anno in anno.
-
 I nostri autori, dopo la scadenza del contratto, difficilmente ritirano il libro dal commercio in quanto andrebbero a perdere tutta la sua storia (recensioni, condivisioni, classifiche, etc.) senza contare che dovrebbero acquistare un nuovo ISBN ed affidare poi la distribuzione a qualche altro editore, ripartendo da zero.
-
 Un lavoro di traduzione non finisce quindi con la consegna del testo ma i suoi ricavi si protrarranno per molti anni, garantendo così un guadagno costante nel tempo.
-
-
 Hai mai pensato di creare la versione audiolibro dell'opera che hai tradotto?
 Ascoltare è il nuovo modo di leggere. Devi solo registrarti con un altro account e scegliere il ruolo 'Narratore'. Potrai narrare il libro che hai tradotto e aumentare le possibilità di guadagno.
-Qui potrai trovare tutti i dettagli su come fare.
-
-
 Vuoi collaborare con noi in altri servizi a pagamento?
 Iscriviti e poi segui il link Collabora con noi, inserendo la tua offerta relativamente a servizi di proofreading (correzione errori grammaticali, formali, etc.) e di editing (revisione approfondita dei testi per migliorarne la fluidità e la comprensione).
 Nella richiesta indica la tua tariffa per parola e noi valuteremo la tua proposta per inserirti nel nostro team di traduttori specializzati.
 --- sito_narratori.txt ---
 Come funziona?
 E' tutto davvero molto semplice.
-
 Narratori
 narrators
 Sei un attore, un presentatore o hai semplicemente una bella voce?
@@ -597,88 +432,55 @@ Essere anche tu parte della realizzazione di un'opera che sarà pubblicata in tu
 Leggere libri gratuitamente
 Guadagnare soldi con un lavoro che puoi gestire come vuoi
 Di seguito, in pochi e semplici passi, il funzionamento del sistema:
-
-
 Prima di tutto scegli il tuo piano
 (FREE o GOLD - Sottoscrizione annuale)
-
 Caratteristiche	FREE	GOLD
 Proposte narrazione max al giorno
 Numero massimo di proposte di narrazione che è possibile invitare giornalmente agli autori.
-
 2	Illimitate
 Priorità di visualizzazione nell'elenco assegnazione lavori
 Il nominativo verrà mostrato agli autori prima dei narratori FREE durante la fase di assegnazione lavori.
-
-	
 Priorità di assegnazione lavori a pagamento
 Il nominativo verrà selezionato in modo prioritario nell'assegnazione di lavori a pagamento.
-
-	
 Inserimento link social nel profilo
 Possibilità di aggiungere al profilo i link ai propri social (Sito web, Facebook, Twitter, etc.).
-
-	
 Tassazione ridotta persone fisiche (utenti non italiani)
 Possibilità di evitare l'applicazione della tassazione del 30% sulle royalty, previo invio di un modulo di richiesta e del proprio Certificato di Residenza Fiscale contro le doppie imposizioni, rilasciato dall'Agenzia delle Entrate della nazione di residenza.
-Leggi di più...
-
-	
 Supporto Tecnico Prioritario
 Priorità garantita per richieste di assistenza tecnica, gestite tramite chat online riservata e attraverso il nostro sistema di ticketing personalizzati.
-
-	
 Coupon da regalare agli amici
 Coupon personalizzati che possono essere utilizzati sulla nostra libreria online per scaricare gratuitamente un proprio libro.
-
-	50
 Accesso webinar gratuiti
 Accesso gratuito a webinar periodici da noi organizzati su argomenti di interesse specifico (creazione audiolibri, promozione, uso dei social, etc.)
-
-	
 Sconti riservati su software di ausilio alla narrazione
 Possibilità di ricevere coupon per l'acquisto di strumenti software utili nello svolgimento del proprio lavoro di narrazione.
-
-	
 Costo abbonamento annuale EUR (IVA 22% compresa): 69,00
 La durata dell'abbonamento è di 365 giorni a partire dalla data di sottoscrizione (per la prima iscrizione) o dalla data di scadenza (nel caso di rinnovo anticipato). In caso di rinnovo effettuato dopo la data di scadenza, la durata rimarrà sempre di 365 giorni a partire dalla data di rinnovo.
-
 OFFERTA SPECIALE LIMITATA (EUR): 49,00 ACQUISTA	0	49,00
-
 NOVITA'!
 Solo per questo mese, per ogni 10 autori che avrai invitato e che completeranno l'iscrizione, tu riceverai in omaggio UN MESE DI ABBONAMENTO GOLD.
-Maggiori informazioni...
-
 1) Inserisci i tuoi dati
 Per accedere a tutti i servizi devi prima registrarti compilando tutti i dati richiesti.
 E' molto importante che tu descriva bene te stesso inserendo una tua biografia dettagliata, in modo da poter attirare l'attenzione degli autori.
-
 2) Inserisci un campione della tua voce
 Il nostro sistema ti consentirà di memorizzare nel tuo profilo, fino a cinque campioni della tua voce per ogni lingua che conosci. I campioni saranno il tuo biglietto da visita. Registrali con intonazioni ed accenti diversi, ti rederai molto più interessante agli occhi degli autori.
-
 3) Ricerca i libri da narrare
 Accedendo alla tua area personale potrai eseguire la ricerca dei libri da narrare. Potrai selezionarli per autore, tipologia, lingua e tante altre opzioni.
 Valuta attentamente le opere sulle quali intenderai lavorare. Leggine con attenzione la descrizione e l'estratto e verificane i dati di vendita. Se preferisci, contatta direttamente l'autore e confrontati con lui.
 La narrazione potrebbe portarti via molto tempo. Assicurati di investirlo nel modo migliore possibile.
 Dato che l'autore potrà stabilire, facoltativamente, un contributo narrazione e cioè un importo fisso minimo che percepirai comunqe, anche se le vendite dell'audiolibro narrato non dovessero raggiungere livelli tali da compensare adeguatamente il tuo lavoro, ti suggeriamo di valutare principalmente i libri con questa opzione attiva.
-
 CONTRIBUTO NARRAZIONE MINIMO
 Se lo desideri, potrai stabilire anche un valore minimo di contributo narrazione al di sotto del quale gli autori non potranno contattarti. In questo modo riceverai solo proposte di narrazione di libri con un contributo maggiore o uguale a quanto da te stabilito. Tu però, potrai sempre ricercare libri anche con contributo zero. Ovviamente, impostando questo valore, potresti perdere l'opportunità di narrare un ottimo libro che non ha contributo.
-
 4) Proponi la tua narrazione
 Il sistema ti consentirà di inviare direttamente all'autore la tua proposta di narrazione. In questa fase dovrai indicare i tempi entro i quali intenderai svolgere il lavoro.
 Come tua lettera di presentazione, dovrai narrare un piccolo brano di esempio (pochi paragrafi) che l'autore valuterà prima di affidarti definitivamente il lavoro.
-
 5) Firma il contratto di narrazione
 Una volta che l'autore avrà accettato la tua proposta di narrazione, dovrai firmare digitalmente il contratto di narrazione che sarà già stato firmato dall'autore e che verrà poi controfirmato anche da noi.
 Non ti preoccupare perché, finché non avrai narrato il 5% del libro e ne avrai ottenuta l'approvazione da parte dell'autore, potrai sempre recedere dal contratto, senza incorrere in alcuna penale.
-
 Se non sei in possesso di una firma digitale potrai procurartela molto semplicemente presso uno dei nostri partner Aruba, Infocert o da un qualsiasi altro fornitore legalmente riconosciuto, oppure potrai utilizzare un metodo alternativo come indicato dettagliatamente in >> questa pagina <<.
-
 6) Completa le fasi della narrazione
 In questo periodo di tempo ci sarà uno scambio di informazioni tra te e l'autore, in modo da raggiungere insieme l'obiettivo finale. Noi faremo sempre da garanti, controllando che il lavoro si svolga correttamente.
 In questa fase avrai l'obbligo di:
-
 Narrare la prima parte del libro (5%)
 Completare la narrazione finale
 Informare l'autore in caso tu abbia trovato degli errori nel libro
@@ -686,48 +488,29 @@ Dopo che l'autore avrà approvato la narrazione della prima parte del libro (5%)
 7) Invia il libro narrato
 Completate tutte le fasi della narrazione, dovrai inviare al sistema il libro narrato, diviso in singoli capitoli o sezioni, e noi provvederemo alla sua pubblicazione.
 La gestione della pubblicazione, della distribuzione e della rendicontazione dei proventi derivanti dalle vendite sarà svolta completamente da noi, come descritto nel contratto di narrazione. Potrai prendere visione in ogni momento dei dati delle vendite e dei tuoi guadagni direttamente nella tua area personale.
-
 8) Inizia a guadagnare
 E' fatta!
 L'audiolibro che hai narrato è in vendita in tutte le migliori librerie online del mondo. Tu non dovrai fare altro che controllare periodicamente l'andamento delle vendite e riceverne automaticamente i proventi direttamente sul tuo conto.
 Naturalmente, accogliamo con favore qualsiasi aiuto che tu possa offrirci nella promozione. È di vitale importanza pubblicizzare il nuovo audiolibro utilizzando anche solo strumenti gratuiti come i social media (Facebook, Instagram, Twitter, ecc.), blog, siti web e così via, al fine di garantirne il successo e ottenere il vantaggio economico correlato.
-
 Divisione dei proventi
 Ora ti starai sicuramente chiedendo come verrai ricompensato. Ovviamente, nessuno lavora gratis. L'autore dividerà con te una percentuale sui proventi delle vendite, scaglionata come descritto di seguito:
-
 Da	A	Autore	Narratore	Tektime
 € 0,00	€ 1999,99	30%	50%	20%
 € 2.000	€ 3.999,99	40%	40%	20%
 € 4.000	€ 7.999,99	50%	30%	20%
 € 8.000	€ ...	60%	20%	20%
-Per chiarezza inseriamo una visualizzazione grafica dello stesso prospetto:
-
-Grafico 1
-Grafico 2
-Grafico 3
-Grafico 4
 E' possibile scaricare un foglio Excel dove fare simulazioni di vendita libri e rispettivi guadagni.
-
-
 Perché scegliere il Revenue Sharing?
 A differenza di un lavoro con pagamento diretto, il sistema di Revenue Sharing ti permetterà di avere una rendita costante per tutto il periodo in cui il l'audiolibro sarà in commercio.
-
 I nostri contratti prevedono una durata minima della distribuzione di sette anni e, successivamente, saranno poi rinnovati automaticamente di anno in anno.
-
 I nostri autori, dopo la scadenza del contratto, difficilmente ritirano l'audiolibro dal commercio in quanto andrebbero a perdere tutta la sua storia (recensioni, condivisioni, classifiche, etc.) senza contare che dovrebbero acquistare un nuovo ISBN ed affidare poi la distribuzione a qualche altro editore, ripartendo da zero.
-
 Un lavoro di narrazione non finisce quindi con la consegna dell'audiolibro ma i suoi ricavi si protrarranno per molti anni, garantendo così un guadagno costante nel tempo.
-
-
 Vuoi collaborare con noi in altri servizi a pagamento?
 Iscriviti e poi segui il link Collabora con noi, inserendo la tua offerta relativamente a servizi di narrazione.
 Nella richiesta indica la tua tariffa per parola e noi valuteremo la tua proposta per inserirti nel nostro team di narratori professionisti.
-
-
 --- sito_partner.txt ---
 Come funziona?
 E' tutto davvero molto semplice.
-
 Partner
 Partners
 Collabora con noi
@@ -741,7 +524,6 @@ Inviaci la tua richiesta e ti contatteremo al più presto.
 --- sito_affiliati.txt ---
 Come funziona?
 E' tutto davvero molto semplice.
-
 Affiliati/Distributori
 Affiliati/Affiliates
 Guadagna soldi con il nostro programma di affiliazione
@@ -750,22 +532,14 @@ Hai un'agenzia o un'azienda di traduzioni?
 Hai un'agenzia o un'azienda di doppiatori o narratori?
 Conosci degli scrittori, traduttori o narratori, hai un tuo sito web, un blog o anche un semplice account social (Facebook, Twitter, Instagram, etc.)?
 Allora non avrai nessun problema a guadagnare soldi senza troppa fatica grazie al nostro programma di affiliazione.
-
 Di seguito, in pochi e semplici passi, il funzionamento del sistema:
-
-
 Iscriviti al nostro servizio come ''Affiliato/Distributore''
 Per accedere al nostro programma di affiliazione devi prima registrarti compilando tutti i dati richiesti.
-
 Prima di registrarti, ti suggeriamo di prendere visione del nostro contratto di affiliazione.
-
 ATTENZIONE! Se sei gia iscritto come autore, traduttore o narratore, non devi fare altro. Fai già parte di diritto del nostro programma di affiliazione. Troverai tutti i dettagli nella nuova sezione Referral del tuo account.
-
 Iscrivi i tuoi amici o utenti
 Fai iscrivere al nostro servizio autori, traduttori o narratori e regalagli un mese di abbonamento GOLD. Riceverai una percentuale a vita sulle vendite dei libri e audiolibri che loro produrranno tramite il nostro servizio.
-
 Per fare ciò, potrai utillizzare uno o più fra i seguenti metodi presenti nella sezione REFERRAL del tuo profilo:
-
 Indica solo l'email del tuo amico e gli invieremo in automatico il tuo messaggio di invito.
 Fai una pre-iscrizione dei tuoi amici indicando solo il loro nominativo e indirizzo email.
 Al momento dell'iscrizione ti verrà fornito un link personale e un codice VOUCER che troverai nel tuo profilo utente. Con questi dati potrai:
@@ -774,23 +548,18 @@ Al momento dell'iscrizione ti verrà fornito un link personale e un codice VOUCE
 In entrambi i casi, quando l'utente completerà l'iscrizione, saremo in grado di identificarlo come tuo iscritto e gli regalerai UN MESE di abbonamento GOLD al nostro servizio.
 NOVITA'!
 Solo per questo mese, per ogni 10 autori che avrai invitato e che completeranno l'iscrizione, tu riceverai in omaggio UN MESE DI ABBONAMENTO GOLD.
- Procedi ora 
 Visualizza l'elenco dei tuoi iscritti
 Nella tua area personale potrai visualizzare l'elenco di tutti gli utenti che hai fatto iscrivere al nostro servizio.
-
 Segui e verifica l'andamento delle vendite
 Dalla tua area personale potrai sempre tenere sotto controllo l'andamento delle vendite dei libri che i tuoi iscritti hanno pubblicato tramite il nostro servizio.
 Avrai sempre a tua disposizione il riepilogo dettagliato delle vendite e i tuoi relativi guadagni.
-
 Pagamenti
 Su base trimestrale, ti prepareremo in automatico una ricevuta/fattura relativa ai tuoi guadagni per il periodo di riferimento, che dovrai semplicemente approvare per autorizzarci ad inviarti il pagamento relativo.
-
 Contratto
 Per maggiori dettagli, ti invitiamo a prendere visone dei termini e delle condizioni direttamente dal contratto di affiliazione
 --- sito_lettori.txt ---
 Come funziona?
 E' tutto davvero molto semplice.
-
 Lettori
 Lettori/Readers
 Leggi gratuitamente le anteprime dei nuovi libri tradotti e dai una tua valutazione
@@ -799,66 +568,44 @@ Vuoi ottenere uno sconto del 30% su tutti i libri della nostra libreria online?
 Ti piacerebbe lasciare commenti e recensioni sui libri che hai letto?
 Allora sei nel posto giusto!
 Di seguito, in pochi e semplici passi, il funzionamento del sistema:
-
-
 Iscriviti al nostro servizio come ''Lettore''
 Per accedere al nostro servizio devi prima registrarti compilando tutti i dati richiesti.
-
 ATTENZIONE! Se sei già iscritto come autore, traduttore o narratore, devi solo entrare nel tuo profilo (modifica) e selezionare l'opzione 'Voglio far parte anche del gruppo Lettori'. Usufruirai anche tu dello sconto del 30% su tutti i libri della nostra libreria online.
-
-
 Scegli i libri che vuoi leggere
 Scegli i libri che preferisci, selezionandoli per lingua, genere, autore, etc.
 Scarica i libri che hai selezionato (i libri sono delle anteprime e potrebbero non essere ancora formattati perfettamente).
 Utilizza il tuo link personale, che ti verrà fornito al momento dell'iscrizione, e promuovi il nostro servizio, inserendolo nel tuo sito, nel tuo blog, nella tua newsletter oppure in un qualsiasi post su un social (Facebook, Twitter, Linkedin, Instagram, etc.).
-
 Valuta i libri letti
 Nella tua area personale potrai lasciare una valutazione della traduzione e del contenuto dei libri che hai letto. Questo aiuterà molto sia l'autore che il traduttore a pubblicare una traduzione perfetta. Grazie per il tuo aiuto.
-
-
 La tua biblioteca
 Nella tua area personale potrai visualizzare l'elenco di tutti i libri che stai leggendo, quelli già letti e tutte le recensioni che hai lasciato.
-
-
 Libreria on-line
 Dopo aver completato l'iscrizione, troverai nel tuo profilo il coupon a te riservato, che ti permetterà di scaricare dalla nostra fornitissima libreria on-line tutti i libri che vuoi, con l'incredibile sconto del 30%.
-
-
 --- sito_chisiamo.txt ---
 Chi siamo
 Ti presentiamo il nostro team
-
 Il nostro sogno
 Tektime nasce dal desiderio di dare nuova forza alle storie e agli autori di tutto il mondo.
-
 L’idea alla base del progetto è semplice ma ambiziosa: permettere a ogni scrittore, indipendentemente dal proprio percorso, di oltrepassare i confini linguistici e raggiungere lettori internazionali. Pubblicare nel proprio Paese è alla portata di molti; entrare nel mercato globale, invece, richiede risorse, competenze e servizi che spesso risultano costosi e difficili da gestire.
-
 Per questo abbiamo creato un sistema integrato di traduzione, narrazione e distribuzione che permette agli autori di vedere le proprie opere prendere vita in decine di lingue, senza dover affrontare investimenti proibitivi. Mettiamo a disposizione esperienza, tecnologia e passione per trasformare un sogno in realtà: far viaggiare le storie oltre ogni barriera.
-
 Il nostro obiettivo è portare ordine e qualità nel vasto universo dell’autopubblicazione. Chi sceglie un libro pubblicato con noi deve poter contare su un prodotto impeccabile: un testo formattato con cura, un e-book compatibile con qualsiasi dispositivo e un audiolibro fruibile con tutti i principali player.
 A volte siamo particolarmente scrupolosi con i nostri collaboratori, ma lo facciamo per garantire a tutti – autori e lettori – standard elevati e un risultato davvero professionale.
-
 Danilo Clementoni
 Il boss
 E' dal 1964 che occupa uno spazio su questa terra ed è da allora che, con l'ausilio della tecnologia, si impegna per migliorare la vita del resto dell'umanità.
-
 Tranquillino Santoro
 Correttore bozze ed editor
 Uomo dalla grande cultura e professionalità che trasformerà il vostro libro in una vera e propria opera d'arte.
-
 Andreaceleste Brilli
 Marketing manager
 Grazie alla sua competenza e professionalità, le tue opere non avranno nessuna difficoltà a raggiungere le vette delle classifiche di vendita.
-
 Katarzyna Olszewska
 Traduttrice
 Per lei le lingue non hanno segreti. Divoratrice insaziabile di libri, sarà sempre al tuo fianco per portare al successo le tue opere.
-
 Il resto del Team
 Di tutto un po'
 Per ogni problema c'è una soluzione.
 Se non c'è soluzione vuol dire che non c'è neanche il problema. Questo è il loro motto.
-
 Tektime S.r.l.s. Unipersonale
 Via Armando Fioretti, 17
 05030 - Montefranco (TR) - Italia
@@ -875,20 +622,17 @@ Distributori russi e internazionali:
 ■ www.litres.ru■ www.en.litres.ru■ www.litres.ee■ www.litres.pl■ www.pl.litres.ru■ www.ee.litres.ru■ www.books.ru■ books.tele2.ru■ bonus.vtb24.ru■ http://books.mts.ru/■ www.mybook.ru■ www.sberbank-school.ru■ www.moscowbooks.ru■ bookland.net.ua■ bookland.com■ http://obreey-products.com/projects/mobile-web/obreey-store-ru■ http://www.kniga.com/books■ www.ozon.ru/context/ebook/■ www.yakaboo.ua/■ www.aeroflot.ru/cms/flight/on_board■ bookmate.com■ books.beeline.ru■ book.beeline.kz■ http://books.vodafone.ua■ voxclubstore.ru■ examer.ru■ aldebaran.ru■ bookz.ru■ fictionbook.ru■ fenzin.org■ litportal.ru■ https://www.qingting.fm■ www.neelwafurat.com■ www.strimstory.com
 Librerie specializzate in audiolibri:
 ■ Audible■ Amazon■ Apple■ Google Play■ Barnes and Noble NOOK■ Scribd■ eStories■ Playster■ 24symbols■ Downpour■ Audiobooks.com■ Hummingbird■ Libro.fm■ Otto■ Instaread■ AudiobooksNow■ Baker & Taylor■ EBSCO■ Biblioteca■ Follett■ Mackin■ Perma-Bound■ Odilo■ Overdrive■ Wheelers■ Hoopla■ Strimstory
-
 --- sito_aiuto.txt ---
 File libro
 Libro originale o tradotto
 Per le operazioni di traduzione, conversione o pubblicazione del tuo libro dovrai inviarci il relativo file in formato doc, docx (Microsoft Word) oppure odt (OpenOffice).
 Nel caso di richiesta della versione cartacea, assicurati che il formato delle pagine sia quello indicato nella fase di pubblicazione.
-
 Parole chiave
 Parole chiave di ricerca
 Le parole chiave di ricerca, inserite durante la creazione del libro, possono essere costituite da un singolo termine o da una frase. Per risultati ottimali, consigliamo di usare frasi di 2-3 parole al massimo. Per stabilire le giuste parole chiave da immettere per trovare un libro, ti consigliamo di metterti nei panni del lettore. Quali argomenti o generi stanno cercando i tuoi lettori?
 Evita di usare parole chiave che non descrivano esattamente la trama centrale del tuo libro o che sono completamente avulse dal suo contenuto. L'uso di parole chiave non accurate può portare a risultati di ricerca inattesi o poco chiari e fornire un'esperienza negativa per i clienti.
 Non sono ammesse parole chiave fuorvianti o che mirino a raggirare i nostri clienti.
 Esempi di elementi non consentiti come parole chiave includono, a titolo esemplificativo ma non esaustivo:
-
 Riferimenti ad altri autori
 Riferimenti a libri di altri autori
 Riferimenti alla classifica vendite (ad esempio "Il più venduto")
@@ -898,23 +642,17 @@ Riferimenti a contenuti di sesso esplicito o diffamatori
 Caricamento massivo libri
 Invia tutti i tuoi libri in un unico passaggio
 Per caricare più libri contemporaneamente occorre scaricare i seguenti file e seguire tutte le istruzioni indicate:
-
 metadata.xls
 user_guide.xls
-
 La funzione è disponibile, dopo essersi loggati, direttamente nella sezione "I miei libri" - "Invio massivo libri".
-
 Traduzioni
 Contributo traduzione
 L'autore, allo scopo di incentivare i traduttori ad effettuare la traduzione del proprio libro, potrà (facoltativamente) stabilire un contributo traduzione e cioè un importo che il traduttore percepirà in ogni caso, anche se il libro tradotto non dovesse vendere neanche una copia.
 Tale contributo potrà essere versato dall'autore, semplicemente acquistando, tramite un'apposita sezione nel nostro portale, una GOLDEN COPY del libro tradotto e cioè una copia speciale il cui costo sarà equivalente a quanto stabilito come contributo (*).
 In questo modo, l'importo sarà considerato come se fosse un ricavo delle vendite del libro e sarà contabilizzato nella divisione dei proventi. Ovviamente, l'autore non parteciperà alla divisione di questo importo che, dedotta la nostra solita percentuale, sarà invece accantonato per il traduttore (**), in modo da garantirgli comunque un introito minimo per il lavoro svolto.
-
 L'importo sarà immediatamente visibile nell'account del traduttore, sarà considerato come una vendita del libro anche se "speciale" (Golden copy) e seguirà le stesse regole di rendicontazione e pagamento delle normali vendite dei libri.
-
 Esempio:
 L'autore Mario vuole tradurre il proprio romanzo "Le avventure di Mario" in inglese e stabilisce, in fase di inserimento del libro, un contributo traduzione pari a 1000 Euro.
-
 Il traduttore Paolo accetta di tradurre il libro e inizia il normale rapporto con l'autore, come stabilito nel contratto di traduzione.
 Nel momento in cui Mario (l'autore) approverà la prima parte della traduzione del libro (5% del totale) e darà quindi il via effettivo al contratto di traduzione, dovrà accedere all'apposita sezione del nel nostro portale ed acquistare una GOLDEN COPY del libro, del valore di 1000 Euro (equivalente al contributo di traduzione stabilito, al quale sarà aggiunto l'importo relativo al rimborso forfetario delle spese di gestione).
 L'autore riceverà una mail di conferma dell'ordine e la relativa fattura.
@@ -929,38 +667,28 @@ Si rammenta che, qualsiasi accordo stabilito fra le parti che esuli da quanto in
 (*) Il contributo includerà anche un importo aggiuntivo a titolo di rimborso spese forfetarie per la gestione del contributo stesso (costi transazione, conversione valuta, etc.).
 (**) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e il traduttore.
 (***) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e l'autore.
-
 Narrazioni
 Contributo narrazione
 L'autore, allo scopo di incentivare i narratori ad effettuare la narrazione del proprio libro, potrà (facoltativamente) stabilire un contributo narrazione e cioè un importo che il narratore percepirà in ogni caso, anche se il libro tradotto non dovesse vendere neanche una copia.
 Tale contributo potrà essere versato dall'autore, semplicemente acquistando, tramite un'apposita sezione nel nostro portale, una GOLDEN COPY del libro tradotto e cioè una copia speciale il cui costo sarà equivalente a quanto stabilito come contributo (*).
 In questo modo, l'importo sarà considerato come se fosse un ricavo delle vendite del libro e sarà contabilizzato nella divisione dei proventi. Ovviamente, l'autore non parteciperà alla divisione di questo importo che, dedotta la nostra solita percentuale, sarà invece accantonato per il narratore (**), in modo da garantirgli comunque un introito minimo per il lavoro svolto.
-
 L'importo sarà immediatamente visibile nell'account del narratore, sarà considerato come una vendita del libro anche se "speciale" (Golden copy) e seguirà le stesse regole di rendicontazione e pagamento delle normali vendite degli audiolibri.
-
 Esempio:
 L'autore Sergio vuole creare l'audiolibro del proprio romanzo "Le avventure di Sergio" in inglese e stabilisce, in fase di inserimento del libro, un contributo narrazione pari a 1000 Euro.
-
 Il narratore Pietro accetta di narrare il libro e inizia il normale rapporto con l'autore, come stabilito nel contratto di narrazione.
 Nel momento in cui Sergio (l'autore) approverà la prima parte della narrazione del libro (5% del totale) e darà quindi il via effettivo al contratto di narrazione, dovrà accedere all'apposita sezione del nel nostro portale ed acquistare una GOLDEN COPY dell'audiolibro, del valore di 1000 Euro (equivalente al contributo di narrazione stabilito, al quale sarà aggiunto l'importo relativo al rimborso forfetario delle spese di gestione).
 L'autore riceverà una mail di conferma dell'ordine e la relativa fattura.
 L'importo, dal quale saranno dedotte IVA, tasse, trattenute, etc. come per i proventi delle vendite dei libri, sarà contabilizzato nel conto del narratore ma non sarà ancora disponibile per il prelievo. Lo diventerà infatti, solo dopo il completamento del lavoro di narrazione e della relativa approvazione da parte dell'autore e di Tektime. Tale importo sarà inserito tra le normali vendite degli audiolibri e sarà pagato nelle stesse modalità.
 A questo punto inizierà la commercializzazione effettiva dell'audiolibro e Tektime ripartirà i compensi tra autore e narratore (vedi grafico) come stabilito nel contratto di narrazione.
 Se la narrazione non dovesse andare a buon fine, per cause imputabili al narratore, il contributo narrazione sarà comunque rimborsato (***) all'autore.
-
 I libri con un contributo narrazione più alto appariranno per primi nelle ricerche affettuate dai narratori.
-
 Si rammenta che, qualsiasi accordo stabilito fra le parti che esuli da quanto indicato nel nostro contratto standard non potrà da noi essere gestito in alcun modo, né potremo esserne considerati responsabili. Tektime sconsiglia vivamente questo tipo di accordi extra contrattuali tra autori e narratori.
-
-
 (*) Il contributo includerà anche un importo aggiuntivo a titolo di rimborso spese forfetarie per la gestione del contributo stesso (costi transazione, conversione valuta, etc.).
 (**) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e il narratore.
 (***) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e l'autore.
-
 Promozione
 Promozione libri tradotti e audiolibri
 Allo scopo di massimizzare le vendite auspichiamo che, sia l'autore che il traduttore o il narratore, si impegnino al massimo, insieme a noi, nella pomozione e nella diffusione delle opere. A questo scopo ci permettiamo di darvi dei piccoli suggerimenti:
-
 Utilizza i social network (Facebook, Google+, Linkedin, Twitter, Youtube, etc)
 Individua con attenzione il genere di appartenenza di ogni singolo libro
 Tieniti in contatto con i tuoi lettori
@@ -970,59 +698,44 @@ Stanzia un piccolo budget per la pubblicità sui social e sui motori di ricerca
 Prezzo di vendita libro
 Prezzo e-book
 In fase di creazione pubblicazione viene richiesto di inserire il prezzo di vendita del libro formato e-book. Tale importo rappresenterà il prezzo di copertina (prezzo di vendita) incluso I.V.A. (ove applicabile).
-
 Prezzo libro versione cartacea
 Dato che, al momento della creazione pubblicazione, non è possibile quantificare il costo di produzione del libro in versione cartacea (che dipende dal formato, numero pagine, finitura, colori, etc.), viene richiesto di indicare solo l'incremento del prezzo rispetto al costo di produzione. In questo modo il prezzo di vendita effettivo sarà impostato in modo da poter garantire l'incremento indicato.
-
 Esempio:
 • Costo di produzione libro cartaceo: 5,50 EUR
 • Incremento indicato dall'autore: 2,50 Euro
   Prezzo finale di copertina: 8,00 EUR
-
 Il prezzo finale di copertina (prezzo di vendita) è da intendersi incluso I.V.A. (ove applicabile).
-
 Prezzo audiolibro
 In fase di creazione pubblicazione viene richiesto di inserire il prezzo di vendita del libro formato audiobook. Tale importo rappresenterà il prezzo di copertina (prezzo di vendita) incluso I.V.A. (ove applicabile) ma potrà essere soggetto a variazioni in funzione dei diversi canali di vendita.
-
 Dati fiscali
 Per la distribuzione dei compensi relativi alle vendite dei libri tradotti abbiamo bisogno dei tuoi dati fiscali. Se sei una persona fisica (non un'azienda o una ditta individuale) devi indicare il tuo codice fiscale altrimenti devi indicare la tua partita I.V.A.
-
 Codice fiscale internazionale (CIF) o Tax Identification Number (TIN)
-Per i residenti all'estero è necessario indicare il proprio Codice Fiscale Internazionale (CIF) o il proprio Tax Identification Number (TIN). Per ulteriori informazioni clicca qui.
-
+Per i residenti all'estero è necessario indicare il proprio Codice Fiscale Internazionale (CIF) o il proprio Tax Identification Number (TIN). 
 PayPal (*)
 PayPal offre alle aziende e ai privati che dispongano di un indirizzo email la possibilità di inviare e ricevere denaro in modo semplice, rapido e sicuro.
 PayPal utilizza le infrastrutture finanziarie esistenti dei conti bancari e delle carte di credito per creare un sistema di pagamento su base globale e in tempo reale.
 Il tuo account PayPal potrà essere utilizzato per ricevere i proventi delle vendite dei tuoi libri.
-
 Wise (*)
 Wise è il nuovo modo intelligente per convertire denaro in altre valute ed inviarlo all'estero oppure per effettuare bonifici internazionali.
 Utilizzando questo servizio potrai ricevere i tuoi compensi (se risiedi all'estero) con costi molto inferiori perché le commissioni di trasferimento fondi sono fino a otto volte più basse delle banche tradizionali.
 Potrai trovare maggiori informazioni sul sito www.wise.com
 Se ti iscrivi seguendo questo link, potrai effettuare il tuo primo trasferimento, fino a 500 EUR, senza nessuna commissione.
-
 Payoneer (*)
 Payoneer ti offre un conto multivaluta per pagare ed essere pagato a livello globale e il più facilmente possibile a livello locale.
 Questo conto all-in-one ti offre tutto ciò di cui hai bisogno per essere pagato dai tuoi clienti internazionali e dai marketplace globali.
 ATTENZIONE! Tramite Payoneer non potrai ricevere pagamenti inferiori alla soglia minima pagabile di EUR 55.
 Potrai trovare maggiori informazioni sul sito www.payoneer.com
-
 (*) Tektime non potrà essere ritenuta in alcun modo responsabile per eventuali disservizi procurati da PayPal, Wise o Payoneer, in quanto i servizi erogati da Tektime in questo sito, non sono né direttamente né indirettamente connessi ai suddetti fornitori.
-
 Firma digitale
 La Firma Digitale è l'equivalente informatico di una tradizionale firma autografa apposta su carta e possiede le seguenti caratteristiche:
-
 autenticità: la firma digitale garantisce l’identità del sottoscrittore
 integrità: la firma digitale assicura che il documento non sia stato modificato dopo la sottoscrizione
 non ripudio: la firma digitale attribuisce piena validità legale al documento, pertanto il documento non può essere ripudiato dal sottoscrittore
 Per generare una firma digitale è necessario utilizzare una coppia di chiavi digitali asimmetriche attribuite in maniera univoca ad un soggetto, detto titolare. La chiave privata è conosciuta solo dal titolare ed è usata per generare la firma digitale da apporre al documento. Viceversa, la chiave da rendere pubblica è usata per verificare l’autenticità della firma. L’impiego della Firma Digitale pertanto, permette di snellire significativamente i rapporti tra Pubbliche Amministrazioni, i cittadini o le imprese, riducendo drasticamente la gestione in forma cartacea dei documenti, proprio come indicato nelle Linee Guida per l’utilizzo della Firma Digitale, emanate da AGID (Agenzia per l'Italia Digitale, ex DigitPA) .
-
 Se non sei in possesso di una firma digitale potrai procurartela molto semplicemente da uno dei nostri partner Aruba, Infocert o da un qualsiasi altro fornitore legalmente riconosciuto.
-
 Firma contratto senza firma digitale
 Sebbene noi sconsigliamo l'utilizzo di questo sistema, diamo comunque la possibilita a chi non è dotato di un kit di firma digitale di aderire al nostro servizio.
 In questo caso la procedura di firma del contratto è leggermente più complessa ma è comunque eseguibile in pochi e semplici passi:
-
 Scarica il contratto nelle modalità indicate nella procedura guidata della fase di firma
 Stampa il contratto sulla tua stampante
 Firma il contratto manualmente nella casella predisposta
@@ -1053,76 +766,59 @@ La copertina non deve contenere immagini di "nudo"
 La copertina deve rappresentare solo la "prima di copertina", senza dorso né quarta di copertina
 AIUTO!
 Se non sei in grado di eseguire autonomamente la conversione del tuo libro in formato e-pub o di realizzare la relativa copertina possiamo farlo noi per te.
-
 Dai uno sguardo ai NOSTRI SERVIZI. Siamo a tua completa disposizione.
-
 Approfitta di questa fantastica opportunità.
-
 Versione cartacea
 Lingue supportate:
 Dato che, per le versioni cartacee, utilizziamo prevalentemente il servizio di print on-demand KDP Amazon, ci sono limitazioni per le lingue supportate.
 Per visualizzare l'elenco di lingue attualmente supportate >> Clicca qui << .
-
 Indicazioni sulla copertina versione cartacea:
 ATTENZIONE! Importante
 Scaricare il modello per copertina libro cartaceo di AMAZON e seguire esattamente le indicazioni.
-
 Come creare un PDF per la copertina del libro.
-
 1) Calcolare la larghezza del dorso del libro
 La larghezza del dorso si basa sul numero di pagine del libro:
 Per i libri in bianco e nero, interni:
 carta bianca: numero di pagine moltiplicare per 0.002252
 carta crema: numero di pagine moltiplicare per 0,0025
 Esempio di calcolo larghezza del dorso di un libro di 60 pagine in bianco e nero stampato su carta bianca: 60 x 0.002252 = 0.135"
-
 Per i libri con gli interni a colori:
 Moltiplicare il numero di pagine per 0.002347
 Esempio di calcolo larghezza del dorso per un libro a colori di 60 pagine: 60 x 0.002347 = 0.141"
-
 2) Impostare il documento
 La vostra copertina deve essere un singolo PDF che include il retro, il dorso, e il fronte in una sola immagine.
 È possibile inviare la copertina in qualsiasi formato purché l'area di stampa sia:
 • Corrispondente esattamente alle dimensioni del formato del libro, la larghezza del dorso, più 0.125" di margine di sicurezza
 • Centrata orizzontalmente e verticalmente
-
 Larghezza minima copertina: Margine di sicurezza + Larghezza Retro + Larghezza dorso + Larghezza Fronte + Margine di sicurezza
 Esempio di calcolo di copertina formato 6"x 9"con 60 pagine in bianco e nero su carta bianca: 0,125 "+ 6" + 0.135 "+ 6" + .125 "= 12,385"
 Altezza minima copertina: Margine di sicurezza + Altezza Libro + Margine di sicurezza
 Esempio di calcolo: 6 "x 9": 0.125 "+ 9" + .125 "= 9.25"
-
 3) Realizzare la copertina
 Zona di sicurezza
 I testi e le immagini devono essere avere almeno .125" di margine per garantire che nessun elemento venga tagliato durante il processo di stampa.
-
 Titolo e nome autore
 il titolo del libro deve corrispondere esattamente a quello che è stato inserito durante il nostro processo di pubblicazione.
 Non è necessario includere il nome del titolo sulla copertina fintanto che è scritto per intero sul dorso del libro.
 Se il libro non è composto di almeno 101 pagine, e non sarà quindi possibile inserire il titolo nel dorso, vi verrà richiesto di aggiungere anche il titolo alla copertina.
 Il nome dell'autore deve comparire all'interno del libro, o il nome completo o solo le iniziali.
 Assicurarsi che le iniziali corrispondano al nome completo immesso durante il nostro processo di installazione, e viceversa.
-
 Immagini
 Le immagini possono essere CMYK o colore RGB. Tutte le immagini devono essere dimensionate al 100%, appiattite a un singolo layer e posizionate nel documento ad una risoluzione minima di 300 dpi.
-
 Dorso del libro
 Ogni libro può variare leggermente quando rilegato. Lasciare per 0,0625" di tolleranza su entrambi i lati delle linee di piegatura per la copertina. Ad esempio, se la larghezza del dorso è di 1", il testo dovrebbe essere non più largo di 0,875". A causa di questa variazione, evitare ombre o linee che terminino sulla linea di piegatura. Per i libri con 130 pagine o meno, si consiglia vivamente di lasciare il dorso vuoto. Dorsi vuoti sono obbligatori per i libri con meno di 101 pagine.
-
 Codice a barre
 Quando il file passerà attraverso il processo di revisione, il nostro sistema inserirà il vostro codice a barre ISBN in un box bianco da 2"x1.2" nell'angolo inferiore destro della copertina del libro. Qualsiasi immagine o testo nella posizione del codice a barre sarà coperto quando il libro sarà stampato. Assicurarsi che nessun elemento importante appaia nell'area in cui verrà inserito il codice a barre.
 Se si sceglie di fornire e inserire il proprio codice a barre, assicurarsi che sia una immagine ad alta risoluzione. Il codice a barre deve essere posizionato sul retro o copertina del libro, a una dimensione raccomandata di 2" di larghezza per 1,2" di altezza. Potrete aggiungere un ulteriore codice a barre UPC a fini di distribuzione, se applicabile.
-
 4) Verifiche finali
 1. L'area di stampa del documento deve essere della dimensione corretta, compresa di margine di sicurezza .
 2. L'area stampabile deve essere centrata all'interno del documento.
 3. Tutti gli elementi devono essere all'interno della zona di sicurezza.
 4. Assicurarsi che gli eventuali font siano incorporati.
 5. La dimensione massima del file per la copertina del libro è di 40 MB.
-
 Indicazioni per le pagine interne versione cartacea:
 Il formato delle pagine interne deve essere quello indicato nella fase di pubblicazione del libro e deve essere lo stesso di quello della copertina.
 I formati disponibili sono:
-
 5" x 8" (12.7 x 20.32 cm)
 5.25" x 8" (13.34 x 20.32 cm)
 5.5" x 8.5" (13.97 x 21.59 cm)
@@ -1145,17 +841,11 @@ Assicurarsi che le iniziali corrispondano al nome completo immesso durante il no
 In caso di libri tradotti è obbligatorio indicare il nome del traduttore nelle prime pagine del libro.
 E' obbligatorio anche indicare i dati di copyright. E' sufficiente anche solo inserire il tuo nome (o il nome del tuo editore se ne hai uno), il simbolo di copyright e l'anno.
 Esempio: "© Rossi Mario 2026"
-
 Immagini
 Le immagini possono essere CMYK o colore RGB. Tutte le immagini devono essere dimensionate al 100%, appiattite a un singolo layer e posizionate nel documento ad una risoluzione minima di 300 dpi.
-
 Bleed
 Se si desidera che le immagini superino i bordi del tuo libro e non restino spazi vuoti, fare in modo che si estendano almeno .125" in più rispetto alle dimensione finali delle pagine (parte superiore, inferiore e bordi esterni) e inviare il file PDF .25" più alto e .125" più largo rispetto al formato selezionato (opzione "Dopo"), altrimenti, in fase di pubblicazione, selezionare l'opzione "Prima".
-
-
 Non dimenticare di aggiungere il nostro logo alla tua copertina:
-  
->> Clicca qui per scaricare il logo <<
 Versione audiolibro
 Specifiche tecniche
 Formato file MP3 mono o stereo, a 192kbps rate costante (CBR) a 44.1 kHz
@@ -1168,7 +858,6 @@ Il titolo di ogni capitolo/sezione deve essere letto a voce più alta
 Ogni file deve avere almeno un secondo di silenzio in apertura e da uno a cinque secondi in chiusura
 Regole copertina audiolibro
 La copertina dell'audiolibro deve essere:
-
 Formato JPG
 Non più piccola di 3000 x 3000 pixels
 Con risoluzione non inferiore a 72 dpi
@@ -1176,22 +865,17 @@ Minimo 24-bit (True Color)
 Colore RGB (non CYMK)
 L'mmagine deve essere un quadrato perfetto e non un rettagnolo con bordi
 Contenuto immagine copertina audiolibro:
-
 Deve contenere sia il nome dell'autore che il titolo
 Non si può fare riferimento a supporti fisici (ad esempio CD) diversi dall'audiolibro presentato
 Non possono essere scansionate custodie, adesivi promozionali o cellophane
 Nessun materiale pornografico od offensivo
 AIUTO!
 Se non sei in grado di eseguire autonomamente la conversione del tuo libro in formato cartaceo (PDF) o di realizzarne la relativa copertina possiamo farlo noi per te.
-
 Dai uno sguardo ai NOSTRI SERVIZI. Siamo a tua completa disposizione.
-
 Approfitta di questa fantastica opportunità.
 --- sito_aiuto_audiobook.txt ---
 AUDIOLIBRI
 Realizzare un audiolibro professionale non è facilissimo ma se hai le giuste conoscenze e gli strumenti adeguati, potrai farlo senza problemi. Vediamo come.
-
-
 Requisiti tecnici
 Hardware necessario
 Un computer
@@ -1200,7 +884,6 @@ Un ambiente di registrazione con pochissimo rumore di fondo e senza eco
 Cuffie o auricolari (opzionali)
 Software
 Ci sono molti programmi in grado di registrare voce e musica. I più utilizzati per gli audiolibri sono:
-
 Garageband per Mac
 Audacity per Windows
 Qualsiasi altro software di questo tipo che conosci già e che sai utilizzare
@@ -1247,7 +930,6 @@ File di esempio dell'audiolibro (Promo)
 Questo esempio deve essere la narrazione di una parte del libro, non dai crediti iniziali, finali o da musica e deve essere di durata compresa tra uno e cinque minuti. Il campione non deve includere materiale esplicito. Questo esempio sarà utilizzato dai clienti finali per ascoltare gratuitamente un'anteprima dell'audiolibro.
 Revisione libro originale
 Se il narratore avesse trovato errori nel file originale del libro, potrà inviare all'autore la nuova versione corretta, caricandola direttamente nel sistema.
-
 Passaggi narrazione
 Lettura del libro
 Consigliamo decisamente di leggere tutto il libro prima di iniziarne la narrazione, in modo da comprenderne perfettamente la trama, i personaggi e le scene. In questa fase, se si riscontrassero errori o refusi nel libro originale, si è tenuti ad apportare le opportune correzioni e a comunicarle all'autore, come indicato nell'ultimo passaggio di questa sezione (Completamento narrazione).
@@ -1265,7 +947,6 @@ Completamento narrazione
 Al termine della narrazione e alla creazione di tutti i file richiesti, si dovrà indicare al sistema che la narrazione è stata terminata, premendo il tasto "Fine narrazione" nell'apposita sezione "Gestione audiolibro". A questo punto i file verrano inviati all'autore per l'approvazione e la successiva pubblicazione.
 Regole copertina audiolibro
 La copertina dell'audiolibro deve essere:
-
 Formato JPG
 Non più piccola di 2500 x 2500 pixels
 Con risoluzione non inferiore a 72 dpi
@@ -1273,7 +954,6 @@ Minimo 24-bit (True Color)
 Colore RGB (non CYMK)
 L'immagine deve essere un quadrato perfetto e non un rettagnolo con bordi
 Contenuto immagine copertina audiolibro:
-
 Deve contenere sia il nome dell'autore che il titolo
 Deve contenere il nome del narratore
 Non si può fare riferimento a supporti fisici (ad esempio CD) diversi dall'audiolibro presentato
@@ -1282,7 +962,6 @@ Nessun materiale pornografico od offensivo
 Linee guida prezzi audiolibro
 Il prezzo di un audiolibro varia in funzione della durata, del genere, del prezzo di audiolibri simili e dell'obbiettivo a cui si punta. Ad esempio massimizzare i ricavi per ogni vendita oppure avere più esposizione (quindi un prezzo più basso).
 La tabella seguente fornisce le linee guida generali dei prezzi in base alla lunghezza dell'audiolibro:
-
 Durata	Range di prezzo (EUR)
 Meno di 1 ora	4,00 – 7,00
 Da 1 a 3 ore	7,00 – 12,00
@@ -1291,7 +970,6 @@ Da 6 a 10 ore	15,00 – 25,00
 Da 10 a 15 ore	17,50 – 25,00
 Da 15 a 20 ore	20,00 – 30,00
 Più di 20 ore	25,00 – 40,00
-
 Esempi e lezioni
 In questa pagina potrete reperire tutte le infomazioni, i manuali d'uso e gli esempi per l'utilizzazione del software Audacity: Documentazione Audacity.
 In questa pagina potrete invece reperire tutte le infomazioni, i manuali d'uso e gli esempi per l'utilizzazione del software Garageband: Documentazione Garageband.
@@ -1304,73 +982,56 @@ Rendicontazione
 Tektime rendiconterà mensilmente agli utenti, nell'apposita sezione del Portale (“Vendite”), l'andamento delle vendite dei libri e degli audiolibri ove saranno indicate le copie vendute ed il relativo fatturato.
 I dati visualizzati in tale sezione sono resi disponibili solo per fini statistici e potrebbero cambiare a causa di tassazioni locali e resi o rimborsi dei libri acquistati. Tali dati non sono in tempo reale poiché i canali di vendita possono inviarceli anche con ritardi superiori ai 30 giorni.
 I dati ufficiali di vendita che saranno utilizzati per pagare i proventi sono solo ed esclusivamente quelli che saranno indicati nella sezione Fatture.
-
 Contributo traduzione/narrazione
 Il contributo traduzione/narrazione sarà considerato come una vendita del libro anche se "speciale" (Golden copy) e seguirà le stesse regole di rendicontazione e pagamento delle normali vendite dei libri.
-
 Richiesta di fatturazione
 Tektime, alla fine di ogni mese, genererà automaticamente una richiesta di fatturazione (in caso di persona giuridica) o una richiesta di emissione notula (in caso di persona fisica) relativa ai proventi derivanti dalle vendite dei libri (Fatturato Netto) accumulati fino a due mesi prima.
 (Es.: a fine Aprile saranno emesse le ricevute delle royalty maturate fino a tutto Febbraio).
 La fattura/notula sarà creata automaticamente dal sistema e verrà richiesto solo di indicarne il numero progressivo e la data di emissione in linea con il sistema gestionale dell'utente.
 La fattura/notula dovrà essere approvata dall'utente e solo dopo tale approvazione potrà essere abilitata per il pagamento.
-
 Soglia minima
 Nel caso in cui l'importo che Tektime dovrà corrispondere all'utente per il periodo rendicontato sia inferiore ai 50 Euro, tale importo sarà accantonato e accumulato ai proventi dei mesi successivi fino al raggiungimento della soglia dei 50 Euro. Solo dopo il superamento di suddetta soglia, i proventi potranno essere liquidati.
-
 Pagamenti
 Tektime, immediatamente dopo 60 giorni dalla data della fattura o della notula, invierà il pagamento all'utente nella modalità che è stata indicata al momento dell'iscrizione. Di seguito le modalità di pagamento accettate:
-
 PayPal (*)
 PayPal offre alle aziende e ai privati che dispongano di un indirizzo email la possibilità di inviare e ricevere denaro in modo semplice, rapido e sicuro.
 PayPal utilizza le infrastrutture finanziarie esistenti dei conti bancari e delle carte di credito per creare un sistema di pagamento su base globale e in tempo reale.
 Il tuo account PayPal potrà essere utilizzato per ricevere i proventi delle vendite dei tuoi libri.
-
 Wise (*)
 Wise è il nuovo modo intelligente per convertire denaro in altre valute ed inviarlo all'estero oppure per effettuare bonifici internazionali.
 Utilizzando questo servizio potrai ricevere i tuoi compensi (se risiedi all'estero) con costi molto inferiori perché le commissioni di trasferimento fondi sono fino a otto volte più basse delle banche tradizionali.
 Potrai trovare maggiori informazioni sul sito www.wise.com
 Se ti iscrivi seguendo questo link, potrai effettuare il tuo primo trasferimento, fino a 500 EUR, senza nessuna commissione.
-
 Payoneer (*)
 Payoneer ti offre un conto multivaluta per pagare ed essere pagato a livello globale e il più facilmente possibile a livello locale.
 Questo conto all-in-one ti offre tutto ciò di cui hai bisogno per essere pagato dai tuoi clienti internazionali e dai marketplace globali.
 ATTENZIONE! Tramite Payoneer non potrai ricevere pagamenti inferiori alla soglia minima pagabile di EUR 55.
 Potrai trovare maggiori informazioni sul sito www.payoneer.com
-
 (*) Tektime non potrà essere ritenuta in alcun modo responsabile per eventuali disservizi procurati da PayPal, Wise o Payoneer, in quanto i servizi erogati da Tektime in questo sito, non sono né direttamente né indirettamente connessi ai suddetti fornitori.
-
 Valuta
 I conteggi e i pagamenti dei proventi saranno effettuati esclusivamente in EURO. Tektime non sarà responsabile per eventuali perdite derivanti da variazioni dei tassi di cambio in altre valute.
-
 Ritenuta d'acconto
 La legge italiana, in caso di persone fisiche, ci impone di applicare la ritenuta d'acconto indicata nella notula.
-
 UTENTI RESIDENTI IN ITALIA:
 Invieremo annualmente la certificazione dei compensi corrisposti da utilizzare nella dichiarazione dei redditi.
-
 UTENTI NON RESIDENTI IN ITALIA:
 Se in possesso dei requisti necessari e se il paese di residenza ha stipulato un accordo per evitare la doppia imposizione fiscale, sarà possibile richiedere il rimborso di tale importo. Tutte le informazioni relative alla procedura da seguire sono reperibili nei link indicati di seguito:
-
 >> AGENZIA DELLE ENTRATE (Fiscalità internazionale) <<
 >> AGENZIA DELLE ENTRATE (Richiesta rimborso) <<
-
 I dati della nostra azienda sono:
 Tektime S.r.l.s. unipersonale
 Indirizzo: Via Armando Fioretti, 17
 05030 – Montefranco – Terni – Italia
 P.IVA: 01585300559
 PEC: tektime@arubapec.it
-
 UTENTI CON ABBONAMENTO GOLD:
 Se in possesso dei requisti necessari e se il paese di residenza ha stipulato un accordo per evitare la doppia imposizione fiscale, sarà possibile richiedere l'esenzione dell'applicazione della ritenuta d'acconto.
 Per ottenere l'esenzione occorrerà:
-
 1. Verificare che la propria nazione di residenza abbia stipulato una convenzione con l'Italia contro le doppie imposizioni fiscali. Qui puoi trovare un elenco delle nazioni con una convenzione attiva.
 2. Scaricare il seguente modulo, compilarlo in tutte le parti necessarie, firmarlo digitalmente o firmarlo di pugno allegando un proprio documento di identità in corso di validità. Le istruzioni per la compilazione potranno essere scaricate cliccando qui;
 3. Richiedere alla propria Agenzia delle Tasse il Certificato di Residenza Fiscale contro le Doppie Imposizioni per Royalty;
 4. Unire entrambi i documenti in un unico file PDF ed inviarlo al nostro indirizzo di posta elettronica: info@tektime.it
 Se saranno soddisfatti tutti i requisiti richiesti dalla vigente normativa, applicheremo la riduzione delle tasse richiesta.
-
 --- sito_aiuto3.txt ---
 SERVIZI AGGIUNTIVI
 Servizi aggiuntivi acquistabili
@@ -1378,182 +1039,113 @@ Sono a tua disposizione una serie di servizi aggiuntivi opzionali che potrai acq
 
 Servizio	Prezzo EUR (IVA inclusa)
 Formattazione libro originale o tradotto
-
 Formattazione di base e corretta impaginazione del libro (paragrafi, capitoli, indici, note a piè di pagina, margini, etc.)
-
 49,00
 Conversione EPUB
-
 Conversione del file del libro tradotto in formato EPUB, con adeguamento alle normative del European Accessibility Act, in vigore da giugno 2025.
-
 49,00
 Realizzazione copertina EPUB
-
 Realizzazione della copertina dell'e-book, solo grafica (solo fronte), senza immagini (o con immagini di proprietà dell'autore), 2 proposte. Tempi realizzazione 5gg. lavorativi.
-
 69,00
 Conversione in PDF
-
 Conversione del file del libro in PDF per la realizzazione della versione cartacea nel formato indicato nella pubblicazione. Sarà compresa anche la riformattazione completa del libro (paragrafi, capitoli, indici, note, impaginazione, etc.)
-
 79,00
 Realizzazione copertina versione cartacea.
-
 Realizzazione della copertina versione cartacea, solo grafica (fronte, dorso, retro), senza immagini (o con immagini di proprietà dell'autore), 2 proposte. Tempi realizzazione 5gg. lavorativi.
-
 99,00
 Realizzazione copertina Audiolibro
-
 Realizzazione della copertina dell`Audiolibro, solo grafica (solo fronte), senza immagini (o con immagini di proprietà dell`autore), 2 proposte. Tempi realizzazione 5gg. lavorativi.
-
 69,00
 Creazione Booktrailer
-
 Creazione di un booktrailer per un libro o audiolibro (vedi esempi).
 E' compresa la promozione sui nostri canali social (Facebook, Instagram, Linkedin, Tiktok, etc.). Inoltre, a richiesta, il booktrailer potrà essere inviato all'utente per promozione in proprio.
 Il booktrailer consiste in un videoclip di presentazione del libro o audiolibro con durata adattata per i differenti canali social. Nel booktrailer viene mostrato un video con la copertina, la descrizione, immagini e video di sfondo adatte al genere del libro, musiche di sottofondo e l'invito all'acquisto sulla nostra libreria.
 Tutte le immagini e le musiche inserite nel videoclip saranno di pubblico dominio.
-
 99,00
 Proofreading
-
 Correzione bozze. Lettura approfondita del testo con eliminazione refusi, formattazione approfondita (righe rientranti, corsivi, maiuscoletti, neretto) e correzione impaginazione (paragrafi, capitoli, indici, note a pié di pagina, margini, etc.)
 (Indicativamente da 0,01 a 0,05 EURO/Parola in funzione della lingua)
-
 Richiedi preventivo
 Editing
-
 Revisione completa del testo. Applicazione norme uniformazione editoriale, strutturazione argomenti, verifica citazioni e bibliografia, revisione linguistica, analisi contenuti ed eventuale riscrittura, formattazione approfondita e impaginazione.
 (Indicativamente da 0,02 a 0,10 EURO/Parola in funzione della lingua)
-
 Richiedi preventivo
 Traduzione libri (pagamento diretto)
-
 Richiedi la traduzione dei tuoi libri senza utilizzare la formula "Revenue sharing". I tuoi libri saranno tradotti direttamente. Pagherai solo il lavoro di traduzione e non dovrai dividere i proventi delle vendite con il traduttore.
 (Indicativamente da 0,03 a 0,12 EURO/Parola in funzione della lingua)
-
 Richiedi preventivo
 Narrazione libri (pagamento diretto)
-
 Richiedi la narrazione dei tuoi libri senza utilizzare la formula "Revenue sharing". I tuoi libri saranno narrati direttamente. Pagherai solo il lavoro di narrazione e non dovrai dividere i proventi delle vendite con il narratore.
 (Indicativamente da 0,01 a 0,15 EURO/Parola in funzione della lingua)
-
 Richiedi preventivo
 Promozione Amazon
-
 Promuovi il tuo libro su Amazon agli acquirenti che eseguono ricerche con parole chiave attinenti o che cercano libri simili al tuo.
 Ci occuperemo noi di creare la campagna promozionale migliore per i tuoi libri e della sua gestione. Il tuo libro sarà  presentato ai lettori mentre ricercano libri simili al tuo, per genere o per parole chiave. Gli annunci vengono visualizzati nei risultati di ricerca e nelle pagine di dettaglio prodotto, su desktop e dispositivi mobili. Gli annunci saranno pubblicati su Amazon.com, Amazon.co.uk, Amazon.de, Amazon.es, Amazon.fr e Amazon.it a seconda della lingua del libro stesso. (*)
-
 Indica i mesi di durata della promozione e l'importo mensile che vuoi investire per calcolare il costo totale della campagna promozionale (commissione servizio e IVA inclusa).
-
 Durata promozione mesi: 
 1
-
 Importo mensile (EUR): 
 50,00
-
 50,00
 Promozione Booktrailer su Social
-
 Promuovi il tuo libro/audiolibro tramite un Booktrailer su Facebook e Instagram agli utenti interessati agli argomenti trattati. Il booktrailer potrà essere fornito dall'utente (realizzazione in proprio) oppure acquistato tramite il nostro servizio "Creazione Booktrailer" indicato in precedenza. (*)
-
 Indica i mesi di durata della promozione e l'importo mensile che vuoi investire per calcolare il costo totale della campagna promozionale (commissione servizio e IVA inclusa).
-
 Durata promozione mesi:	
 1
 Importo mensile (EUR):	
 50,00
 50,00
 Certificazione AI Free
-
-
 Il Certificato AI-Free non solo attesta l'autenticità e l'approccio umano nell'elaborazione dell'opera, ma si trasforma anche in un potente catalizzatore per l'aumento delle vendite. I lettori, sempre più consapevoli e attenti nella scelta dei contenuti, vedranno questa certificazione come un segno distintivo di qualità e originalità, aumentando significativamente l'attrattiva del libro sul mercato. L'assicurazione di un utilizzo limitato di intelligenza artificiale non solo rassicura sulla natura umana del processo creativo, ma funge anche da incentivo per i potenziali acquirenti. Pertanto, il Certificato AI-Free non solo garantisce un'esperienza di lettura autentica, ma si traduce anche in un notevole vantaggio competitivo, contribuendo a incrementare le vendite del libro.
-
-Clicca qui per maggiori informazioni.
-
 49,00
 ISBN aggiuntivo
-
 Codice ISBN aggiuntivo per pubblicazione libri o audiolibri (commissioni servizio e IVA inclusi).
-
 39,00
 Pacchetto 10 TEK
-
 Pacchetto 10 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 12,90
 Pacchetto 20 TEK
-
 Pacchetto 20 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 24,52
 Pacchetto 30 TEK
-
 Pacchetto 30 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 34,83
 Pacchetto 40 TEK
-
 Pacchetto 40 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 43,88
 Pacchetto 50 TEK
-
 Pacchetto 50 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 51,61
 Pacchetto 100 TEK
-
 Pacchetto 100 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 96,75
 Abbonamento GOLD Autore (annuale)
-
-
 Clicca qui per vedere tutti i dettagli di questo piano.
-
 69,00
 Abbonamento GOLD Editore (annuale)
-
-
 Clicca qui per vedere tutti i dettagli di questo piano.
-
 99,00
 Abbonamento GOLD Traduttore (annuale)
-
-
 Clicca qui per vedere tutti i dettagli di questo piano.
-
 49,00
 Abbonamento GOLD Narratore (annuale)
-
-
 Clicca qui per vedere tutti i dettagli di questo piano.
-
 49,00
-
 (*) Tektime si occuperà di gestire la campagna promozionale nel modo più efficace e proficuo possibile. Non è ovviamente garantito alcun tipo di risultato, né di visibilità, né di vendite, in quanto indipendente dalla nostra volontà. Non sarà quindi possibile richiedere nessun tipo di rimborso per eventuali risultati della campagna promozionale inferiori alle attese o reputati insoddisfacenti. Se il budget stabilito non si esaurirà nel periodo indicato, la durata campagna sarà automaticamente prolungata fino al termine dei fondi.
-
 Potrai acquistare i suddetti servizi durante la fase di pubblicazione del libro o direttamente premendo il pusante sottostante (devi prima aver fatto l'accesso con le tue credenziali):
 --- sito_faq.txt ---
 Domande frequenti
 Le nostre risposte
-
- Perché la durata dei contratti è così lunga? L'autore può recedere anticipatamente?
+Perché la durata dei contratti è così lunga? L'autore può recedere anticipatamente?
 Tektime si riserva l'esclusività della distribuzione dei libri tradotti e degli audiolibri per un periodo di tempo rispettivamente di cinque e sette anni, in modo che il traduttore e il narratore possano recuperare le spese sostenute per la traduzione e la narrazione del libro, oltre che a ottenere un guadagno adeguato per il lavoro svolto.
-
 Pensi che tale periodo sia un po' troppo lungo?
-
 Anche se noi crediamo molto in tutti i libri che pubblichiamo, non possiamo essere certi che le vendite siano così rapide da permettere a tutti di rientrare immediatamente delle spese e di iniziare subito a guadagnare. Per questo motivo abbiamo stabilito dei tempi minimi della durata della distribuzione. Comunque, l'autore può, in qualsiasi momento, recedere dal contratto prima della scadenza naturale.
-
 Ovviamente, gli verrà richiesto di partecipare alle spese sostenute sia dal traduttore che da noi, versando una piccola quota a titolo di risarcimento, così cone indicato nei contratti.
-
- Sono un traduttore. Perché dovrei iscrivermi?
+Sono un traduttore. Perché dovrei iscrivermi?
 Il nostro portale potrà darti grandi opportunità di lavorare con autori di fama mondiale e di guadagnare mettendo a frutto le tue conoscenze linguistiche. Questo è un servizio innovativo, basato sull'interscambio culturale per la diffusione di opere a livello globale.
 Rispetto ad altri servizi simili noi:
-
 ti garantiamo guadagni più elevati (fino al 75% delle vendite)
-tratteniamo le commissioni più basse per il nostro lavoro (solo il 10%)
+tratteniamo le commissioni più basse per il nostro lavoro (solo il 20%)
 distribuiamo le opere tradotte su tutti i portali online più famosi (Amazon, Google Play, iTunes, ebay, etc.)
 cerchiamo di svolgere la promozione e la distribuzione dei libri tramite le nostra struttura, limitanto il più possibile l'ultilizzazione di altri canali di vendita, per garantirti sempre il massimo dei guadagni
 diamo la priorità a chi si iscrive per primo, facendolo apparire in testa alle ricerche effettuate dagli autori
@@ -1562,9 +1154,8 @@ stiamo sempre dalla tua parte per proteggere al massimo il tuo lavoro
  Sono un autore. Perché dovrei iscrivermi?
 Tramite il nostro portale potrai finalmente tradurre le tue opere senza bisogno di anticipare neanche un centesimo. I tuoi libri saranno commercializzati a livello mondiale in tutte le lingue che deciderai tu. Il nostro è un servizio innovativo, basato sull'interscambio culturale e sulla disponibilità di tante persone che mettono a tua disposizione le proprie conoscenze linguistiche.
 Rispetto ad altri servizi simili noi:
-
 ti permettiamo di richiedere ai traduttori fino a 2 traduzioni al giorno
-tratteniamo le commissioni più basse per il nostro lavoro (solo il 10%)
+tratteniamo le commissioni più basse per il nostro lavoro (solo il 20%)
 distribuiamo le opere tradotte su tutti i portali online più famosi (Amazon, Google Play, iTunes, ebay, etc.)
 cerchiamo di svolgere la promozione e la distribuzione dei libri tramite le nostra struttura, limitanto il più possibile l'ultilizzazione di altri canali di vendita, per garantirti sempre il massimo dei guadagni
 facciamo da garanti per il regolare svoglimento di tutto il lavoro di traduzione
@@ -1573,9 +1164,8 @@ abbiamo un staff altamente professionale e qualificato, sempre pronto a risponde
  Sono un narratore. Perché dovrei iscrivermi?
 Il nostro portale potrà darti grandi opportunità di lavorare con autori di fama mondiale e di guadagnare mettendo a frutto le tue abilità narrative. Questo è un servizio innovativo, basato sull'interscambio culturale per la diffusione di audiolibri a livello globale.
 Rispetto ad altri servizi simili noi:
-
 ti garantiamo guadagni più elevati (fino al 75% delle vendite)
-tratteniamo le commissioni più basse per il nostro lavoro (solo il 10%)
+tratteniamo le commissioni più basse per il nostro lavoro (solo il 20%)
 distribuiamo le opere tradotte su tutti i portali online più famosi (Amazon, Google Play, iTunes, ebay, etc.)
 cerchiamo di svolgere la promozione e la distribuzione degli audiolibri tramite le nostra struttura, limitanto il più possibile l'ultilizzazione di altri canali di vendita, per garantirti sempre il massimo dei guadagni
 diamo la priorità a chi si iscrive per primo, facendolo apparire in testa alle ricerche effettuate dagli autori
@@ -1583,101 +1173,73 @@ abbiamo un staff altamente professionale e qualificato, sempre pronto a risponde
 stiamo sempre dalla tua parte per proteggere al massimo il tuo lavoro
  Come posso controllare l'andamento delle vendite dei libri e degli audiolibri?
 All'interno della tua Area Personale c'è una specifica voce "Vendite" dove potrai visualizzare l'andamente mensile delle vendite e i relativi dati per la fatturazione ed i pagamenti. Tutto è molto chiaro e di semplice consultazione.
-
- Come mi verranno inviati i proventi delle vendite dei libri e degli audiolibri?
+Come mi verranno inviati i proventi delle vendite dei libri e degli audiolibri?
 Al momento della registrazione ti verrà richiesto di inserire i tuoi dati fiscali dove potrai indicare l'indirizzo PayPal ove vorrai che i proventi delle vendite ti siano inviati. Se non disponi di un account PayPal potrai, molto semplicemente, creane uno a questo indirizzo https://www.paypal.com e collegarlo al tuo conto corrente bancario. L'utilizzo del sistema PayPal è stato adottato per ridurre al massimo anche i costi di trasferimento del denaro.
 Come alternativa, per i paesi non serviti da PayPal, utilizziamo il servizio TransferWise che ti consentirà di ricevere i pagamenti direttamente sul tuo conto corrente bancario.
-Clicca qui per ulteriori informazioni.
-
- Come funziona la tassazione dei proventi?
+Come funziona la tassazione dei proventi?
 La tassazione sui proventi sarà soggetta alle imposizioni previste dalla legge italiana e agli eventuali accordi internazionali tra l'Italia e la tua nazione di residenza fiscale. Le eventuali ritenute alla fonte, ove applicabili, saranno calcolate sulle singole spettanze relativamente al “Fatturato Netto” cioè al prezzo di listino (prezzo di copertina) esclusa I.V.A. meno le commissioni che i vari canali di vendita trattengono per la loro attività. Facciamo un esempio di un tuo libro venduto su Amazon a 4,99 Euro. L'I.V.A. da non considerare nel calcolo sarà di 0,20 Euro. Supponendo che Amazon trattenga per il suo servizio il 30%, il "Fatturato Netto" sarà di 4,79 - 30%=3,35 Euro. Questo è l'importo che sarà diviso fra traduttore, autore e Tektime come descritto nella tabella di riferimento. Sulle spettanze di ciascuna delle tre parti saranno poi applicate le eventuali ritenute di legge a titolo di acconto d'imposta.
 Potrebbe sembrare tutto un po' complicato ma non ti preoccupare, penseremo noi a queste incombenze, preparando chiari e dettagliati riepiloghi con tutti i calcoli indicati con precisione.
-
 NOVITA!
 Se sei un utente GOLD e non risiedi in Italia potrai evitare l'applicazione della tassazione del 30% sulle royalty, previo invio del tuo Certificato di Residenza Fiscale contro le doppie imposizioni, rilasciato dall'Agenzia delle Entrate della nazione ove risiedi.
-
- Cos'è il contributo traduzione?
+Cos'è il contributo traduzione?
 L'autore, allo scopo di incentivare i traduttori ad effettuare la traduzione del proprio libro, potrà (facoltativamente) stabilire un contributo traduzione e cioè un importo che il traduttore percepirà in ogni caso, anche se il libro tradotto non dovesse vendere neanche una copia.
 Tale contributo potrà essere versato dall'autore, semplicemente acquistando, tramite un'apposita sezione nel nostro portale, una GOLDEN COPY del libro tradotto e cioè una copia speciale il cui costo sarà equivalente a quanto stabilito come contributo (*).
 In questo modo, l'importo sarà considerato come se fosse un ricavo delle vendite del libro e sarà contabilizzato nella divisione dei proventi. Ovviamente, l'autore non parteciperà alla divisione di questo importo che, dedotta la nostra solita percentuale, sarà invece accantonato per il traduttore (**), in modo da garantirgli comunque un introito minimo per il lavoro svolto.
-
 L'importo sarà immediatamente visibile nell'account del traduttore, sarà considerato come una vendita del libro anche se "speciale" (Golden copy) e seguirà le stesse regole di rendicontazione e pagamento delle normali vendite dei libri.
-
 Esempio:
 L'autore Mario vuole tradurre il proprio romanzo "Le avventure di Mario" in inglese e stabilisce, in fase di inserimento del libro, un contributo traduzione pari a 1000 Euro.
-
 Il traduttore Paolo accetta di tradurre il libro e inizia il normale rapporto con l'autore, come stabilito nel contratto di traduzione.
 Nel momento in cui Mario (l'autore) approverà la prima parte della traduzione del libro (5% del totale) e darà quindi il via effettivo al contratto di traduzione, dovrà accedere all'apposita sezione del nel nostro portale ed acquistare una GOLDEN COPY del libro, del valore di 1000 Euro (equivalente al contributo di traduzione stabilito, al quale sarà aggiunto l'importo relativo al rimborso forfetario delle spese di gestione).
 L'autore riceverà una mail di conferma dell'ordine e la relativa fattura.
 L'importo, dal quale saranno dedotte IVA, tasse, trattenute, etc. come per i proventi delle vendite dei libri, sarà contabilizzato nel conto del traduttore ma non sarà ancora disponibile per il prelievo. Lo diventerà infatti, solo dopo il completamento del lavoro di traduzione e della relativa approvazione da parte dell'autore e di Tektime. Tale importo sarà inserito tra le normali vendite dei libri e sarà pagato nelle stesse modalità.
 A questo punto inizierà la commercializzazione effettiva del libro tradotto e Tektime ripartirà i compensi tra autore e traduttore (vedi grafico) come stabilito nel contratto di traduzione.
 Se la traduzione non dovesse andare a buon fine, per cause imputabili al traduttore, il contributo traduzione sarà comunque rimborsato (***) all'autore.
-
 I libri con un contributo traduzione più alto appariranno per primi nelle ricerche affettuate dai traduttori.
-
 Si rammenta che, qualsiasi accordo stabilito fra le parti che esuli da quanto indicato nel nostro contratto standard non potrà da noi essere gestito in alcun modo, né potremo esserne considerati responsabili. Tektime sconsiglia vivamente questo tipo di accordi extra contrattuali tra autori e traduttori.
-
 (*) Il contributo includerà anche un importo aggiuntivo a titolo di rimborso spese forfetarie per la gestione del contributo stesso (costi transazione, conversione valuta, etc.).
 (**) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e il traduttore.
 (***) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e l'autore.
-
- Cos'è il contributo narrazione?
+Cos'è il contributo narrazione?
 L'autore, allo scopo di incentivare i narratori ad effettuare la narrazione del proprio libro, potrà (facoltativamente) stabilire un contributo narrazione e cioè un importo che il narratore percepirà in ogni caso, anche se il libro tradotto non dovesse vendere neanche una copia.
 Tale contributo potrà essere versato dall'autore, semplicemente acquistando, tramite un'apposita sezione nel nostro portale, una GOLDEN COPY del libro tradotto e cioè una copia speciale il cui costo sarà equivalente a quanto stabilito come contributo (*).
 In questo modo, l'importo sarà considerato come se fosse un ricavo delle vendite del libro e sarà contabilizzato nella divisione dei proventi. Ovviamente, l'autore non parteciperà alla divisione di questo importo che, dedotta la nostra solita percentuale, sarà invece accantonato per il narratore (**), in modo da garantirgli comunque un introito minimo per il lavoro svolto.
-
 L'importo sarà immediatamente visibile nell'account del narratore, sarà considerato come una vendita del libro anche se "speciale" (Golden copy) e seguirà le stesse regole di rendicontazione e pagamento delle normali vendite degli audiolibri.
-
 Esempio:
 L'autore Sergio vuole creare l'audiolibro del proprio romanzo "Le avventure di Sergio" in inglese e stabilisce, in fase di inserimento del libro, un contributo narrazione pari a 1000 Euro.
-
 Il narratore Pietro accetta di narrare il libro e inizia il normale rapporto con l'autore, come stabilito nel contratto di narrazione.
 Nel momento in cui Sergio (l'autore) approverà la prima parte della narrazione del libro (5% del totale) e darà quindi il via effettivo al contratto di narrazione, dovrà accedere all'apposita sezione del nel nostro portale ed acquistare una GOLDEN COPY dell'audiolibro, del valore di 1000 Euro (equivalente al contributo di narrazione stabilito, al quale sarà aggiunto l'importo relativo al rimborso forfetario delle spese di gestione).
 L'autore riceverà una mail di conferma dell'ordine e la relativa fattura.
 L'importo, dal quale saranno dedotte IVA, tasse, trattenute, etc. come per i proventi delle vendite dei libri, sarà contabilizzato nel conto del narratore ma non sarà ancora disponibile per il prelievo. Lo diventerà infatti, solo dopo il completamento del lavoro di narrazione e della relativa approvazione da parte dell'autore e di Tektime. Tale importo sarà inserito tra le normali vendite degli audiolibri e sarà pagato nelle stesse modalità.
 A questo punto inizierà la commercializzazione effettiva dell'audiolibro e Tektime ripartirà i compensi tra autore e narratore (vedi grafico) come stabilito nel contratto di narrazione.
 Se la narrazione non dovesse andare a buon fine, per cause imputabili al narratore, il contributo narrazione sarà comunque rimborsato (***) all'autore.
-
 I libri con un contributo narrazione più alto appariranno per primi nelle ricerche affettuate dai narratori.
-
 Si rammenta che, qualsiasi accordo stabilito fra le parti che esuli da quanto indicato nel nostro contratto standard non potrà da noi essere gestito in alcun modo, né potremo esserne considerati responsabili. Tektime sconsiglia vivamente questo tipo di accordi extra contrattuali tra autori e narratori.
-
 (*) Il contributo includerà anche un importo aggiuntivo a titolo di rimborso spese forfetarie per la gestione del contributo stesso (costi transazione, conversione valuta, etc.).
 (**) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e il narratore.
 (***) Potrebbero essere applicate delle piccole commissioni dovute al costo della transazione per il trasferimento fondi tra Tektime e l'autore.
-
- Dove posso trovare una copia del contratto?
+Dove posso trovare una copia del contratto?
 Il contratto standard tra autore/editore, traduttore e Tektime è scaricabile
 da qui: CONTRATTO TRADUZIONE
-
 Il contratto standard tra autore, narratore e Tektime è scaricabile
 da qui: CONTRATTO NARRAZIONE
-
 Il contratto di pubblicazione del libro originale è invece scaricabile da qui: CONTRATTO PUBBLICAZIONE ORIGINALI
-
- Mi sono iscritto ma non ho ricevuto la mail di conferma. Cosa posso fare?
+Mi sono iscritto ma non ho ricevuto la mail di conferma. Cosa posso fare?
 La mail di conferma potrebbe essere stata considerata posta indesiderata (SPAM) dal tuo server di posta.
 Prova a controllare nella casella SPAM del tuo client di posta o nei messaggi contrassegnati come **SPAM**.
 Se non trovi nessun messaggio prova comunque ad accedere al sistema con i dati che hai utilizzato per l'iscrizione.
 Verrai reindirizzato ad una pagina dove potrai richiedere un nuovo invio della mail di conferma.
-
- Dove posso trovare il coupon per lo sconto sugli acquisti nella vostra libreria online?
+Dove posso trovare il coupon per lo sconto sugli acquisti nella vostra libreria online?
 Accedi al tuo profilo. Il codice si trova appena sotto i tuoi dati anagrafici.
-
- Cosa sono i Voucher TEK?
+Cosa sono i Voucher TEK?
 I Voucher TEK sono strumenti esclusivi del nostro portale, progettati per rendere gli acquisti più semplici e veloci. Con i Voucher TEK potrete acquistare facilmente i nostri principali servizi. .
 >> Clicca qui << per maggiori informazioni.
 --- sito_ai_free.txt ---
 CERTIFICATO AI-FREE
-
 Cos'è un Certificato AI-Free?
 Un Certificato AI-Free rappresenta un processo di verifica e certificazione per confermare che un libro o un'opera tradotta è stata realizzata con un ricorso minimo o nullo all'intelligenza artificiale.
 Questa certificazione garantisce ai lettori che il contenuto proviene principalmente dall'esperienza e dalla creatività umana, presentando un utilizzo minimo o nullo di software, algoritmi o strumenti automatizzati di intelligenza artificiale.
-
 Aumenta le Vendite con la Certificazione AI-Free
-
 Acquisire un Certificato AI-Free per il tuo libro non rappresenta solo un riconoscimento, ma si trasforma in un potente incentivo per possibili acquirenti. Esploriamo come questa certificazione non solo accresce l'appeal della tua opera, ma potenzia notevolmente la sua presenza sul mercato, elevandola a una scelta irrinunciabile per i lettori più attenti e selettivi.
-
 Costruire Fiducia: I lettori sono sempre più consapevoli dell'influenza della tecnologia sulla creazione di contenuti. Un Certificato AI-Free instaura fiducia assicurando ai lettori che il tuo libro è realizzato solo con creatività ed esperienza umana, libero da ricorsi all'intelligenza artificiale.
 L'Autenticità Vende: In un mercato saturo di varie forme di contenuti, l'autenticità si distingue. Evidenziare la tua Certificazione AI-Free sottolinea la natura autentica e generata dall'uomo del tuo libro, attraendo lettori che apprezzano contenuti genuini e non automatizzati.
 Assicurazione di Qualità: Il processo di certificazione comporta un'esame approfondito del contenuto del tuo libro, garantendo scrittura di alta qualità, creatività e originalità. Questa assicurazione di qualità può attirare lettori attenti che cercano opere ben realizzate e attentamente prodotte.
@@ -1685,10 +1247,8 @@ Attrarre Lettori Etici: Con l'aumentare delle considerazioni etiche nella mente 
 Distinguersi nel Mercato: Usa il Certificato AI-Free come potente strumento di marketing. Incorpora il logo di certificazione sulla copertina del tuo libro, sui materiali promozionali e sulle piattaforme online per catturare l'attenzione dei potenziali lettori. Comunica chiaramente l'autenticità e il tocco umano che il tuo libro offre.
 Ottieni un vantaggio competitivo sul mercato, aumenta la fiducia dei lettori e incrementa le vendite del tuo libro mostrando con orgoglio la tua
 Certificazione AI-Free!
-
 Processo di Certificazione AI-Free per i Libri
 Scopri la nostra guida completa sul processo di Certificazione AI-Free per libri e opere tradotte, garantendo un impiego nullo o comunque inferiore al 10% di intelligenza artificiale. Questa certificazione garantisce ai lettori un utilizzo minimo o addirittura assente di intelligenza artificiale nella creazione del contenuto, offrendo un'esperienza di lettura autentica, generata solo dalla creatività umana.
-
 Processo di Certificazione AI-Free per Autori
 Presentazione della Dichiarazione:
 L'autore presenta una dichiarazione completa affermando che la creazione del libro non ha coinvolto, o ha convolto in misura inferiore al 10%, l'utilizzo di software, algoritmi o strumenti automatizzati di intelligenza artificiale.
@@ -1712,7 +1272,6 @@ Decisione di Certificazione:
 In base alla revisione, si rilascia la certificazione confermando che il libro soddisfa i criteri di utilizzo limitato di intelligenza artificiale oppure viene rifiutata la certificazione se il testo non rispetta i requisiti richiesti.
 In caso positivo, viene rilasciata la certificazione, specificando che il libro è stato approvato come avente utilizzato meno del 10% di intelligenza artificiale nella sua creazione.
 	Il bollino di certificazione AI-Free verrà da noi applicato sulla copertina del tuo libro in modo che gli utenti possano identificarlo subito e sceglierlo tra tutti gli altri libri.
-
 Inoltre, nella descrizione del libro, verrà indicato che è stato da noi certificato e come poter reperire tutte le informazioni relative alla certificazione rilasciata.
 Documentazione e Conservazione dei Registri:
 Viene mantenuta una documentazione accurata del processo di certificazione, inclusa la dichiarazione inviata, i materiali di supporto e i risultati della valutazione.
@@ -1722,8 +1281,6 @@ In conformità con la decisione di certificazione, viene emesso un Certificato A
 Comunicazione con l'Autore:
 L'Autore viene informato della decisione di certificazione, fornendo una spiegazione dettagliata.
 Sono attentamente considerate, valutate e chiarite tutte le domande emerse da parte del'Autore nel corso del processo di certificazione.
-RICHIEDI ORA
-
 Processo di Certificazione AI-Free per Traduttori
 Presentazione della Dichiarazione:
 Il Traduttore presenta una dichiarazione completa affermando che la creazione del libro coinvolge meno del 10% di utilizzo di software, algoritmi o strumenti automatizzati di intelligenza artificiale.
@@ -1746,7 +1303,6 @@ Decisione di Certificazione:
 In base alla revisione completa, il dipartimento di certificazione rilascia questo Certificato AI-Free, confermando che il libro soddisfa i criteri di utilizzo limitato di AI.
 Il libro è certificato per l'utilizzo inferiore al 10% di AI nella sua creazione.
 	Il bollino di certificazione AI-Free verrà da noi applicato sulla copertina del tuo libro in modo che gli utenti possano identificarlo subito e sceglierlo tra tutti gli altri libri.
-
 Inoltre, nella descrizione del libro, verrà indicato che è stato da noi certificato e come poter reperire tutte le informazioni relative alla certificazione rilasciata.
 Documentazione e Conservazione dei Registri:
 Viene mantenuta una documentazione accurata del processo di certificazione, inclusa la dichiarazione inviata, i materiali di supporto e i risultati della valutazione.
@@ -1759,12 +1315,9 @@ Sono attentamente considerate, valutate e chiarite tutte le domande emerse da pa
 RICHIEDI ORA
 
 Nota Importante: La richiesta di certificazione potrebbe non essere accettata a causa di eventuali problemi logistici dell'azienda o carico di lavoro eccessivo. In caso di non accettazione, l'importo versato sarà completamente rimborsato. Ci scusiamo per eventuali inconvenienti e ci impegniamo a risolvere prontamente qualsiasi problema. Restiamo a disposizione per fornire ulteriori informazioni e supporto.
-
-
 --- sito_tek.txt ---
 VOUCHER TEK
 Un nuovo modo per semplificare l’acquisto dei servizi Tektime
-
 🔹 Cosa sono i Voucher TEK
 I Voucher TEK sono strumenti esclusivi del nostro portale, progettati per rendere gli acquisti più semplici e veloci.
 Con i Voucher TEK potrete acquistare facilmente i nostri principali servizi:
@@ -1779,89 +1332,54 @@ Con i Voucher TEK potrete acquistare facilmente i nostri principali servizi:
 💳 Come ottenere i Voucher TEK
 🛒 Acquistandoli direttamente dal nostro portale aprendo il vostro Portafoglio ed effettuandone l'acquisto allo stesso modo degli altri nostri servizi.
 Grazie ai Voucher TEK avrete sempre a disposizione un credito virtuale, pronto per essere utilizzato in qualsiasi momento, ottimizzando così la gestione dei vostri servizi editoriali.
-
 Il quantitativo di Voucher TEK nel vostro portafoglio è sempre visualizzato in alto a destra in ogni schermata, a fianco del vostro nominativo. Potrete aprire il vostro portafoglio e controllare i relativi movimenti, semplicemente cliccandoci sopra.
-
 Apri il tuo Portafoglio
 ❓ Domande Frequenti sui Voucher TEK
 1. Cosa sono i Voucher TEK?
 I Voucher TEK sono utilizzabili esclusivamente nel portale Tektime e sono stati progettati per semplificare l’acquisto dei servizi offerti. Funzionano come un credito digitale utilizzabile direttamente sul sito.
-
 2. A cosa servono i Voucher TEK?
 Con i Voucher TEK puoi acquistare facilmente tutti i principali servizi Tektime, tra cui ISBN, conversioni, formattazione libri, creazione di copertine, booktrailer, abbonamenti GOLD e molti altri servizi aggiuntivi.
-
 3. Come posso ottenere i Voucher TEK?
 🛒 Acquistandoli direttamente dal portale tramite il tuo Portafoglio.
 4. Qual è il vantaggio di usare i Voucher TEK?
 I Voucher TEK ti permettono di avere sempre a disposizione un credito virtuale, pronto all’uso, semplificando la gestione dei servizi editoriali e velocizzando gli acquisti.
-
 5. Dove posso controllare il mio saldo di Voucher TEK?
 Il saldo dei Voucher TEK è sempre visibile in alto a destra di ogni schermata, accanto al tuo nome. Puoi aprire il Portafoglio per controllare anche i movimenti e le transazioni effettuate.
-
 6. Ci sono limiti per l’uso dei Voucher TEK?
 Non ci sono limiti particolari: puoi utilizzare i Voucher TEK in qualsiasi momento per i servizi disponibili. La conversione dai proventi fatturabili richiede solo di rispettare una soglia minima.
-
 7. Posso trasferire i Voucher TEK ad altri utenti?
 Attualmente i Voucher TEK sono non trasferibili tra utenti e possono essere utilizzati solo sul tuo account Tektime.
-
 8. Cosa succede se non utilizzo i Voucher TEK?
 I Voucher TEK rimangono nel tuo Portafoglio finché decidi di usarli: non hanno scadenza e possono essere utilizzati in qualsiasi momento per i servizi disponibili.
-
 9. Cosa viene indicato nell'Elenco Trasferimenti?
 Nell'Elenco Trasferimenti troverai tutti i movimenti effettuati con i tuoi Voucher TEK (conversioni, acquisti, pagamenti, etc.). Potrai visualizzare i dettagli di ogni movimento semplicemente cliccando sul pulsante "DETTAGLI" corrispondente.
-
 10. Cosa sono i "Voucher TEK concessi a Credito"?
 I Voucher TEK concessi a credito sono un’anticipazione virtuale di Voucher TEK che l’Amministrazione attribuisce all’autore in base alle vendite già realizzate. In pratica, rappresentano una disponibilità aggiuntiva che consente all’autore di avviare nuove attività (come la ricerca di traduttori o narratori) anche quando il saldo effettivo del proprio portafoglio Voucher TEK non è sufficiente. L’importo concesso può variare in funzione delle vendite accumulate e viene stabilito a esclusiva discrezione dell’Amministrazione.
 --- sito_tektime.txt ---
 Benvenuti nel sito della Casa Editrice TEKTIME
-
 Autori
-
 Sei stanco di cedere la maggior parte delle tue vendite di libri alle case editrici? Tektime ti offre un sistema di pubblicazione di libri a livello globale che è sia conveniente che flessibile.
-
 Applichiamo solo una commissione del 20% per i nostri servizi, il che significa che guadagni l'80% dei profitti delle vendite dei tuoi libri. Non ci sono altri costi!
-
 Inoltre, offriamo anche servizi di traduzione e narrazione libri per aiutarti a raggiungere un pubblico più ampio.
-
 Grazie al nostro sistema di condivisione delle entrate (Revenue Sharing), è possibile tradurre i tuoi libri in più lingue e farli narrare da doppiatori professionisti.
-
 NESSUN INVESTIMENTO INIZIALE!
-
-
- 
-
 Ecco le modalità con cui un autore può collaborare con noi:
-
 Revenue Sharing
 Grazie al nostro sistema di condivisione delle entrate (Revenue Sharing), è possibile tradurre i tuoi libri in più lingue e farli narrare da doppiatori professionisti.
-
 La cosa ancora più interessante? Non ci sono costi iniziali da sostenere per questi servizi.
-
 Lavoriamo sulla base di una condivisione dei ricavi, il che significa che condividerai i profitti delle vendite delle versioni tradotte e narrate dei tuoi libri con i traduttori e i narratori che ti hanno aiutato.
-
 In questo modo, garantiamo che gli sforzi di tutti siano destinati al successo dei tuoi libri e che la qualità delle traduzioni e delle narrazioni sia sempre la migliore possibile.
-
 Cessione Diritti
 Puoi assegnarci i diritti di traduzione e narrazione del tuo libro, e ci occuperemo di tutto il processo di traduzione e narrazione in tutte le lingue da noi gestite.
-
 In cambio, riceverai una percentuale su ogni vendita delle versioni tradotte e narrate del tuo libro.
-
 Questo ti permette di trasferire tutte le responsabilità a noi senza alcuno sforzo da parte tua, continuando comunque a beneficiare delle vendite.
-
 Ci occuperemo inoltre della distribuire e promozione delle opere tradotte e narrate in tutto il mondo grazie alla nostra rete che copre oltre 170 nazioni.
-
 Pagamento Diretto
 Se preferisci un controllo totale, puoi assumere un traduttore o un narratore per una tariffa diretta.
-
 Questo metodo prevede un pagamento iniziale e ti permette di mantenere tutti i diritti sul tuo libro tradotto o narrato.
-
 E' la soluzione ideale se desideri assicurarti che il tuo libro venga tradotto e narrato da professionisti, mantenendo il pieno controllo sui diritti d'autore.
-
-
 Riguardo le traduzioni, chi mi garantisce che saranno ben fatte?
-
 Abbiamo sei livelli di verifica:
-
 Il ranking del traduttore e relative recensioni rilasciate dagli utenti che hanno utilizzato i suoi servizi;
 Il traduttore può chiedere aiuto ad altri traduttori per un doppio controllo del suo lavoro (proofreading);
 Valutazione professionale delle proposte di traduzione;
@@ -1869,127 +1387,62 @@ Valutazione professionale del primo 5% e della traduzione finale;
 I nostri lettori volontari madrelingua rilasciano valutazioni e recensioni sia sulla bontà della traduzione che sul contenuto dei libri tradotti;
 I narratori madrelingua che, oltre a narrare il libro, sono tenuti anche a correggere eventuali refusi riscontrati;
 Il nostro sistema è stato progettato per aiutarti a raggiungere un pubblico globale e massimizzare i tuoi profitti, mantenendo al contempo bassi i costi e garantendo il pieno controllo del tuo lavoro.
-
 Quindi, se stai cercando un partner editoriale che possa aiutarti a portare i tuoi libri al livello successivo, scegli Tektime.
-
- 
-
 Traduttori
-
 Sei un traduttore professionista in cerca di nuove opportunità per espandere il tuo business e raggiungere un pubblico più vasto? Abbiamo la soluzione ideale per te!
-
 Siamo lieti di annunciare il nostro nuovo programma di revenue sharing per la traduzione di libri. In qualità di traduttore Tektime, avrai l'opportunità di lavorare su entusiasmanti progetti di traduzione di libri e di ricevere una quota delle entrate generate dalle loro vendite, oltre alla possibilità di ottenere contributi di traduzione extra.
-
 La nostra piattaforma è progettata per mettere in contatto traduttori, autori ed editori, semplificando la ricerca di nuovi progetti di traduzione e la creazione di un portfolio di lavoro.
-
 In Tektime crediamo che i libri debbano essere accessibili a tutti i lettori, indipendentemente dal paese in cui vivono o dalla lingua che parlano. Unisciti al nostro programma di revenue sharing e aiutaci a portare i migliori libri internazionali a un pubblico più vasto, guadagnando allo stesso tempo dalle tue abilità di traduzione.
-
 Cosa aspetti? Iscriviti e porta il tuo business di traduzione al livello successivo!
-
- 
-
 Narratori
-
 Sei un narratore alla ricerca di nuove opportunità per mostrare il tuo talento e guadagnare? Abbiamo la soluzione ideale per te!
-
 Con l'aumento della domanda di audiolibri, Tektime sta cercando narratori di talento per trasformare le storie scritte dai nostri autori in esperienze audio coinvolgenti. Unendoti al nostro programma di condivisione delle entrate (Revenue Sharing), avrai l'opportunità di narrare libri di una grande varietà di generi, dall'amore e mistero alla fantascienza e altro ancora.
-
 Come narratore, lavorerai a stretto contatto con autori, editori ed i nostri professionisti per garantire che il prodotto finale sia della massima qualità e sarai ricompensato in base al numero di copie vendute, con la possibilità di ottenere anche contributi extra per il tuo lavoro. Inoltre, grazie al nostro grande sistema di distribuzione, avrai l'opportunità di raggiungere lettori e ascoltatori in tutto il mondo.
-
 Quindi, se sei un narratore esperto in cerca di una nuova opportunità per mostrare il tuo talento e guadagnare, il nostro sistema di narrazione libri in Revenue Sharing è l'occasione perfetta. Unisciti a noi oggi e partecipa alla creazione delle più belle storie del mondo attraverso gli audiolibri.
-
-
- 
-
 Editori
-
 Hai mai desiderato ampliare il mercato dei tuoi libri senza dover sborsare un patrimonio per traduzioni e narrazioni?
 Finalmente, la soluzione che stavi cercando è arrivata!
-
 Ti presentiamo il nostro esclusivo servizio di traduzione e narrazione in revenue sharing, appositamente progettato per editori come te. Con questo modello di collaborazione innovativo, puoi evitare di spendere soldi in anticipo e, allo stesso tempo, moltiplicare le vendite dei tuoi autori.
-
 Immagina di avere accesso a un team di professionisti specializzati in traduzione e narrazione, pronti a rendere i tuoi libri disponibili in nuove lingue e ad arricchirli con narrazioni coinvolgenti. Il tutto senza dover affrontare costi elevati o rischi finanziari.
-
 Il nostro servizio di traduzione e narrazione in revenue sharing funziona in modo semplice ed efficace. Noi ci occupiamo di tutte le fasi, mettendo a disposizione il nostro team di esperti per tradurre accuratamente i tuoi libri nelle lingue desiderate e creare narrazioni coinvolgenti che cattureranno l'attenzione dei lettori. In cambio, condivideremo i ricavi generati dai libri tradotti e narrati.
-
 Apri le porte del tuo catalogo a nuovi mercati internazionali, raggiungendo lettori in tutto il mondo. La traduzione dei tuoi libri nelle lingue più richieste e le narrazioni coinvolgenti permetteranno ai tuoi autori di conquistare nuovi fan e aumentare le vendite.
 Non solo risparmierai denaro, ma offrirai anche nuove opportunità ai tuoi autori di far crescere la loro presenza a livello globale.
-
-
- 
-
 Servizi
 Interviste Scrittori:
-
 Roberta Mezzabarba
-
-
-
 >> Altre interviste<<
 BE GREEN GO DIGITAL
-
-
-
-
 Ci stiamo impegnando per ridurre al massimo il consumo di carta e la deforestazione globale diventando sempre più VERDI.
-
 Il nostro impegno primario è quello di incentivare il più possibile la diffusione di contenuti digitali.
-
 Aiutaci anche tu acquistando ebook e audiolibri e salva un albero in più rinunciando al cartaceo.
-
- 
-
 Ecco l'elenco delle nostre lingue disponibili per le traduzioni:
 • Afrikaans • Albanese • Arabo • Azero • Basco • Bengalese • Bielorusso • Birmano • Bulgaro • Catalano • Ceco • Cinese • Coreano • Croato • Danese • Ebraico • Esperanto • Estone • Etiope • Filippino • Finlandese • Francese • Galiziano • Gallese • Georgiano • Giapponese • Greco • Gujarati • Hausa • Hindi • Igbo • Indonesiano • Inglese • Islandese • Italiano • Kazako • Khmer • Kinyarwanda • Lettone • Lituano • Macedone • Malayalam • Malese • Malgascio • Marathi • Mongolo • Norvegese • Olandese • Pashto • Persiano • Polacco • Portoghese • Portoghese (Brasiliano) • Rumeno • Russo • Serbo • Sinhala • Slovacco • Sloveno • Somalo • Sotho meridionale • Sotho Settentrionale • Spagnolo • Svedese • Swahili • Tagalog • Tamil • Tedesco • Telugu • Thai • Turco • Ucraino • Ungherese • Urdu • Uzbeko • Vietnamita • Yoruba • Zulu
 Alcuni dei nostri Distributori
-
- 
-
-
-
 PROMOZIONE LIBRI
-
-
 La promozione dei nostri libri e audiolibri sarà gestita direttamente da noi, con il prezioso contributo dei traduttori e dei narratori.
-
 Essi rappresentano figure chiave, poiché, grazie alla loro conoscenza approfondita della lingua e dei costumi della propria nazione, sono in grado di trasmettere al meglio il valore delle opere al pubblico.
-
 Collaborando con loro, garantiremo una promozione efficace e coinvolgente che valorizzi appieno le nostre produzioni editoriali.
-
 Distribuzione in 170 nazioni
-
-
 Pubblicheremo i tuoi libri in tutto il mondo e non dovrai pagare nulla!
-Per compensare Il nostro lavoro tratterremo solo il 10% sulle vendite delle tue opere.
-
+Per compensare Il nostro lavoro tratterremo solo il 20% sulle vendite delle tue opere.
 SERVIZI GRATUITI INCLUSI:
-
-	Iscrizione al nostro portale
-	Distribuzione nella più ampia rete globale (170 nazioni)
-	Rendicontazione vendite in tempo reale
-	Fatturazione automatica
-	Pagamenti mensili puntuali
-	Assegnazione ISBN
-	Libreria on-line disponibile anche su App
-	Blog con suggerimenti e consigli utili
-	Customer Care con tempi di risposta rapidissimi
-	Nessuna esclusiva richiesta
-	Traduzione e narrazione libri
-
- 
-
-
+Iscrizione al nostro portale
+Distribuzione nella più ampia rete globale (170 nazioni)
+Rendicontazione vendite in tempo reale
+Fatturazione automatica
+Pagamenti mensili puntuali
+Assegnazione ISBN
+Libreria on-line disponibile anche su App
+Blog con suggerimenti e consigli utili
+Customer Care con tempi di risposta rapidissimi
+Nessuna esclusiva richiesta
+Traduzione e narrazione libri
 Aumenta le Vendite con la
 Certificazione AI-Free
-
-
-
 Cos'è un Certificato AI-Free?
 Un Certificato AI-Free rappresenta un processo di verifica e certificazione per confermare che un libro o un'opera tradotta è stata realizzata con un ricorso minimo o nullo all'intelligenza artificiale.
 Questa certificazione garantisce ai lettori che il contenuto proviene principalmente dall'esperienza e dalla creatività umana, presentando un utilizzo minimo o nullo di software, algoritmi o strumenti automatizzati di intelligenza artificiale.
-
 Acquisire un Certificato AI-Free per il tuo libro non rappresenta solo un riconoscimento, ma si trasforma in un potente incentivo per possibili acquirenti. Esploriamo come questa certificazione non solo accresce l'appeal della tua opera, ma potenzia notevolmente la sua presenza sul mercato, elevandola a una scelta irrinunciabile per i lettori più attenti e selettivi.
-
 Costruire Fiducia: I lettori sono sempre più consapevoli dell'influenza della tecnologia sulla creazione di contenuti. Un Certificato AI-Free instaura fiducia assicurando ai lettori che il tuo libro è realizzato solo con creatività ed esperienza umana, libero da ricorsi all'intelligenza artificiale.
 L'Autenticità  Vende: In un mercato saturo di varie forme di contenuti, l'autenticità si distingue. Evidenziare la tua Certificazione AI-Free sottolinea la natura autentica e generata dall'uomo del tuo libro, attraendo lettori che apprezzano contenuti genuini e non automatizzati.
 Assicurazione di Qualità: Il processo di certificazione comporta un'esame approfondito del contenuto del tuo libro, garantendo scrittura di alta qualità, creatività e originalità. Questa assicurazione di qualità  può attirare lettori attenti che cercano opere ben realizzate e attentamente prodotte.
@@ -1997,283 +1450,147 @@ Attrarre Lettori Etici: Con l'aumentare delle considerazioni etiche nella mente 
 Distinguersi nel Mercato: Usa il Certificato AI-Free come potente strumento di marketing. Incorpora il logo di certificazione sulla copertina del tuo libro, sui materiali promozionali e sulle piattaforme online per catturare l'attenzione dei potenziali lettori. Comunica chiaramente l'autenticità  e il tocco umano che il tuo libro offre.
 Ottieni un vantaggio competitivo sul mercato, aumenta la fiducia dei lettori e incrementa le vendite del tuo libro mostrando con orgoglio la tua
 Certificazione AI-Free!
-
-
-
-Traduzione e narrazione libri in Revenue Sharing
 Grazie a questa idea innovativa, autori, editori e traduttori potranno collaborare nella traduzione di libri, romanzi ed opere letterarie di ogni genere, dividendosi equamente i proventi delle vendite.
-
 Allo stesso modo, gli autori e gli editori potranno collaborare con i narratori per realizzare la versione narrata delle proprie opere (audiolibri).
-
 NESSUN COSTO NASCOSTO!
 L'iscrizione è assolutamente gratuita.
-
- 
-
-
 I tuoi obiettivi sono anche i nostri
 Con il nostro aiuto, autori ed editori potranno finalmente entrare nel mercato globale dei libri e moltiplicare le proprie vendite.
 Infatti, ogni libro potrà generare più di 70 nuovi libri tradotti e altrettanti audiolibri.
-
-
 La lingua Italiana è parlata da meno dell'uno percento della popolazione mondiale.
 Con i tuoi libri scritti solo in italiano stai rinunciando al 99% del mercato.
-
 Inizia subito a fare tradurre i tuoi libri. Con il nostro sistema di Revenue Sharing (divisione dei proventi) non dovrai spendere nulla.
 I costi delle traduzioni e delle narrazioni saranno coperti dai consumatori finali.
-
-
 Organizzazione
 Il nostro Team di Specialisti ti aiuterà a diffondere ogni tua opera in tutto il mondo.
-
 Resoconti dettagliati
 Grazie ai nostri report dettagliati, potrai verificare in ogni istante le vendite dei tuoi libri e audiolibri.
-
 Marketing
 I tuoi libri e audiolibri saranno distribuiti in più di 170 nazioni. Avrai visibilità mondiale.
-
 Cooperazione
 Il nostro punto di forza è la cooperazione fra le persone. Con noi, uno più uno fa sempre più di due.
-
-
-I nostri numeri
-18,415
-Traduttori
-2,226
-Narratori
-2,993
-Autori
-6,403
-Libri
-10
-Esperienza (anni)
 Come funziona
-
 Autori
 • Inserisci i libri da tradurre o da narrare
 • Scegli un traduttore o un narratore
 • Proponi il tuo libro
 • Inizia a vendere sul mercato globale
 • Nessun costo
-
 Il traduttore e il narratore divideranno con te i ricavi delle vendite dei libri. Non è fantastico?
-
- 
-
-
 Traduttori
 • Scegli i libri che ti interessano
 • Traduci in una o più lingue che conosci
 • Dividi i guadagni con l'autore
 • Il tuo nome apparirà come traduttore su ogni libro
-
 E' una grande opportunità per mettere a frutto le tue conoscenze linguistiche.
-
- 
-
-
 Narratori
 • Scegli un libro che ti piace
 • Leggilo ad alta voce e registra la tua narrazione
 • Dividi i guadagni della vendita dell'audiolibro con l'autore
 • Il tuo nome apparirà come narratore dell'audiolibro
-
 La tua voce saprà rendere l'opera ancora più appassionante.
 Ascoltare è il nuovo modo di leggere.
-
- 
-
-
 Lettori
 • Leggi gratuitamente le anteprime dei nuovi libri tradotti e dai una tua valutazione
 • Aiuta gli autori lasciando una recensione sui loro nuovi libri
 • Ottieni un incredibile sconto del 30% su tutti i libri della nostra libreria online
-
 Entrando a far parte della nostra comunità di lettori, avrai la possibilità di leggere tantissimi libri in più di settanta lingue diverse e contribuirai alla pubblicazione di libri tradotti perfettamente. Grazie per il tuo aiuto.
-
- 
-
-
 Editori
 • Inserisci i libri dei tuoi autori che vuoi far tradurre o narrare
 • Scegli i traduttori e i narratori
 • Proponi i tuoi libri
 • Inizia a vendere sul mercato globale
 • Nessun costo
-
 Traduttori e narratori divideranno con te i ricavi delle vendite dei libri.
 Non è fantastico?
-
- 
-
-
 Affiliati
 • Iscriviti come affiliato e riceverai un link personale per la promozione dei nostri servizi
 • Invita i tuoi amici scrittori, traduttori e narratori ad iscriversi nel nostro portale
 • Invita ad iscriversi anche altri utenti tramite internet, social, blog, etc.
 • Guadagna una percentuale, per sempre, sulle vendite dei libri pubblicati, tradotti o narrati dalle persone che hai fatto iscrivere.
-
 E' un modo semplice ed efficace, che ti permetterà di guadagnare soldi senza alcuno sforzo.
-
- 
-
-www.traduzionelibri.it
-Il sito di servizi della nostra Casa Editrice Tektime
-
-
 Da	A	Autore	Traduttore	TEKTIME
 € 0,00	€ 1999,99	30%	50%	20%
 € 2.000	€ 3.999,99	40%	40%	20%
 € 4.000	€ 7.999,99	50%	30%	20%
 € 8.000	€ ...	60%	20%	20%
 I proventi delle vendite dei libri saranno suddivisi tra autori e traduttori (o narratori) come indicato nella precedente tabella. Tektime tratterrà sempre solo il 20%.
-
-Grafico 1
-Grafico 2
-Grafico 3
-Grafico 4
- 
 I Nostri Servizi Aggiuntivi
 Servizio	Prezzo EUR
 (IVA inclusa)
 Formattazione libro originale o tradotto
-
 Formattazione di base e corretta impaginazione del libro (paragrafi, capitoli, indici, note a piè di pagina, margini, etc.)
-
 49,00
 Conversione EPUB
-
 Conversione del file del libro tradotto in formato EPUB, con adeguamento alle normative del European Accessibility Act, in vigore da giugno 2025.
-
 49,00
 Realizzazione copertina EPUB
-
 Realizzazione della copertina dell'e-book, solo grafica (solo fronte), senza immagini (o con immagini di proprietà dell'autore), 2 proposte. Tempi realizzazione 5gg. lavorativi.
-
-
 69,00
 Conversione in PDF
-
 Conversione del file del libro in PDF per la realizzazione della versione cartacea nel formato indicato nella pubblicazione. Sarà compresa anche la riformattazione completa del libro (paragrafi, capitoli, indici, note, impaginazione, etc.)
-
 79,00
 Realizzazione copertina versione cartacea.
-
 Realizzazione della copertina versione cartacea, solo grafica (fronte, dorso, retro), senza immagini (o con immagini di proprietà dell'autore), 2 proposte. Tempi realizzazione 5gg. lavorativi.
-
 99,00
 Realizzazione copertina Audiolibro
-
 Realizzazione della copertina dell`Audiolibro, solo grafica (solo fronte), senza immagini (o con immagini di proprietà dell`autore), 2 proposte. Tempi realizzazione 5gg. lavorativi.
-
 69,00
 Creazione Booktrailer
-
 Creazione di un booktrailer per un libro o audiolibro (vedi esempi).
 E' compresa la promozione sui nostri canali social (Facebook, Instagram, Linkedin, Tiktok, etc.). Inoltre, a richiesta, il booktrailer potrà essere inviato all'utente per promozione in proprio.
 Il booktrailer consiste in un videoclip di presentazione del libro o audiolibro con durata adattata per i differenti canali social. Nel booktrailer viene mostrato un video con la copertina, la descrizione, immagini e video di sfondo adatte al genere del libro, musiche di sottofondo e l'invito all'acquisto sulla nostra libreria.
 Tutte le immagini e le musiche inserite nel videoclip saranno di pubblico dominio.
-
 99,00
 Proofreading
-
 Correzione bozze. Lettura approfondita del testo con eliminazione refusi, formattazione approfondita (righe rientranti, corsivi, maiuscoletti, neretto) e correzione impaginazione (paragrafi, capitoli, indici, note a pié di pagina, margini, etc.)
 (Indicativamente da 0,01 a 0,05 EURO/Parola in funzione della lingua)
-
-
 Editing
-
 Revisione completa del testo. Applicazione norme uniformazione editoriale, strutturazione argomenti, verifica citazioni e bibliografia, revisione linguistica, analisi contenuti ed eventuale riscrittura, formattazione approfondita e impaginazione.
 (Indicativamente da 0,02 a 0,10 EURO/Parola in funzione della lingua)
-
-
 Traduzione libri (pagamento diretto)
-
 Richiedi la traduzione dei tuoi libri senza utilizzare la formula "Revenue sharing". I tuoi libri saranno tradotti direttamente. Pagherai solo il lavoro di traduzione e non dovrai dividere i proventi delle vendite con il traduttore.
 (Indicativamente da 0,03 a 0,12 EURO/Parola in funzione della lingua)
-
-
 Narrazione libri (pagamento diretto)
-
 Richiedi la narrazione dei tuoi libri senza utilizzare la formula "Revenue sharing". I tuoi libri saranno narrati direttamente. Pagherai solo il lavoro di narrazione e non dovrai dividere i proventi delle vendite con il narratore.
 (Indicativamente da 0,01 a 0,15 EURO/Parola in funzione della lingua)
-
-
 Promozione Amazon
-
 Promuovi il tuo libro su Amazon agli acquirenti che eseguono ricerche con parole chiave attinenti o che cercano libri simili al tuo.
 Ci occuperemo noi di creare la campagna promozionale migliore per i tuoi libri e della sua gestione. Il tuo libro sarà  presentato ai lettori mentre ricercano libri simili al tuo, per genere o per parole chiave. Gli annunci vengono visualizzati nei risultati di ricerca e nelle pagine di dettaglio prodotto, su desktop e dispositivi mobili. Gli annunci saranno pubblicati su Amazon.com, Amazon.co.uk, Amazon.de, Amazon.es, Amazon.fr e Amazon.it a seconda della lingua del libro stesso.
-
-
 Promozione Booktrailer su Social
-
 Promuovi il tuo libro/audiolibro tramite un Booktrailer su Facebook e Instagram agli utenti interessati agli argomenti trattati. Il booktrailer potrà essere fornito dall'utente (realizzazione in proprio) oppure acquistato tramite il nostro servizio "Creazione Booktrailer" indicato in precedenza.
-
-
 Certificazione AI Free
-
 Il Certificato AI-Free non solo attesta l'autenticità e l'approccio umano nell'elaborazione dell'opera, ma si trasforma anche in un potente catalizzatore per l'aumento delle vendite. I lettori, sempre più consapevoli e attenti nella scelta dei contenuti, vedranno questa certificazione come un segno distintivo di qualità e originalità, aumentando significativamente l'attrattiva del libro sul mercato. L'assicurazione di un utilizzo limitato di intelligenza artificiale non solo rassicura sulla natura umana del processo creativo, ma funge anche da incentivo per i potenziali acquirenti. Pertanto, il Certificato AI-Free non solo garantisce un'esperienza di lettura autentica, ma si traduce anche in un notevole vantaggio competitivo, contribuendo a incrementare le vendite del libro.
-
-Clicca qui per maggiori informazioni.
-
 49,00
 ISBN aggiuntivo
-
 Codice ISBN aggiuntivo per pubblicazione libri o audiolibri (commissioni servizio e IVA inclusi).
-
 39,00
 Pacchetto 10 TEK
-
 Pacchetto 10 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 12,90
 Pacchetto 20 TEK
-
 Pacchetto 20 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 24,52
 Pacchetto 30 TEK
-
 Pacchetto 30 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 34,83
 Pacchetto 40 TEK
-
 Pacchetto 40 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 43,88
 Pacchetto 50 TEK
-
 Pacchetto 50 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 51,61
 Pacchetto 100 TEK
-
 Pacchetto 100 Voucher TEK per acquisto prodotti Tektime (commissioni servizio e IVA inclusi).
-
 96,75
 Abbonamento GOLD Autore (annuale)
-
-Clicca qui per vedere tutti i dettagli di questo piano.
-
 69,00
 Abbonamento GOLD Editore (annuale)
-
-Clicca qui per vedere tutti i dettagli di questo piano.
-
 99,00
 Abbonamento GOLD Traduttore (annuale)
-
-Clicca qui per vedere tutti i dettagli di questo piano.
-
 49,00
 Abbonamento GOLD Narratore (annuale)
-
-Clicca qui per vedere tutti i dettagli di questo piano.
-
 49,00
- 
-
 Il Top Del Nostro Team
 Danilo Clementoni
 Fondatore e Amministratore
@@ -2284,18 +1601,13 @@ Uomo dalla grande cultura e professionalità che trasformerà il vostro libro in
 Andreaceleste Brilli
 Marketing manager
 Grazie alla sua competenza e professionalità, le tue opere non avranno nessuna difficoltà a raggiungere le vette delle classifiche di vendita.
-
 Katarzyna Olszewska
 Traduttrice & Editor
-
 Per lei le lingue non hanno segreti. Divoratrice insaziabile di libri, sarà sempre al tuo fianco per portare al successo le tue opere.
-
 Il Resto del Team
 Di tutto un po'
-
 Per ogni problema c'è una soluzione.
 Se non c'è soluzione vuol dire che non c'è neanche il problema. Questo è il loro motto.
-
 Tektime S.r.l.s. Unipersonale
 Via Armando Fioretti, 17
 05030 - Montefranco - TR
@@ -2304,9 +1616,6 @@ info@tektime.it
 P.IVA/Codice fiscale: 01585300559
 Registro delle Imprese di TERNI
 N. REA: TR - 108746
-
-
-
 === CONTRATTO TRADUZIONE E DISTRIBUZIONE (v3.0) ===
 TEKTIME
 CONTRATTO STANDARD PER TRADUZIONE E DISTRIBUZIONE
@@ -3532,80 +2841,6 @@ parte integrante del presente contratto.
 Al presente contratto sono applicabili le leggi sostanziali e processuali dello Stato italiano.
 Qualsiasi controversia comunque connessa al presente Contratto sarà di competenza esclusiva del Foro
 di TERNI - ITALIA.
-Pag. 11
-Pag. 12
-Pag. 13
-APPENDICE B
-INFORMATIVA AL TRATTAMENTO DEI DATI PERSONALI
-I dati personali dell'utente sono utilizzati da Tektime S.R.L.S., che ne è titolare per il trattamento, nel rispetto dei
-principi di protezione dei dati personali stabiliti dal Regolamento GDPR 2016/679.
-MODALITÀ E FINALITÀ DEL TRATTAMENTO DATI
-La informiamo che i dati verranno trattati con il supporto dei seguenti mezzi:
-• Informatica
-• Mista - elettronica e cartacea
-con le seguenti finalità:
-• Adempimento contratto di prestazione di servizi
-• Adempimento di obblighi fiscali o contabili
-• Gestione Data Protection
-• Promozione di prodotti editoriali e marketing
-Fatto salvo esplicito diniego da parte dell'interessato, i dati dell’utente saranno trattati anche per le seguenti
-finalità:
-• invio di proposte e di comunicazioni commerciali a mezzo posta elettronica o SMS o fax, da parte sia di
-Tektime S.R.L.S. e sia di società partner (facoltativo);
-• indagini di mercato e statistiche, marketing e referenze su comunicazioni pubblicitarie (stampa, radio,
-TV, internet, ecc.), preferenze sui prodotti (facoltativo);
-L'eventuale rifiuto nel consentire il trattamento dei dati potrebbe comportare l'impossibilità di usufruire
-del servizio richiesto dall'utente.
-BASE GIURIDICA
-Il conferimento dei dati è obbligatorio per tutto quanto è richiesto dagli obblighi legali e contrattuali e
-pertanto l'eventuale rifiuto a fornirli in tutto o in parte può dar luogo all'impossibilità di fornire i servizi
-richiesti.
-La società tratta i dati facoltativi degli utenti in base al consenso, ossia mediante l’approvazione esplicita della
-presente Privacy Policy e in relazione alle modalità e finalità di seguito descritte.
-CATEGORIE DI DESTINATARI
-Ferme restando le comunicazioni eseguite in adempimento di obblighi di legge e contrattuali, tutti i dati
-raccolti ed elaborati potranno essere comunicati esclusivamente per le finalità sopra specificate alle seguenti
-categorie di interessati:
-- Clienti ed utenti;
-- Consulenti e liberi professionisti anche in forma associata;
-- Interessati;
-Nella gestione dei suoi dati, inoltre, possono venire a conoscenza degli stessi altre categorie di persone
-autorizzate e/o responsabili interni ed esterni individuati per iscritto ed ai quali sono state fornite specifiche
-istruzioni scritte circa il trattamento dei dati.
-Pag. B/14
-TRASFERIMENTO DATI PERSONALI PRESSO PAESI TERZI
-Denominazione attività Paese
-Gestione Dati personale dai Contratti con gli utenti Stati Uniti (Amazon)
-PERIODO DI CONSERVAZIONE
-I dati obbligatori ai fini contrattuali e contabili sono conservati per il tempo necessario allo svolgimento del
-rapporto commerciale e contabile.
-I dati di chi non acquista o usufruisce di prodotti/servizi, pur avendo avuto un precedente contatto con dei
-rappresentanti dell’azienda, saranno immediatamente cancellati o trattati in forma anonima, ove la loro
-conservazione non risulti altrimenti giustificata, salvo che sia stato acquisito validamente il consenso
-informato degli interessati relativo ad una successiva attività di promozione commerciale o ricerca di mercato.
-Il periodo di conservazione di tali dati è: 1 anno
-DIRITTI DELL’INTERESSATO
-Ai sensi del Regolamento europeo 679/2016 (GDPR) e della normativa nazionale, l'interessato può, secondo le
-modalità e nei limiti previsti dalla vigente normativa, esercitare i seguenti diritti:
-- richiedere la conferma dell'esistenza di dati personali che lo riguardano (diritto di accesso);
-- conoscerne l'origine;
-- riceverne comunicazione intelligibile;
-- avere informazioni circa la logica, le modalità e le finalità del trattamento;
-- richiederne l'aggiornamento, la rettifica, l'integrazione, la cancellazione, la trasformazione in forma
-anonima, il blocco dei dati trattati in violazione di legge, ivi compresi quelli non più necessari al
-perseguimento degli scopi per i quali sono stati raccolti;
-- nei casi di trattamento basato su consenso, ricevere i propri dati forniti al titolare, in forma strutturata
-e leggibile da un elaboratore di dati e in un formato comunemente usato da un dispositivo elettronico;
-- il diritto di presentare un reclamo all’Autorità di controllo.
-Le sopraindicate richieste vanno rivolte a Tektime S.r.l.s. inviando una email all’indirizzo: info@tektime.it
-TITOLARE DEL TRATTAMENTO
-Il Titolare del trattamento dei Suoi dati personali è Tektime S.R.L.S. Unipersonale - Via Armando Fioretti, 17 -
-05030 Montefranco (TR) – ITALIA - Partita IVA: 01585300559
-La presente Privacy Policy può subire modifiche nel tempo – anche connesse all'eventuale entrata in vigore di
-nuove normative di settore, all'aggiornamento o erogazione di nuovi servizi ovvero ad intervenute innovazioni
-tecnologiche – per cui l'utente/visitatore è invitato a consultare periodicamente questa pagina
-www.traduzionelibri.it/privacy.asp.
-Pag. B/15
 === CONTRATTO DISTRIBUZIONE LIBRI ORIGINALI (v2.4) ===
 TEKTIME S.R.L.S. UNIPERSONALE
 CONTRATTO STANDARD DISTRIBUZIONE LIBRI ORIGINALI
