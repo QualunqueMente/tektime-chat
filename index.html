@@ -191,6 +191,23 @@
 
     .welcome h2 { font-size: 1.2rem; color: #1a1a2e; margin-bottom: 10px; }
     .welcome p  { font-size: 0.88rem; line-height: 1.8; }
+    #disclaimer {
+      width: 100%;
+      max-width: 800px;
+      padding: 6px 16px 8px;
+      font-size: 0.72rem;
+      color: #999;
+      line-height: 1.5;
+      text-align: center;
+      background: #f0f2f5;
+      flex-shrink: 0;
+    }
+
+    #disclaimer a {
+      color: #999;
+      text-decoration: underline;
+    }
+
   </style>
 </head>
 <body>
@@ -213,6 +230,10 @@
 <div id="input-area">
   <textarea id="user-input" rows="1" placeholder="Ask / Scrivi..."></textarea>
   <button id="send-btn" title="Send">&#9658;</button>
+</div>
+
+<div id="disclaimer">
+  The information provided through this AI assistant is for general informational purposes only and may not always be accurate, complete, or up to date. It should not be considered official, contractual, or legally binding. For precise information or specific inquiries, please contact us directly at <a href="mailto:info@tektime.it">info@tektime.it</a>.
 </div>
 
 <script>
@@ -296,7 +317,7 @@
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
 
 RULES:
-1. Answer ONLY using the information contained in the document below. Do not use any external knowledge.
+1. Answer ONLY using the information contained in the document below. Do not use any external knowledge but read carefully the document and extract the right information for your answer.
 2. Always reply in the SAME LANGUAGE the user used to write their question (auto-detect language).
 3. If the answer is not found in the document, politely say you do not have that information and invite the user to contact Tektime directly.
 4. Be friendly, professional, and concise.
