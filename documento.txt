@@ -2105,8 +2105,9 @@ svolgimento della Traduzione del Libro nella Lingua gli saranno ritirati e torne
 Tektime, né il DDD dovranno versare alcun compenso al Traduttore. Nel caso in cui il DDD abbia
 versato un Contributo Traduzione, l'importo relativo sarà restituito, entro 60 giorni solari, al DDD.
 Tektime si riserva di applicare una trattenuta percentuale su tale importo, non superiore al 10%, a
-copertura delle eventuali commissioni di transazione per il trasferimento fondi.
+copertura delle eventuali commissioni di transazione per il trasferimento fondi. 
 13.2 Risoluzione con penali
+Il traduttore non paga mai penali in caso di recesso.
 In relazione a quanto indicato nella sezione 5.3 b) (Traduzione Finale) il DDD potrà recedere dal presente
 Contratto, incorrendo però nelle penali di seguito indicate:
 a) Dopo l'approvazione della Traduzione Iniziale da parte del DDD, ma prima del completamento della
@@ -2767,6 +2768,7 @@ contratto, quindi, Il Narratore non potrà vantare né rivendicare alcun ulterio
 confronti del DDD
 13. Risoluzione del Contratto
 13.1 Risoluzione senza penali
+Il narratore non paga mai penali in caso di recesso.
 a) DDD
 In relazione a quanto indicato nella sezione 5.3 a) (Narrazione Iniziale) il DDD e il Narratore
 potranno recedere dal Contratto senza incorrere in alcuna penale e nessuna delle parti del
@@ -2935,3 +2937,4 @@ Esperienza negativa per il cliente
 Servizi opzionali
 
 Facoltativamente l'Autore potr� decidere di richiedere la fornitura di servizi opzionali come formattazione Libro, proofreading, editing, creazione copertine, conversioni e quant'altro venga proposto direttamente nel Portale. I costi relativi a tali servizi opzionali saranno indicati direttamente nel Portale e potranno essere fissi o variabili in funzione del tipo di servizio e della caratteristiche del Libro (lingua, numero di pagine, formato, etc.). I servizi a costo variabile saranno quantificati tramite un'offerta formale che sar� inviata all'Autore tramite e-mail o comunicata direttamente tramite i messaggi di posta interna messi a disposizione nel Portale. Il Pagamento, sia dei servizi a costo fisso che di quelli a costo variabile, dovr� essere effettuato anticipatamente nelle modalit� indicate nel Portale. Ci riserviamo di variare nel tempo i costi e le modalit� di fornitura dei suddetti servizi. Tali variazioni saranno comunque chiaramente indicate nel Portale al momento della richiesta da parte dell'Autore.
+
