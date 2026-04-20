@@ -55,7 +55,7 @@ Caratteristiche	FREE	GOLD
 Numero max libri originali pubblicabili
 Numero massimo di libri originali inseribili nel sistema per essere pubblicati in tutto il mondo tramite il nostro servizio di distribuzione globale.
 
-10	Illimitati
+2	Illimitati
 Numero max libri traducibili e narrabili
 Numero massimo di libri originali che possono essere tradotti e narrati in tutte le lingue disponibili, con un limite totale di 4.
 
