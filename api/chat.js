@@ -23,7 +23,7 @@ export default async function handler(req, res) {
         "X-Title": "Tektime Assistant"
       },
       body: JSON.stringify({
-        model: "openrouter/free___",
+        model: "openrouter/free",
         messages: messages,
         temperature: 0.15,
         max_tokens: 1024,
