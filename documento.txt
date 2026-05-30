@@ -1,4 +1,4 @@
-﻿Come funziona?
+﻿﻿Come funziona?
 E' tutto davvero molto semplice.
 Autori/Authors
 Sei un autore o uno scrittore e vorresti vedere pubblicate e narrate le tue opere originali e crearne versioni tradotte in altre lingue ma per la traduzione e la narrazione ti hanno chiesto cifre esorbitanti?
@@ -43,10 +43,7 @@ Oltre a ciò, noi eseguiamo una serie di verifiche sul testo tradotto. Cosa che 
 
 Da ora in poi mai più dubbi sulla qualità della traduzione dei tuoi libri!
 
-
-
 E ora vediamo, in pochi e semplici passi, il funzionamento del nostro sistema:
-
 
 Prima di tutto scegli il tuo piano
 (FREE o GOLD - Sottoscrizione annuale)
@@ -55,7 +52,7 @@ Caratteristiche	FREE	GOLD
 Numero max libri originali pubblicabili
 Numero massimo di libri originali inseribili nel sistema per essere pubblicati in tutto il mondo tramite il nostro servizio di distribuzione globale.
 
-2	Illimitati
+10	Illimitati
 Numero max libri traducibili e narrabili
 Numero massimo di libri originali che possono essere tradotti e narrati in tutte le lingue disponibili, con un limite totale di 4.
 
@@ -2937,4 +2934,176 @@ Esperienza negativa per il cliente
 Servizi opzionali
 
 Facoltativamente l'Autore potr� decidere di richiedere la fornitura di servizi opzionali come formattazione Libro, proofreading, editing, creazione copertine, conversioni e quant'altro venga proposto direttamente nel Portale. I costi relativi a tali servizi opzionali saranno indicati direttamente nel Portale e potranno essere fissi o variabili in funzione del tipo di servizio e della caratteristiche del Libro (lingua, numero di pagine, formato, etc.). I servizi a costo variabile saranno quantificati tramite un'offerta formale che sar� inviata all'Autore tramite e-mail o comunicata direttamente tramite i messaggi di posta interna messi a disposizione nel Portale. Il Pagamento, sia dei servizi a costo fisso che di quelli a costo variabile, dovr� essere effettuato anticipatamente nelle modalit� indicate nel Portale. Ci riserviamo di variare nel tempo i costi e le modalit� di fornitura dei suddetti servizi. Tali variazioni saranno comunque chiaramente indicate nel Portale al momento della richiesta da parte dell'Autore.
+
+BOOKGEN AI:
+
+✨ Intelligenza Artificiale per i libri
+Tektime BookGen AI
+
+Trasforma la tua idea in un libro completo e pronto da pubblicare.
+Senza fatica, in tante lingue e in pochi minuti.
+📈💰
+Per Autori & Editori
+
+(ma anche per Traduttori e Narratori...)
+
+Non hai più idee per un nuovo libro?
+
+Non hai il tempo per scriverlo?
+
+Genera un romanzo, un saggio o una guida con pochi euro.
+
+Tu suggerisci la trama (l’idea di partenza), l’AI pensa a tutto il resto: personaggi, struttura, capitoli e scrittura finale.
+Pubblica online e guadagna dalle vendite senza alcuno sforzo di scrittura.
+
+    ✅ Costo da soli 0,2 TEK a capitolo
+    ✅ Scegli genere, lingua e tono
+    ✅ Scegli la copertina
+    ✅ Metti in vendita il tuo libro
+    ✅ Inizia a guadagnare
+
+📖🎯
+Per Lettori
+
+(o per futuri Scrittori...)
+
+Stanco di comprare libri che non ti piacciono?
+
+Non affidarti più al caso.
+
+Quante volte hai iniziato un libro per poi abbandonarlo dopo poche pagine?
+
+Crea la storia su misura per te! Scegli il genere, i personaggi, l’ambientazione e le emozioni che vuoi vivere: l’AI creerà un racconto costruito intorno ai tuoi gusti. Finalmente, il libro che hai sempre desiderato leggere. Niente più delusioni.
+
+    ✅ Zero sprechi – solo la tua storia perfetta
+    ✅ Inizia con una prova gratuita (3 capitoli)
+    ✅ Formati EPUB, DOCX, TXT inclusi
+    ✅ Diventa anche tu uno scrittore e pubblica il tuo libro
+    ✅ Inizia a guadagnare
+
+🚀 Prova subito gratis (3 capitoli)
+🔹 Cos'è Tektime BookGen AI
+
+Tektime BookGen AI è un avanzato motore di generazione narrativa che trasforma una semplice idea in un libro completo, con struttura, personaggi e prosa di qualità editoriale. È il primo strumento integrato nel portale Tektime che permette agli utenti di generare romanzi, saggi e guide in modo completamente automatizzato, utilizzando i più potenti modelli linguistici disponibili sul mercato.
+
+Con Tektime BookGen AI puoi creare libri in 7 lingue diverse, scegliendo genere, sottogenere e tono narrativo. Ottieni un testo coerente, originale e pronto per la pubblicazione su tutte le piattaforme.
+E se sei un lettore, puoi generare storie su misura dei tuoi gusti e leggerle quando vuoi, senza più acquisti inutili.
+⚙️ Come Funziona
+
+Il processo di generazione è suddiviso in fasi, ognuna affidata a un modello AI specializzato:
+
+    🎬 1. Brief editoriale – L'AI analizza la tua idea e crea una scheda libro professionale (titolo, genere, conflitto centrale, personaggi).
+    📖 2. Outline (struttura) – Viene generata una scaletta dettagliata di tutti i capitoli, con obiettivi, eventi chiave e cliffhanger.
+    🎭 3. Voci dei personaggi – Per ogni personaggio principale, l'AI definisce uno stile di dialogo unico e coerente.
+    ✍️ 4. Scrittura capitoli – Ogni capitolo viene scritto in un'unica sessione, garantendo coerenza e fluidità narrativa.
+    📝 5. Revisione e riassunto – Ogni capitolo viene rivisto e riassunto per garantire continuità tra le parti.
+    🔖 6. Quarta di copertina & keywords Amazon – Il sistema genera automaticamente la quarta di copertina (descrizione accattivante) e le parole chiave ottimizzate per il posizionamento su Amazon, pronte per la pubblicazione.
+
+💳 Piani e Costi
+
+Tektime BookGen AI utilizza i tuoi attuali Voucher TEK, che puoi acquistare direttamente dal tuo Portafoglio.
+Piano 	Capitoli Max 	Costo per capitolo 	Caratteristiche
+🎁 Prova gratuita
+(una tantum per tutti) 	3 capitoli 	0 TEK 	Generazione di prova valida una sola volta, non consuma TEK. Formati EPUB/DOCX/TXT inclusi.
+📘 Utenti FREE 	6 capitoli 	0,2 TEK/capitolo 	Massimo 6 capitoli per libro, coda di elaborazione standard.
+⭐ Utenti GOLD 	24 capitoli 	0,2 TEK/capitolo 	Fino a 24 capitoli per libro, priorità di generazione nella coda di elaborazione e utilizzo modelli top di gamma.
+🔥 PROMO LANCIO: Solo per pochi giorni!
+
+💰 Esempio costi: Per un libro di 12 capitoli spendi solo
+2,4 TEK
+
+Blocca subito questa tariffa: acquista i TEK dal tuo Portafoglio
+e crea subito la tua storia.
+🚀 Genera il tuo primo libro
+🌐 Lingue Supportate
+
+Puoi generare libri in 7 lingue:
+🇮🇹 Italiano 🇬🇧 Inglese 🇫🇷 Francese 🇪🇸 Spagnolo 🇩🇪 Tedesco 🇵🇹 Portoghese 🇳🇱 Olandese
+🎨 Generi e Toni
+
+Puoi scegliere tra oltre 50 generi tra narrativa (fiction) e saggistica (non‑fiction), più 10 toni narrativi, oppure lasciare che l'AI scelga per te.
+📚 Fiction (narrativa)
+📖 Fantasy 🚀 Fantascienza 🕵️ Giallo 🔪 Thriller ❤️ Romanzo Rosa 🏛️ Storico 👻 Horror 🌍 Avventura 📚 Letterario 📌 Distopico 🕯️ Gotico 🧠 Psicologico 😏 Satira ⏳ Suspense 🤠 Western 🧸 Bambini 🌱 Crescita
+📘 Non‑fiction (saggistica, guide, manuali)
+🌿 Giardinaggio 💪 Salute e fitness 📜 Storia 🏠 Casa e abitazione 😂 Umorismo 🧒 Non-fiction per ragazzi 🎨 Arte e design 💼 Business ed economia 🍳 Cucina 🧘 Auto-aiuto 🔬 Scienza ✈️ Viaggi ⚖️ Giurisprudenza 🎓 Educazione 📊 Psicologia 🏛️ Filosofia 🎵 Musica 🐾 Animali domestici
+
+… e molti altri. La lista completa è disponibile nell’interfaccia di generazione.
+Toni disponibili per fiction:
+😊 Leggero e umoristico 🎭 Serio e drammatico ⚔️ Avventuroso e dinamico 🌙 Misterioso e cupo 📜 Poetico e riflessivo 🌑 Oscuro e inquietante 😔 Malinconico 🌟 Ispirazionale 🏰 Epico 😏 Sarcastico
+Toni disponibili non‑fiction:
+📘 Professionale e autorevole 🎓 Accademico e rigoroso 🛠️ Pratico e operativo 💬 Conversazionale e amichevole 🌟 Ispirazionale e motivante
+📦 Formati di Esportazione
+
+Al termine della generazione, riceverai il libro in tre formati:
+
+    📱 EPUB – per la lettura su e-reader e dispositivi mobili.
+    📄 DOCX – per l'editing avanzato con Microsoft Word.
+    📃 TXT – testo semplice, compatibile con qualsiasi editor.
+
+🔍 Funzionalità Avanzate
+
+    🧠 Memoria di recupero: L'AI ricorda eventi e situazioni dei capitoli precedenti.
+    🎭 Voci personaggio: Ogni personaggio parla con il suo stile unico.
+    🔁 Controllo di coerenza: Rileva contraddizioni narrative.
+    📈 Costi trasparenti: Il credito TEK viene scalato solo dopo ogni capitolo completato.
+    ⚙️ Fallback automatico: Se un modello non risponde, il sistema passa automaticamente a uno di riserva.
+
+Genera il tuo primo libro Acquista TEK
+❓ Domande Frequenti su Tektime BookGen AI
+1. Ho bisogno di competenze tecniche per usare Tektime BookGen AI?
+
+No. Basta una semplice idea e una descrizione della storia. Il sistema genera tutto in modo automatico.
+2. Quanto tempo richiede la generazione di un libro?
+
+Dipende dal numero di capitoli e dalla complessità. Un libro di 12 capitoli richiede in media 20-30 minuti, completamente in background.
+3. Posso modificare il libro generato?
+
+Certamente. Scarichi il file in formato DOCX e lo modifichi con qualsiasi editor di testo.
+4. La qualità del testo è sufficiente per la pubblicazione?
+
+Sì. Tektime BookGen AI è stato progettato per produrre testi di qualità editoriale, coerenti e privi di errori grammaticali, adatti alla pubblicazione su tutte le piattaforme.
+5. Devo per forza pubblicare con Tektime il nuovo libro generato?
+
+Assolutamente no. Puoi pubblicare il libro anche in completa autonomia, ma ti consigliamo di sfruttare la rete di distribuzione globale di Tektime per aumentare la visibilità dell’opera e massimizzare le opportunità di vendita.
+6. Posso generare un libro in una lingua diversa dall'italiano?
+
+Sì. Al momento sono supportate 7 lingue (italiano, inglese, francese, spagnolo, tedesco, portoghese, olandese).
+7. Posso scegliere il modello AI da utilizzare?
+
+Attualmente i modelli sono configurati per garantire il miglior rapporto qualità/prezzo. In futuro potrebbero essere introdotte opzioni per scegliere anche i modelli.
+8. Come vengono gestiti i diritti d'autore del libro generato?
+
+Il libro generato è di tua proprietà. Puoi pubblicarlo, venderlo e gestirlo come qualsiasi altra tua opera.
+9. Cosa sono i TEK?
+
+I TEK sono voucher virtuali acquistabili dal portafoglio. Ogni capitolo generato costa 0,2 TEK. Puoi vedere il tuo saldo TEK in alto a destra in ogni schermata, accanto al tuo nome.
+10. Cosa succede se i TEK a disposizione non sono sufficienti per completare il libro?
+
+La generazione del libro non verrà effettuata finché non avrai TEK sufficienti per il completamento dei capitoli richiesti.
+11. Posso generare libri di saggistica, guide tecniche o manuali?
+
+Sì. È possibile generare anche ottimi testi di saggistica con struttura logica ed esempi concreti.
+12. Posso interrompere la generazione e riprenderla?
+
+Sì. Puoi annullare il job quando vuoi ma i capitoli generati non potranno essere recuperati e i TEK saranno comunque scalati per i capitoli ultimati prima dell'interruzione.
+13. Posso generare un libro a partire da un mio manoscritto?
+
+Non al momento. Tektime BookGen AI genera il testo da zero a partire dalla tua idea iniziale.
+14. Il costo per la generazione di un libro non è troppo alto?
+
+Assolutamente no, anzi è un ottimo investimento. Se decidi di mettere in vendita il libro sul circuito globale di Tektime, ti basterà venderne anche una sola copia per recuperare interamente i costi di generazione. Tutto ciò che venderai da quel momento in poi sarà guadagno netto e royalty che continuerai a ricevere nel tempo.
+15. Sono un lettore. Perché dovrei utilizzare Tektime BookGen AI?
+
+Quante volte ti è capitato di acquistare un libro basandoti su una bella copertina, per poi abbandonarlo dopo poche pagine perché la trama non decollava o il finale era deludente? Con Tektime BookGen AI non ti affidi più al caso: diventi il regista delle tue letture.
+
+Ecco perché questo strumento cambierà radicalmente il tuo modo di leggere:
+
+    🎯 Storie su misura al 100%: Sei tu a decidere gli ingredienti perfetti. Desideri un thriller psicologico ambientato nella Londra vittoriana con un finale totalmente inaspettato? O un fantasy epico dal tono leggero e umoristico? L'AI combinerà esattamente le tue preferenze creando una storia costruita intorno ai tuoi gusti.
+    🛑 Niente più delusioni o sprechi: Eliminando l'intermediazione delle scelte editoriali di altri, azzeri il rischio di comprare libri che non ti appassionano. Ogni capitolo è scritto esclusivamente per intrattenere te.
+    🎨 Sperimenta combinazioni uniche: Puoi incrociare generi e toni narrativi. Vuoi unire la passione per il giardinaggio a un mistero poliziesco? O la fantascienza a un romanzo rosa? Puoi esplorare storie introvabili nelle librerie tradizionali.
+    📱 Leggi dove vuoi: Il tuo libro personalizzato viene generato in pochi minuti e potrai leggerlo online o scaricarlo subito in formato EPUB (perfetto per Kindle, Kobo, tablet e smartphone), oltre che in DOCX e TXT.
+    🎁 Inizia senza rischi: Puoi testare la potenza del sistema senza spendere nulla, sfruttando i 3 capitoli di prova gratuita per vedere l'AI all'opera sul tuo primo spunto narrativo.
+    📈💰 Pubblica e guadagna con la tua idea: Ti sei accorto di aver generato una storia straordinaria? Non tenerla solo per te. Una volta completato il tuo libro personalizzato, potrai decidere di metterlo in vendita e pubblicarlo globalmente sfruttando la rete di distribuzione di Tektime. Trasformati da semplice lettore ad autore e inizia a guadagnare fin da subito dalle vendite del tuo libro ideale!
+
+
 
