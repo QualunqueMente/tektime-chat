@@ -176,6 +176,16 @@ Le informazioni contrattuali complete sono contenute nei testi ufficiali (Contra
 
 Queste sintesi non sostituiscono i contratti ufficiali. In caso di conflitto tra quanto riportato qui e il testo contrattuale aggiornato, fa sempre fede il contratto firmato e la versione più recente pubblicata da Tektime.
 
+
+
+### 14ter. Contratti aggiuntivi (affiliazione, originali, cessione diritti)
+Oltre ai contratti di traduzione e narrazione, il materiale Tektime fa riferimento ad altri contratti standard:[file:42]
+- **Contratto di affiliazione**: disciplina il programma di affiliazione/referral, le percentuali spettanti all’affiliato sulle vendite generate dagli utenti invitati e le modalità di pagamento.
+- **Contratto pubblicazione originali**: regola nel dettaglio la pubblicazione e distribuzione dei libri originali, le commissioni, gli obblighi dell’autore e di Tektime, la durata dell’accordo e le cause di risoluzione, integrando quanto riassunto nella sezione 14bis.3.[file:42]
+- **Contratto di cessione diritti**: formalizza i casi in cui l’autore/editore cede a Tektime i diritti di traduzione e/o narrazione per determinate lingue/territori, pur mantenendo i diritti sull’opera originale. Specifica la durata, la ripartizione dei proventi e le modalità di recesso.
+
+I testi integrali di questi contratti non sono inclusi in questa knowledge base; in caso di domande puntuali su singole clausole, il modello deve sempre invitare a consultare il contratto ufficiale aggiornato, ricordando che questa è solo una sintesi non vincolante.[file:42]
+
 ## 15. Diritti e proprietà
 - I diritti sui libri originali restano dell’autore.
 - Nei flussi di traduzione/narrazione, i file originali vengono condivisi dopo la firma del contratto.
@@ -242,6 +252,17 @@ Previsto caricamento massivo tramite file metadata.xls e user_guide.xls.
 - Dorsi vuoti obbligatori per libri sotto 101 pagine; raccomandati sotto 130 pagine.
 - Il sistema inserisce codice a barre ISBN in box bianco 2”x1.2” nell’angolo inferiore destro del retro copertina, salvo barcode fornito dall’utente.
 - Devono essere rispettati i formati pagina supportati indicati nel materiale.
+
+
+## 21bis. Norme editoriali Tektime
+Le Norme Editoriali Tektime definiscono i requisiti minimi di qualità formale per i libri pubblicati tramite la piattaforma. In base al materiale disponibile, è esplicitato che i libri con formattazioni non consone o che non rispettino tali regole possono non essere accettati per la pubblicazione.[file:42]
+
+Le linee guida riguardano in particolare:
+- coerenza di struttura (capitoli, paragrafi, indici, note) e leggibilità;
+- assenza di formattazioni caotiche o improprie che compromettano l’esperienza di lettura;
+- rispetto delle leggi vigenti e delle policy Tektime su contenuti illeciti o inappropriati.
+
+Poiché i dettagli completi delle Norme Editoriali sono riportati nella pagina dedicata, in caso di dubbi il modello deve suggerire all’utente di consultare direttamente le Norme Editoriali aggiornate sul sito Tektime, specificando che fanno testo le versioni ufficiali, non questa sintesi.[file:42]
 
 ## 22. Requisiti audiolibro
 ### 22.1 Specifiche tecniche sintetiche
@@ -431,3 +452,13 @@ Dal materiale promozionale emergono alcuni messaggi chiave:
 - Tektime punta su un approccio **AI-aware**: promuove da un lato servizi AI come BookGen AI, dall’altro la certificazione **AI-Free** per opere create quasi esclusivamente da esseri umani, come leva di fiducia e marketing.[file:42][web:73][web:80]
 
 La missione, come sintetizzata nei testi istituzionali, è dare a ogni autore la possibilità di superare le barriere linguistiche e raggiungere lettori internazionali, mantenendo al tempo stesso un elevato standard di qualità (formattazione corretta, compatibilità dispositivi, audio professionale) e condizioni economiche trasparenti.[file:42][web:48][web:80]
+
+## 31. Regola lingua di risposta
+Il modello deve rispondere sempre nella stessa lingua utilizzata dall’utente per porre la domanda.
+
+Istruzioni operative:
+- Se la domanda è in italiano, rispondi in italiano.
+- Se la domanda è in inglese, rispondi in inglese.
+- Se la domanda contiene più lingue, scegli la lingua prevalente nel testo dell’utente; in caso di dubbio, privilegia la lingua usata per la parte principale della richiesta.
+- Non cambiare lingua a meno che l’utente lo chieda esplicitamente.
+
