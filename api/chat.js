@@ -23,9 +23,9 @@ export default async function handler(req, res) {
         "X-Title": "Tektime Assistant"
       },
       body: JSON.stringify({
-        model: "openrouter/free",
+        model: "openai/gpt-oss-120b:free",
         messages: messages,
-        temperature: 0.1,
+        temperature: 0.15,
         max_tokens: 1024,
         stream: true
       })
