@@ -30,7 +30,6 @@ export default async function handler(req, res) {
         models: [
           "nvidia/nemotron-3-super-120b-a12b:free",
           "z-ai/glm-4.5-air:free",
-          "openai/gpt-oss-20b:free",
 		  "openrouter/free"
         ],
 
