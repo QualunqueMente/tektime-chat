@@ -23,8 +23,18 @@ export default async function handler(req, res) {
         "X-Title": "Tektime Assistant"
       },
       body: JSON.stringify({
-        model: "openrouter/free",
-        messages: messages,
+        // modello principale
+        model: "openai/gpt-oss-120b:free",
+
+        // catena di fallback in ordine di priorità
+        models: [
+          "nvidia/nemotron-3-super-120b-a12b:free",
+          "z-ai/glm-4.5-air:free",
+          "openai/gpt-oss-20b:free",
+		  "openrouter/free"
+        ],
+
+        messages,
         temperature: 0.15,
         max_tokens: 1024,
         stream: true
@@ -33,7 +43,9 @@ export default async function handler(req, res) {
 
     if (!upstream.ok) {
       const err = await upstream.json();
-      return res.status(upstream.status).json({ error: err.error?.message || "Errore OpenRouter" });
+      return res
+        .status(upstream.status)
+        .json({ error: err.error?.message || "Errore OpenRouter" });
     }
 
     // Passa gli header SSE al browser
