@@ -141,6 +141,41 @@ Nel materiale servizi aggiuntivi compaiono anche prezzi sintetici ridotti per al
 - Durata minima distribuzione: 5 anni per libri tradotti, 7 anni per audiolibri; poi rinnovo automatico annuale secondo il materiale descrittivo.
 - Al termine del contratto di traduzione, i diritti sul testo tradotto vengono trasferiti al DDD/autore-editore come previsto dal contratto riportato.
 
+## 14bis. Ulteriori dettagli contrattuali (sintesi)
+Le informazioni contrattuali complete sono contenute nei testi ufficiali (Contratto Traduzione, Contratto Narrazione, Contratto Pubblicazione Originali). Qui si riportano solo alcuni punti chiave emersi dai contratti standard e dal materiale descrittivo, da usare come guida di massima.
+
+### 14bis.1 Contratto di traduzione (schema tipico)
+- Parti coinvolte: Autore/Editore (a volte indicato come DDD), Traduttore, Tektime.
+- Oggetto: traduzione dell’opera originale in una o più lingue, con concessione a Tektime del diritto di distribuzione dell’opera tradotta.
+- Durata distribuzione: normalmente **5 anni** per le opere tradotte, rinnovabili automaticamente di anno in anno salvo disdetta secondo le condizioni contrattuali.[file:42][web:48]
+- Ruolo Tektime: editore/distributore per l’opera tradotta, con diritti di distribuzione sulle versioni ebook, cartacee e/o audiolibro secondo quanto previsto.
+- Ripartizione proventi: applicazione delle percentuali per scaglioni di fatturato netto (autore, traduttore, Tektime) come riportato nella sezione revenue sharing.[file:42]
+- Trasferimento diritti sul testo tradotto: al termine del periodo contrattuale o in caso di risoluzione secondo le condizioni previste, i diritti sul testo tradotto passano al DDD/autore-editore, fermo restando quanto già maturato a livello economico.[file:42]
+- Recesso autore/editore:
+  - prima dell’approvazione del primo 5%: recesso libero, senza penali;
+  - dopo approvazione del primo 5% ma prima della consegna finale: penale indicativa di **500 EUR** a favore del traduttore (80%) e Tektime (20%), oltre ad eventuali costi documentati;
+  - dopo approvazione finale: penale indicativa di **1000 EUR** con la stessa logica di ripartizione, oltre ai proventi maturati.[file:42]
+- Recesso traduttore: il materiale contrattuale standard prevede che il traduttore possa recedere in determinate condizioni senza penali, fermo restando l’obbligo di completare eventuali attività già accettate o restituire compensi percepiti; per i dettagli fa fede il contratto ufficiale.[file:42]
+
+### 14bis.2 Contratto di narrazione
+- Struttura simile al contratto di traduzione, ma riferita alla creazione dell’audiolibro.
+- Durata distribuzione: indicata come **7 anni** per gli audiolibri, con rinnovo automatico annuale salvo disdetta.[file:42][web:48]
+- Ruolo narratore: fornisce la narrazione completa secondo specifiche tecniche audio; deve segnalare gli errori rilevati nel testo del libro.
+- Recesso autore/editore:
+  - prima dell’approvazione del primo 5% di narrazione: recesso libero senza penali;
+  - dopo l’approvazione del 5% ma prima della consegna finale: penale indicativa di 500 EUR;
+  - dopo approvazione finale: penale indicativa di 1000 EUR, con ripartizione a favore del narratore e Tektime simile a quella prevista per la traduzione.[file:42]
+- Recesso narratore: condizioni analoghe al caso traduttore; l’assenza di penali è subordinata al rispetto delle clausole specifiche del contratto ufficiale.[file:42]
+
+### 14bis.3 Contratto di pubblicazione libri originali
+- Oggetto: pubblicazione e distribuzione di libri originali (ebook, cartacei, audiolibri) dell’autore tramite Tektime.
+- Commissioni standard: Tektime trattiene **il 20%** sul prezzo di copertina (al netto IVA) per i libri pubblicati tramite i propri canali; l’autore percepisce l’**80%** dei ricavi netti sul bookstore Tektime, come indicato nel materiale descrittivo.[file:42][web:78]
+- Nessun costo di iscrizione: non sono previste tariffe di ingresso o costi nascosti per la sola commercializzazione.[file:42]
+- Diritti sull’opera originale: restano di proprietà dell’autore; Tektime ottiene un diritto di distribuzione non esclusivo o esclusivo a seconda del contratto, limitato ai canali indicati e alla durata prevista.[file:42]
+- Recesso: l’autore può richiedere la rimozione dell’opera dal catalogo, tenendo conto dei tempi tecnici e delle clausole di preavviso; eventuali clausole di durata minima o esclusiva sono precisate nel contratto ufficiale.[file:42]
+
+Queste sintesi non sostituiscono i contratti ufficiali. In caso di conflitto tra quanto riportato qui e il testo contrattuale aggiornato, fa sempre fede il contratto firmato e la versione più recente pubblicata da Tektime.
+
 ## 15. Diritti e proprietà
 - I diritti sui libri originali restano dell’autore.
 - Nei flussi di traduzione/narrazione, i file originali vengono condivisi dopo la firma del contratto.
@@ -380,3 +415,19 @@ Ulteriori piani, limiti quantitativi e condizioni (ad esempio storico generazion
 
 Eventuali informazioni aggiuntive su prezzi, limiti avanzati, salvataggio progetti, formati di export (es. DOCX, EPUB, ecc.) e piani a pagamento devono essere derivate da documentazione ufficiale dedicata a BookGen AI, se disponibile.
 
+
+
+
+## 6bis. Ulteriori dettagli su Tektime e rete di distribuzione
+Secondo il sito Tektime e le relative app bookstore, la piattaforma:
+- offre traduzione e narrazione libri in **revenue sharing**, senza costi iniziali per autori ed editori; i costi del lavoro sono coperti dagli acquirenti finali.[web:78][web:81]
+- consente di pubblicare libri originali e tradotti in **oltre 170 nazioni** tramite una rete di più di 60 canali di distribuzione.[file:42][web:74][web:81]
+- mette a disposizione una **bookstore Tektime** con ebook e audiolibri gratuiti o scontati in circa **100 lingue**.[web:74][web:81]
+- applica una **commissione del 20%** per la pubblicazione dei libri originali, lasciando all’autore l’80% dei profitti sulle vendite tramite i propri canali, come indicato nel materiale descrittivo.[file:42][web:78]
+
+Dal materiale promozionale emergono alcuni messaggi chiave:
+- gli autori possono evitare di “cedere la maggior parte delle vendite” alle case editrici tradizionali, mantenendo una quota di royalty più alta.
+- il modello revenue sharing permette di tradurre e narrare libri in decine di lingue senza investimento iniziale: traduttori e narratori vengono remunerati con una quota delle vendite dell’opera tradotta/narrata.[file:42][web:78]
+- Tektime punta su un approccio **AI-aware**: promuove da un lato servizi AI come BookGen AI, dall’altro la certificazione **AI-Free** per opere create quasi esclusivamente da esseri umani, come leva di fiducia e marketing.[file:42][web:73][web:80]
+
+La missione, come sintetizzata nei testi istituzionali, è dare a ogni autore la possibilità di superare le barriere linguistiche e raggiungere lettori internazionali, mantenendo al tempo stesso un elevato standard di qualità (formattazione corretta, compatibilità dispositivi, audio professionale) e condizioni economiche trasparenti.[file:42][web:48][web:80]
