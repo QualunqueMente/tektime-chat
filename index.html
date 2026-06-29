@@ -18,7 +18,7 @@
       background: #f0f2f5;
       display: flex;
       flex-direction: column;
-      height: 100dvh; /* dynamic viewport height — fondamentale su mobile */
+      height: 100dvh;
     }
 
     header {
@@ -208,7 +208,6 @@
       text-decoration: underline;
     }
 
-    /* Stili per i tag HTML generati dalla conversione */
     .bot-message strong { font-weight: 700; }
     .bot-message em { font-style: italic; }
     .bot-message ul, .bot-message ol { padding-left: 1.5em; margin: 0.3em 0; }
@@ -253,25 +252,24 @@
   let welcomeRemoved      = false;
 
   // Funzione per convertire il Markdown di base in HTML
-  // Trasforma **testo** in <strong>testo</strong> e *testo* in <em>testo</em>
   function formatMarkdown(text) {
-    // Prima esegue l'escape dei caratteri HTML per sicurezza
+    // Escape HTML per sicurezza
     const escaped = text.replace(/[&<>"]/g, function(m) {
       if (m === '&') return '&amp;';
       if (m === '<') return '&lt;';
       if (m === '>') return '&gt;';
       if (m === '"') return '&quot;';
     });
-    // Poi sostituisce **grassetto** (non greedy per gestire asterischi annidati)
+    // **grassetto**
     let html = escaped.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-    // Poi sostituisce *corsivo* (ma non se già parte di grassetto)
+    // *corsivo*
     html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
-    // Gestisce i caratteri newline come <br> per preservare i paragrafi
+    // Newline in <br>
     html = html.replace(/\n/g, '<br>');
     return html;
   }
 
-  // Su mobile, quando si apre la tastiera il viewport cambia:
+  // Su mobile, quando si apre la tastiera il viewport cambia
   if (typeof visualViewport !== "undefined") {
     visualViewport.addEventListener("resize", () => {
       chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -300,7 +298,7 @@
     removeWelcome();
     const div = document.createElement("div");
     div.className = "message " + type + "-message";
-    // Per messaggi utente ed errori usiamo textContent (testo normale)
+    // Per messaggi utente ed errori usiamo textContent
     div.textContent = text;
     chatContainer.appendChild(div);
     chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -336,7 +334,6 @@
     userInput.style.height = "auto";
     sendBtn.disabled = true;
     showTyping();
-
     userInput.blur();
 
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
@@ -371,6 +368,7 @@ ${documentContent}
 
       removeTyping();
 
+      // Crea il div per il bot
       const botDiv = addMessage("", "bot");
       botDiv.classList.add("streaming");
 
@@ -379,6 +377,7 @@ ${documentContent}
       let fullReply = "";
       let buffer    = "";
 
+      // Leggi lo stream
       while (true) {
         const { done, value } = await reader.read();
         if (done) break;
@@ -396,27 +395,37 @@ ${documentContent}
             const token = json.choices?.[0]?.delta?.content || "";
             if (token) {
               fullReply += token;
-              // Durante lo streaming mostriamo il testo grezzo (con gli asterischi)
+              // Mostra il testo grezzo durante lo streaming
               botDiv.textContent = fullReply;
               chatContainer.scrollTop = chatContainer.scrollHeight;
             }
-          } catch (_) {}
+          } catch (_) {
+            // Ignora righe non valide
+          }
         }
       }
 
+      // Rilascia il reader
+      reader.releaseLock();
+
+      // Rimuovi l'indicatore di streaming
       botDiv.classList.remove("streaming");
 
+      // Ora converti il markdown in HTML e sostituisci il contenuto
       if (fullReply) {
-        // Convertiamo il Markdown in HTML (grassetto, corsivo, newline)
         const html = formatMarkdown(fullReply);
         botDiv.innerHTML = html;
+        chatContainer.scrollTop = chatContainer.scrollHeight;
 
-        // Salviamo la cronologia con il testo originale (senza HTML)
+        // Aggiorna la cronologia con il testo originale
         conversationHistory.push({ role: "user",      content: text      });
         conversationHistory.push({ role: "assistant", content: fullReply });
         if (conversationHistory.length > 20) {
           conversationHistory = conversationHistory.slice(-20);
         }
+      } else {
+        botDiv.textContent = "Risposta vuota ricevuta.";
+        botDiv.className = "message error-message";
       }
 
     } catch (e) {
