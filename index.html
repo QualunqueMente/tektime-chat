@@ -4,8 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <title>Tektime Assistant</title>
-  <!-- Libreria Markdown (minificata) -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -141,7 +139,6 @@
       background: white;
       border-top: 1px solid #e0e0e0;
       flex-shrink: 0;
-      /* evita che la tastiera mobile nasconda la casella */
       padding-bottom: max(10px, env(safe-area-inset-bottom));
     }
 
@@ -150,7 +147,7 @@
       padding: 10px 14px;
       border: 1.5px solid #ddd;
       border-radius: 24px;
-      font-size: 1rem; /* minimo 16px su iOS evita lo zoom automatico */
+      font-size: 1rem;
       outline: none;
       resize: none;
       max-height: 100px;
@@ -211,7 +208,7 @@
       text-decoration: underline;
     }
 
-    /* Stili extra per il Markdown convertito in HTML */
+    /* Stili per i tag HTML generati dalla conversione */
     .bot-message strong { font-weight: 700; }
     .bot-message em { font-style: italic; }
     .bot-message ul, .bot-message ol { padding-left: 1.5em; margin: 0.3em 0; }
@@ -255,8 +252,26 @@
   let conversationHistory = [];
   let welcomeRemoved      = false;
 
+  // Funzione per convertire il Markdown di base in HTML
+  // Trasforma **testo** in <strong>testo</strong> e *testo* in <em>testo</em>
+  function formatMarkdown(text) {
+    // Prima esegue l'escape dei caratteri HTML per sicurezza
+    const escaped = text.replace(/[&<>"]/g, function(m) {
+      if (m === '&') return '&amp;';
+      if (m === '<') return '&lt;';
+      if (m === '>') return '&gt;';
+      if (m === '"') return '&quot;';
+    });
+    // Poi sostituisce **grassetto** (non greedy per gestire asterischi annidati)
+    let html = escaped.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    // Poi sostituisce *corsivo* (ma non se già parte di grassetto)
+    html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
+    // Gestisce i caratteri newline come <br> per preservare i paragrafi
+    html = html.replace(/\n/g, '<br>');
+    return html;
+  }
+
   // Su mobile, quando si apre la tastiera il viewport cambia:
-  // scorriamo in basso per tenere visibile l ultima risposta
   if (typeof visualViewport !== "undefined") {
     visualViewport.addEventListener("resize", () => {
       chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -285,7 +300,7 @@
     removeWelcome();
     const div = document.createElement("div");
     div.className = "message " + type + "-message";
-    // Per i messaggi di errore o utente usiamo textContent (sicuro)
+    // Per messaggi utente ed errori usiamo textContent (testo normale)
     div.textContent = text;
     chatContainer.appendChild(div);
     chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -322,7 +337,6 @@
     sendBtn.disabled = true;
     showTyping();
 
-    // Nascondi tastiera su mobile dopo invio
     userInput.blur();
 
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
@@ -382,7 +396,7 @@ ${documentContent}
             const token = json.choices?.[0]?.delta?.content || "";
             if (token) {
               fullReply += token;
-              // Durante lo streaming mostriamo il testo grezzo (i marcatori ** sono visibili)
+              // Durante lo streaming mostriamo il testo grezzo (con gli asterischi)
               botDiv.textContent = fullReply;
               chatContainer.scrollTop = chatContainer.scrollHeight;
             }
@@ -390,16 +404,14 @@ ${documentContent}
         }
       }
 
-      // Rimuoviamo l'indicatore di streaming
       botDiv.classList.remove("streaming");
 
-      // Se la risposta non è vuota, convertiamo il Markdown in HTML
       if (fullReply) {
-        // Usiamo marked.parse per convertire **grassetto**, *corsivo*, elenchi, ecc.
-        const html = marked.parse(fullReply);
+        // Convertiamo il Markdown in HTML (grassetto, corsivo, newline)
+        const html = formatMarkdown(fullReply);
         botDiv.innerHTML = html;
 
-        // Aggiorniamo la cronologia con il testo grezzo (non HTML)
+        // Salviamo la cronologia con il testo originale (senza HTML)
         conversationHistory.push({ role: "user",      content: text      });
         conversationHistory.push({ role: "assistant", content: fullReply });
         if (conversationHistory.length > 20) {
