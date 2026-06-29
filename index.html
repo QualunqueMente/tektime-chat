@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <title>Tektime Assistant</title>
+  <!-- Libreria Markdown (minificata) -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -191,6 +193,7 @@
 
     .welcome h2 { font-size: 1.2rem; color: #1a1a2e; margin-bottom: 10px; }
     .welcome p  { font-size: 0.88rem; line-height: 1.8; }
+
     #disclaimer {
       width: 100%;
       max-width: 800px;
@@ -208,6 +211,13 @@
       text-decoration: underline;
     }
 
+    /* Stili extra per il Markdown convertito in HTML */
+    .bot-message strong { font-weight: 700; }
+    .bot-message em { font-style: italic; }
+    .bot-message ul, .bot-message ol { padding-left: 1.5em; margin: 0.3em 0; }
+    .bot-message li { margin: 0.2em 0; }
+    .bot-message code { background: #f0f0f0; padding: 0.1em 0.4em; border-radius: 4px; font-size: 0.9em; }
+    .bot-message pre { background: #f0f0f0; padding: 0.8em; border-radius: 6px; overflow-x: auto; }
   </style>
 </head>
 <body>
@@ -275,6 +285,7 @@
     removeWelcome();
     const div = document.createElement("div");
     div.className = "message " + type + "-message";
+    // Per i messaggi di errore o utente usiamo textContent (sicuro)
     div.textContent = text;
     chatContainer.appendChild(div);
     chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -371,6 +382,7 @@ ${documentContent}
             const token = json.choices?.[0]?.delta?.content || "";
             if (token) {
               fullReply += token;
+              // Durante lo streaming mostriamo il testo grezzo (i marcatori ** sono visibili)
               botDiv.textContent = fullReply;
               chatContainer.scrollTop = chatContainer.scrollHeight;
             }
@@ -378,9 +390,16 @@ ${documentContent}
         }
       }
 
+      // Rimuoviamo l'indicatore di streaming
       botDiv.classList.remove("streaming");
 
+      // Se la risposta non è vuota, convertiamo il Markdown in HTML
       if (fullReply) {
+        // Usiamo marked.parse per convertire **grassetto**, *corsivo*, elenchi, ecc.
+        const html = marked.parse(fullReply);
+        botDiv.innerHTML = html;
+
+        // Aggiorniamo la cronologia con il testo grezzo (non HTML)
         conversationHistory.push({ role: "user",      content: text      });
         conversationHistory.push({ role: "assistant", content: fullReply });
         if (conversationHistory.length > 20) {
