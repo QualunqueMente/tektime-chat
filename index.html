@@ -18,7 +18,7 @@
       background: #f0f2f5;
       display: flex;
       flex-direction: column;
-      height: 100dvh;
+      height: 100dvh; /* dynamic viewport height — fondamentale su mobile */
     }
 
     header {
@@ -139,6 +139,7 @@
       background: white;
       border-top: 1px solid #e0e0e0;
       flex-shrink: 0;
+      /* evita che la tastiera mobile nasconda la casella */
       padding-bottom: max(10px, env(safe-area-inset-bottom));
     }
 
@@ -147,7 +148,7 @@
       padding: 10px 14px;
       border: 1.5px solid #ddd;
       border-radius: 24px;
-      font-size: 1rem;
+      font-size: 1rem; /* minimo 16px su iOS evita lo zoom automatico */
       outline: none;
       resize: none;
       max-height: 100px;
@@ -190,7 +191,6 @@
 
     .welcome h2 { font-size: 1.2rem; color: #1a1a2e; margin-bottom: 10px; }
     .welcome p  { font-size: 0.88rem; line-height: 1.8; }
-
     #disclaimer {
       width: 100%;
       max-width: 800px;
@@ -208,12 +208,6 @@
       text-decoration: underline;
     }
 
-    .bot-message strong { font-weight: 700; }
-    .bot-message em { font-style: italic; }
-    .bot-message ul, .bot-message ol { padding-left: 1.5em; margin: 0.3em 0; }
-    .bot-message li { margin: 0.2em 0; }
-    .bot-message code { background: #f0f0f0; padding: 0.1em 0.4em; border-radius: 4px; font-size: 0.9em; }
-    .bot-message pre { background: #f0f0f0; padding: 0.8em; border-radius: 6px; overflow-x: auto; }
   </style>
 </head>
 <body>
@@ -251,25 +245,8 @@
   let conversationHistory = [];
   let welcomeRemoved      = false;
 
-  // Funzione per convertire il Markdown di base in HTML
-  function formatMarkdown(text) {
-    // Escape HTML per sicurezza
-    const escaped = text.replace(/[&<>"]/g, function(m) {
-      if (m === '&') return '&amp;';
-      if (m === '<') return '&lt;';
-      if (m === '>') return '&gt;';
-      if (m === '"') return '&quot;';
-    });
-    // **grassetto**
-    let html = escaped.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-    // *corsivo*
-    html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
-    // Newline in <br>
-    html = html.replace(/\n/g, '<br>');
-    return html;
-  }
-
-  // Su mobile, quando si apre la tastiera il viewport cambia
+  // Su mobile, quando si apre la tastiera il viewport cambia:
+  // scorriamo in basso per tenere visibile l ultima risposta
   if (typeof visualViewport !== "undefined") {
     visualViewport.addEventListener("resize", () => {
       chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -298,7 +275,6 @@
     removeWelcome();
     const div = document.createElement("div");
     div.className = "message " + type + "-message";
-    // Per messaggi utente ed errori usiamo textContent
     div.textContent = text;
     chatContainer.appendChild(div);
     chatContainer.scrollTop = chatContainer.scrollHeight;
@@ -334,6 +310,8 @@
     userInput.style.height = "auto";
     sendBtn.disabled = true;
     showTyping();
+
+    // Nascondi tastiera su mobile dopo invio
     userInput.blur();
 
     const systemPrompt = `You are Tektime Assistant, the official virtual assistant for Tektime — a publishing services company specializing in book translation, audiobook narration, and self-publishing in 78 languages.
@@ -368,7 +346,6 @@ ${documentContent}
 
       removeTyping();
 
-      // Crea il div per il bot
       const botDiv = addMessage("", "bot");
       botDiv.classList.add("streaming");
 
@@ -377,7 +354,6 @@ ${documentContent}
       let fullReply = "";
       let buffer    = "";
 
-      // Leggi lo stream
       while (true) {
         const { done, value } = await reader.read();
         if (done) break;
@@ -395,37 +371,21 @@ ${documentContent}
             const token = json.choices?.[0]?.delta?.content || "";
             if (token) {
               fullReply += token;
-              // Mostra il testo grezzo durante lo streaming
               botDiv.textContent = fullReply;
               chatContainer.scrollTop = chatContainer.scrollHeight;
             }
-          } catch (_) {
-            // Ignora righe non valide
-          }
+          } catch (_) {}
         }
       }
 
-      // Rilascia il reader
-      reader.releaseLock();
-
-      // Rimuovi l'indicatore di streaming
       botDiv.classList.remove("streaming");
 
-      // Ora converti il markdown in HTML e sostituisci il contenuto
       if (fullReply) {
-        const html = formatMarkdown(fullReply);
-        botDiv.innerHTML = html;
-        chatContainer.scrollTop = chatContainer.scrollHeight;
-
-        // Aggiorna la cronologia con il testo originale
         conversationHistory.push({ role: "user",      content: text      });
         conversationHistory.push({ role: "assistant", content: fullReply });
         if (conversationHistory.length > 20) {
           conversationHistory = conversationHistory.slice(-20);
         }
-      } else {
-        botDiv.textContent = "Risposta vuota ricevuta.";
-        botDiv.className = "message error-message";
       }
 
     } catch (e) {
